@@ -9,3 +9,30 @@ fields:
 - name: hidden
   type: boolean
   label: hidden
+- name: title
+  type: text
+  config:
+    required: true
+  label: title
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: description
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
