@@ -1,4 +1,11 @@
 ---
 label: default
 hide_body: false
-fields: []
+fields:
+- name: featured
+  type: boolean
+  label: featured
+  hidden: false
+- name: hidden
+  type: boolean
+  label: hidden
