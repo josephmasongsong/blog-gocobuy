@@ -3,7 +3,7 @@ name: "CoBuy"
 title: "CoBuy"
 description: "Info and resources for anyone looking to co-buy a home in greater Seattle."
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.png'
 baseurl: ''
 google_analytics: 'UA-86661345-1'
 fb_pixel: '682416605852271'
