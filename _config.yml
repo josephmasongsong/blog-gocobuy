@@ -5,31 +5,28 @@ description: "Info and resources for anyone looking to co-buy a home in greater 
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-86661345-1'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
-  sal:
-    name: Sal
-    display_name: Sal
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
-    name: John
-    display_name: John    
-    avatar: 'assets/images/avatar.png'
-    gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-
+  mat:
+    name: Matt Holmes
+    display_name: Matt Holmes
+    email: matt@gocobuy.com
+    twitter: https://twitter.com/gocobuy
+    avatar: 'assets/images/mat.png'
+    description: "Global explorer. Dual US/UK national. Former investment banker. Real estate enthusiast. Rock&roll lover."
+  pat:
+    name: Pamela Hughes
+    display_name: Pamela Hughes
+    email: pam@gocobuy.com
+    avatar: 'assets/images/pat.png'
+    description: "Veteran real estate, construction, investment, and insurance executive/entrepreneur with 25 years in leadership positions. Led six-sigma efforts at GE Financial Assurance. Founded & ran HBC, a builder-developer of homes and condos across Greater Seattle. Licensed RE agent, Principal Managing Broker, and Real Estate Investment Advisor. Life-long student, investor, co-buyer."
+  
+  
 # Plugins
 plugins:
   - jekyll-paginate
