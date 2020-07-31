@@ -65,3 +65,14 @@ In the fall out, the parents expressed their grief at the irreconcilable damage 
 The bottom line.
 
 Approached intelligently, securing financial support from friends or family can be a great way to get on the property ladder and start building equity as a homeowner. Those who do choose this route are wise to plan and document the arrangement carefully. Ultimately, it’s a good idea to consult licensed lending, legal, and tax professionals who have relevant domain expertise. With money, relationships, and a home at stake, there’s no sense in spending a dollar to save a dime.
+
+***
+<span style="float: center">
+## CoBuyer Genya S.
+
+Learn how CoBuy helped Genya and her partner navigate the process of co-buying a home with support from family members.
+
+<iframe allowfullscreen="" class="brz-iframe lazy-loaded" data-lazy-type="iframe" data-src="https://www.youtube.com/embed/ij4liE_fhkU?autoplay=0&controls=1&start=0&end=0&modestbranding=0&wmode=transparent&enablejsapi=1&loop=0&rel=0" src="https://www.youtube.com/embed/ij4liE_fhkU?autoplay=0&controls=1&start=0&end=0&modestbranding=0&wmode=transparent&enablejsapi=1&loop=0&rel=0"></iframe>
+
+<noscript><iframe allowfullscreen class="brz-iframe" src="https://www.youtube.com/embed/ij4liE_fhkU?autoplay=0&controls=1&start=0&end=0&modestbranding=0&wmode=transparent&enablejsapi=1&loop=0&rel=0"></iframe></noscript>
+</span>
