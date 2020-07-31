@@ -11,9 +11,8 @@ sections:
   label: Posts
   create: all
 - type: document
-  path: data/menus.yml
+  path: _data/menus.yml
   label: Menus
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
