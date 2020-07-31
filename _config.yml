@@ -8,26 +8,7 @@ baseurl: ''
 google_analytics: 'UA-86661345-1'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages", "robots.txt"]
-permalink: /:title/
-
-# Authors
-authors:
-  mat:
-    name: Matt Holmes
-    display_name: Matt Holmes
-    email: matt@gocobuy.com
-    twitter: https://twitter.com/gocobuy
-    avatar: 'assets/images/mat.png'
-    avatar_small: 'assets/images/mat-small.png'
-    description: "Global explorer. Dual US/UK national. Former investment banker. Real estate enthusiast. Rock&roll lover."
-  pat:
-    name: Pamela Hughes
-    display_name: Pamela Hughes
-    email: pam@gocobuy.com
-    avatar: 'assets/images/pat.png'
-    avatar_small: 'assets/images/pat-small.png'
-    description: "Veteran real estate, construction, investment, and insurance executive/entrepreneur with 25 years in leadership positions. Led six-sigma efforts at GE Financial Assurance. Founded & ran HBC, a builder-developer of homes and condos across Greater Seattle. Licensed RE agent, Principal Managing Broker, and Real Estate Investment Advisor. Life-long student, investor, co-buyer."
-  
+permalink: /:title/  
   
 # Plugins
 plugins:
