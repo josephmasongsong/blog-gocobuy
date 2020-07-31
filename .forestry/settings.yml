@@ -5,13 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: _config.yml
+  label: config
+  match: "**/*"
+- type: document
   path: robots.txt
   label: robots.txt
-  match: "**/*"
 - type: document
   path: 404.html
   label: '404'
-  match: "**/*"
 - type: document
   path: index.html
   label: index
