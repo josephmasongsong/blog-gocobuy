@@ -13,6 +13,7 @@ featured: false
 hidden: false
 permalink: housing-market-trends-to-watch-in-2020
 layout: ''
+date: 2020-01-21 20:00:00 +0000
 
 ---
 1\. National housing shortage
