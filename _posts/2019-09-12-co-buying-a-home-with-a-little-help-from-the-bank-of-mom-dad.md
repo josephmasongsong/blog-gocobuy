@@ -26,7 +26,7 @@ Many first-time buyers are turning to friends and family for financial assistanc
 
 **U.S. Mortgage Lenders by $ Volume in 2018**
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2962/assets/images/iW=497&iH=423&oX=0&oY=0&cW=497&cH=423/Bank-of-Mom-and-Dad-mortgage-lending.png)
+![](/assets/images/bank-of-mom-and-dad-mortgage-lending.png)
 
 Source: Bank of Mom and Dad, Legal & General 2019.
 
