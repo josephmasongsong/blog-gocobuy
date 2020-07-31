@@ -34,10 +34,6 @@ fields:
   type: tag_list
   default: []
   label: categories
-- name: tags
-  type: tag_list
-  default: []
-  label: tags
 - name: image
   type: file
   config:
