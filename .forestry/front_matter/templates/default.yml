@@ -11,11 +11,25 @@ fields:
   type: textarea
   default: ''
   config:
-    required: false
+    required: true
     wysiwyg: false
     schema:
       format: markdown
   label: description
+- name: author
+  type: select
+  default: []
+  config:
+    required: true
+    options:
+    - mat
+    - pat
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: author
 - name: categories
   type: tag_list
   default: []
