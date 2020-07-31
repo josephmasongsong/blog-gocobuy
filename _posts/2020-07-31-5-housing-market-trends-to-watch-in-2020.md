@@ -12,6 +12,7 @@ image: "/assets/images/blog-gocobuy-com.png"
 featured: false
 hidden: false
 permalink: housing-market-trends-to-watch-in-2020
+layout: ''
 
 ---
 1\. National housing shortage
