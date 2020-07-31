@@ -17,9 +17,6 @@ sections:
   label: Pages
   create: documents
   match: "*.md"
-- type: document
-  path: _data/menus.yml
-  label: Menus
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
