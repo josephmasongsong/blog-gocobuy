@@ -1,6 +1,10 @@
 ---
 author: mat
-categories: []
+categories:
+- CoBuying
+- Family
+- How to
+- real estate
 layout: post
 title: Co-buying a home with a little help from the Bank of Mom & Dad
 description: We examine the risks and best practice for co-buying a home with financial
