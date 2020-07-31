@@ -8,11 +8,11 @@ tags: []
 title: 5 housing market trends to watch in 2020
 description: We look at the big picture and highlight the trends most likely to shape
   the housing market over the year ahead.
-image: "/assets/images/blog-gocobuy-com.png"
+image: /assets/images/blog-gocobuy-com.png
 featured: false
 hidden: false
 permalink: housing-market-trends-to-watch-in-2020
-layout: ''
+layout: 'post'
 date: 2020-01-21 20:00:00 +0000
 
 ---
