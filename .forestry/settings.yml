@@ -10,6 +10,7 @@ sections:
   create: documents
   match: "*.md"
   templates:
+  - default
   - post
 - type: directory
   path: _pages
