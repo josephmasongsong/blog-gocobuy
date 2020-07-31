@@ -4,19 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: document
-  path: _config.yml
-  label: config
-  match: "**/*"
-- type: document
-  path: robots.txt
-  label: robots.txt
-- type: document
-  path: 404.html
-  label: '404'
-- type: document
-  path: index.html
-  label: index
+- type: directory
+  path: _data
+  label: Data
+  create: all
+  match: "*.*"
 - type: directory
   path: _posts
   label: Posts
@@ -30,6 +22,9 @@ sections:
   label: Pages
   create: documents
   match: "*.md"
+- type: document
+  path: index.html
+  label: index
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
