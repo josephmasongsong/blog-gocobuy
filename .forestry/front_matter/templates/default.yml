@@ -50,5 +50,10 @@ fields:
 - name: hidden
   type: boolean
   label: hidden
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: permalink
 pages:
 - _posts/5-housing-market-trends-to-watch-in-2020.md
