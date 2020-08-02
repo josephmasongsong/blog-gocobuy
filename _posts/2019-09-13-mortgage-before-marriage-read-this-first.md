@@ -10,7 +10,7 @@ image: "/assets/images/mortgage-before-marriage-unmarried-couple-co-buying-1600x
 featured: false
 hidden: false
 date: 2019-09-13 20:00:00 +0000
-permalink: mortgage-before-marriage-read-this-first
+permalink: /mortgage-before-marriage-read-this-first
 
 ---
 Americans are [getting married later](https://www.federalreserve.gov/econres/feds/files/2018080pap.pdf), and less often. The ways we meet, work, and live are changing. One thing that hasn’t changed: most people want to own a home. A 2018 study by Bank of America found that millennials [prioritize homeownership over marriage, having kids, and traveling the world](https://info.bankofamerica.com/assets/pdfs/BofA_2018_HBIR.pdf). So it comes as no surprise that [more unmarried couples are buying a home together](https://www.nar.realtor/blogs/economists-outlook/throwback-thursday-first-time-homebuyers-then-and-now) before tying the knot than ever before. If diamonds are forever, they’re also expensive and non-refundable. A home has upside potential and a liquid secondary market.

@@ -13,7 +13,7 @@ image: "/assets/images/co-buying-a-home-bank-of-mom-and-dad-e1568328074673.jpeg"
 featured: false
 hidden: false
 date: 2019-09-12 20:00:00 +0000
-permalink: buying-with-help-bank-of-mom-and-dad
+permalink: /buying-with-help-bank-of-mom-and-dad
 
 ---
 It’s tough out there for young adults who want to buy a home.

@@ -13,7 +13,7 @@ image: "/assets/images/cobuy-certified-mortgage-pro-1600x900.jpg"
 featured: false
 hidden: false
 date: 2019-10-07 20:00:00 +0000
-permalink: cobuy-certified-mortgage-pro-trevor-reese
+permalink: /cobuy-certified-mortgage-pro-trevor-reese
 
 ---
 **CoBuy-certified™**
