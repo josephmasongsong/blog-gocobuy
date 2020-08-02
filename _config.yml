@@ -9,8 +9,8 @@ google_analytics: 'UA-86661345-1'
 fb_pixel: '682416605852271'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages", "robots.txt"]
-permalink: /:title/  
-  
+permalink: /:title/
+
 # Plugins
 plugins:
   - jekyll-paginate
@@ -19,7 +19,8 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-menus
-    
+  - jekyll-embeds
+
 # Archives
 jekyll-archives:
   enabled:
@@ -27,11 +28,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    
-# Pagination 
+
+# Pagination
 paginate: 6
 paginate_path: /page:num/
-    
+
 # Other
 markdown: kramdown
 

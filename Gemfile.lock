@@ -33,6 +33,8 @@ GEM
       terminal-table (~> 1.8)
     jekyll-archives (2.2.1)
       jekyll (>= 3.6, < 5.0)
+    jekyll-embeds (0.0.8)
+      jekyll
     jekyll-feed (0.15.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-menus (0.6.1)
@@ -79,6 +81,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll
   jekyll-archives
+  jekyll-embeds
   jekyll-feed
   jekyll-menus
   jekyll-paginate

@@ -71,6 +71,4 @@ Approached intelligently, securing financial support from friends or family can 
 
 Learn how CoBuy helped Genya and her partner navigate the process of co-buying a home with support from family members.
 
-<iframe allowfullscreen="" class="brz-iframe lazy-loaded" data-lazy-type="iframe" data-src="https://www.youtube.com/embed/ij4liE_fhkU?autoplay=0&controls=1&start=0&end=0&modestbranding=0&wmode=transparent&enablejsapi=1&loop=0&rel=0" src="https://www.youtube.com/embed/ij4liE_fhkU?autoplay=0&controls=1&start=0&end=0&modestbranding=0&wmode=transparent&enablejsapi=1&loop=0&rel=0"></iframe>
-
-<noscript><iframe allowfullscreen class="brz-iframe" src="https://www.youtube.com/embed/ij4liE_fhkU?autoplay=0&controls=1&start=0&end=0&modestbranding=0&wmode=transparent&enablejsapi=1&loop=0&rel=0"></iframe></noscript>
+{% youtube https://www.youtube.com/watch?v=ij4liE_fhkU %}
