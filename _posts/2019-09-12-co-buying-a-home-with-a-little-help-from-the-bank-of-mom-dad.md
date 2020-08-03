@@ -74,24 +74,36 @@ Learn how CoBuy helped Genya and her partner navigate the process of co-buying a
 
 {% youtube https://www.youtube.com/watch?v=ij4liE_fhkU %}
 
-***
+\***
 
-## Get in touch.
+\## Get in touch.
 
 CoBuy makes it easy to buy & own a home together, intelligently. We work with buyers to navigate the purchase process efficiently and effectively. Best of all, we don't charge buyers to use our service.
 
-Considering buying a home with friends, family, or a loved one? We'd love to hear from you. Create an account at [CoBuy](http://www.gocobuy.com) or drop us a note below for more info.
+Considering buying a home with friends, family, or a loved one? We'd love to hear from you. Create an account at \[CoBuy\]([http://www.gocobuy.com](http://www.gocobuy.com "http://www.gocobuy.com")) or drop us a note below for more info.
 
 <form name="post-contact" method="POST" data-netlify="true">
+
 <p class="form-group">
+
 <label form="formEmail">Email</label>
+
 <input type="email" name="email" class="form-control" id="formEmail" required/>
+
 </p>
+
 <p class="form-group">
+
 <label for="formMessage">Message <span class="text-danger">*</span></label>
+
 <textarea name="message" class="form-control" id="formMessage" required></textarea>
+
 </p>
+
 <p>
+
 <button type="submit" class="btn btn-primary">Submit</button>
+
 </p>
+
 </form>
