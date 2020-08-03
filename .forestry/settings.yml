@@ -25,6 +25,10 @@ sections:
 - type: document
   path: index.html
   label: index
+- type: document
+  path: _includes/layout/default.html
+  label: Default layout
+  match: "**/*"
 upload_dir: assets/images
 public_path: "/assets/images"
 front_matter_path: ''
