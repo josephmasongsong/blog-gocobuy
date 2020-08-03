@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact Us
-menus: header
+permalink: /contact
 ---
 
 <p>
@@ -9,6 +9,7 @@ Interested in <a href="https://www.gocobuy.com">CoBuy</a>, have a question, or w
 </p>
 
 <hr/>
+
 <p>
 Fields marked with an <span class="text-danger">*</span> are required
 </p>

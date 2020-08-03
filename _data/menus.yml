@@ -1,2 +1,9 @@
 ---
-header: []
+header:
+  - url: /about
+    title: About
+    identifier: about
+  - url: /contact
+    title: Contact
+    identifier: contact
+---
