@@ -1,15 +1,17 @@
 ---
 author: mat
 categories:
-  - Bay Area
-  - CoBuying
-  - Housing Market Update
+- Bay Area
+- CoBuying
+- Housing Market Update
 layout: post
-title: 'Bay Area Housing Market Update – May 2019'
-description: Home prices in the SF metro are up 13% in 2019, but buyers can increase their purchasing power drastically by teaming up to buy and own together
+title: Bay Area Housing Market Update – May 2019
+description: Home prices in the SF metro are up 13% in 2019, but buyers can increase
+  their purchasing power drastically by teaming up to buy and own together
 image: "/assets/images/cobuy-bay-area-housing-market-update-may-2019-e1557971182234.jpeg"
-date: 2019-05-14 20:00:00 +0000
+date: 2019-05-14T20:00:00.000+00:00
 permalink: bay-area-housing-market-update-may-2019
+hidden: false
 
 ---
 > If you invest the time earlier to create structure and process around communication, planning, and goal setting, you can prevent missteps before they occur.
@@ -64,25 +66,25 @@ The past month has yielded important new information on the health of the U.S. e
 
 <div class="table-responsive">
 <table class="table table-bordered">
-  <thead>
-    <tr>
-      <th scope="col">
+<thead>
+<tr>
+<th scope="col">
 <a href="https://finance.yahoo.com/news/gdp-1q-2019-first-print-191823923.html">Q1 GDP</a></th>
-      <th scope="col">
+<th scope="col">
 <a href="https://www.reuters.com/article/us-usa-economy/strong-us-job-growth-expected-in-april-wages-seen-moderate-idUSKCN1S9075">Unemployment</a></th>
-      <th scope="col"><a href="https://www.bea.gov/news/2019/personal-income-and-outlays-march-2019">Inflation</a> (PCE Price Index)</th>
-      <th scope="col"><a href="https://www.conference-board.org/data/consumerconfidence.cfm">CB Consumer Confidence Index</a></th>
-    </tr>
-  </thead>
- <tbody>
-   <tr>
-     <td><b>3.2%</b></td>
-     <td><b>3.6%</b></td>
-     <td><b>1.6%</b></td>
-     <td><b>129.2</b></td>
-    </tr>
-  </tbody>
-  </table>
+<th scope="col"><a href="https://www.bea.gov/news/2019/personal-income-and-outlays-march-2019">Inflation</a> (PCE Price Index)</th>
+<th scope="col"><a href="https://www.conference-board.org/data/consumerconfidence.cfm">CB Consumer Confidence Index</a></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>3.2%</b></td>
+<td><b>3.6%</b></td>
+<td><b>1.6%</b></td>
+<td><b>129.2</b></td>
+</tr>
+</tbody>
+</table>
 </div>
 
 After an extended period of growth, many media outlets, analysts, and investors have predicted a slowdown. As of writing, there is little evidence that _America, Inc_ has started to falter. If anything, quite the opposite. The economy is growing and adding jobs while inflation remains below the 2% bright line. For the first time, the concern is that an excessively tight labor market [could actually be the mitigating factor](https://www.reuters.com/article/us-usa-economy-jobs/us-job-openings-surge-point-to-tightening-labor-market-idUSKCN1SD1P9) to the current period of extended expansion as companies struggle to source the talent they need to continue producing goods and services.
@@ -95,7 +97,7 @@ The year 2019 may well be referred to in future business schools case studies as
 
 **Tech IPOs in 2019**
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2619/assets/images/iW=527&iH=308&oX=0&oY=0&cW=527&cH=308/IPOs.png)
+![](/assets/images/ipos.png)
 
 Many of these companies are either based in the Bay Area or have large numbers of employees based here. Consequently, there has been much speculation that the wealth created could spark a buying frenzy in local housing markets overnight. San Francisco city officials project that this [could result in the median sale price in San Francisco increasing as much as 11.3% over the next 1-2 years](https://sfbos.org/sites/default/files/BLA.IPO_.Income%20Inequality.042319.pdf).
 
@@ -105,15 +107,14 @@ We do think that these liquidity events will fuel demand for homes, but we belie
 
 _(Our view remains unchanged versus last month. Low inflation numbers and downward revisions to mortgage rates for the duration of 2019 reinforce our view.)_
 
-Financing is the major hurdle to homeownership, and nearly 9 in 10 buyers in America borrow to fund the purchase of a new home. Naturally, the cost of borrowing influences buyer demand.
+Financing is the major hurdle to homeownership, and nearly 9 in 10 buyers  in America borrow to fund the purchase of a new home. Naturally, the cost of borrowing influences buyer demand.
 
-At the time of writing, the contract rate for a 30-year fixed rate mortgage hovers near the one year low.
-
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2619/assets/images/iW=527&iH=276&oX=0&oY=0&cW=527&cH=276/Freddie-Mac-30y-FRM.png)
+At the time of writing, the contract rate for a 30-year fixed rate mortgage hovers near the one year low.  
+![](/assets/images/mortage-list-2001.png)
 
 In historical context, the cost of borrowing is low. The scope for increased borrowing costs over the medium term - all else equal - remains high. This is a strong motivator for buyers mulling a purchase over the near-term to pull the trigger sooner, rather than later. In fact, low borrowing costs are a strong motivator for any aspiring homeowner who can muster the necessary financial inputs to pull the trigger.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2619/assets/images/iW=527&iH=276&oX=0&oY=0&cW=527&cH=276/chart-21.png)
+![](/assets/images/mortgage-survey-414.png)
 
 Freddie Mac, a government-sponsored enterprise that buys mortgages on the secondary market, has revised their 2019 full-year forecast for the rate on a 30-year fixed rate mortgage down to [4.3%](http://www.freddiemac.com/research/) (from [4.7% in January](http://www.freddiemac.com/research/forecast/20190129_economic_growth.page)). This signifies an expectation of lower borrowing costs throughout 2019, which provides a boost to the demand for home purchases (all else equal).
 
@@ -141,67 +142,63 @@ Fundamentally, there exists a sizable imbalance between the demand for homes in 
 
 On the supply side, the Bay has a [severe shortage of](https://blog.gocobuy.com/bay-area-housing-market-update-may-2019/#supply) [housing](https://blog.gocobuy.com/bay-area-housing-market-update-may-2019/#supply). According to the California Department of Transportation, "housing production is not keeping pace with population growth."
 
-
-
 ### Alameda County (2010-2018)
 
 <div class="table-responsive">
 <table class="table table-bordered">
-  <thead>
-    <tr>
-      <th scope="col">Population</th>
-      <th scope="col">Housing units</th>
-    </tr>
-  </thead>
- <tbody>
-   <tr>
-     <td><b>+9.9%</b></td>
-     <td><b>+3.6%</b></td>
-    </tr>
-   <tr>
-      <td>Source: CA Dept. of Finance</td>
-      <td>Source: CA Dept. of Finance</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th scope="col">Population</th>
+<th scope="col">Housing units</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>+9.9%</b></td>
+<td><b>+3.6%</b></td>
+</tr>
+<tr>
+<td>Source: CA Dept. of Finance</td>
+<td>Source: CA Dept. of Finance</td>
+</tr>
+</tbody>
 </table>
 </div>
-
-
-
 
 ### San Francisco County (2010-2018)
 
 <div class="table-responsive">
 <table class="table table-bordered">
-  <thead>
-    <tr>
-      <th scope="col">Population</th>
-      <th scope="col">Housing units</th>
-    </tr>
-  </thead>
- <tbody>
-   <tr>
-     <td><b>+9.8%</b></td>
-     <td><b>+5.6%</b></td>
-    </tr>
-   <tr>
-      <td>Source: CA Dept. of Finance</td>
-      <td>Source: CA Dept. of Finance</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th scope="col">Population</th>
+<th scope="col">Housing units</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>+9.8%</b></td>
+<td><b>+5.6%</b></td>
+</tr>
+<tr>
+<td>Source: CA Dept. of Finance</td>
+<td>Source: CA Dept. of Finance</td>
+</tr>
+</tbody>
 </table>
 </div>
 
 Regulation, [sky-rocketing construction costs](https://www.sfchronicle.com/business/article/San-Francisco-passes-New-York-to-become-world-s-13760541.php), and an [accrued housing deficit](https://ternercenter.berkeley.edu/blog/local-solutions-statewide-shortfall) are contributing factors.
 
----
+***
+
 ## Price action
 
 Bay Area Median List Prices: on the rise
 
 After peaking in the middle of 2018, prices declined through year end. Since the start of 2019 we have seen the m_edian list price_ for the San Francisco-Oakland-Hayward metro increase by over 13% and the _median list price_ for the San Jose-Sunnyvale-Santa Clara metro increase by over 14%.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2619/assets/images/iW=746&iH=462&oX=0&oY=0&cW=746&cH=462/Median-List-Price-by-metro-area-May-update.png)
+![](/assets/images/mortgage-list-price-123.png)
 
 Bay Area Median Sale Prices: mixed
 
@@ -209,13 +206,13 @@ The last month for which we have _median sale price_ data is March. San Francisc
 
 **Single Family Homes**
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2619/assets/images/iW=497&iH=247&oX=0&oY=0&cW=497&cH=247/Median-Sale-Price-SFH.png)
+![](/assets/images/single-family-homes.png)
 
 Source: data from [CAR](https://www.car.org/marketdata/data/countysalesactivity)
 
 **Condos/Townhomes**
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2619/assets/images/iW=497&iH=246&oX=0&oY=0&cW=497&cH=246/Median-Sale-Price-condostownhomes.png)
+![](/assets/images/condos-townhomes.png)
 
 Source: data from [CAR](https://www.car.org/marketdata/data/countysalesactivity)
 
@@ -223,7 +220,7 @@ Bay Area Home Values: mixed performance (again)
 
 Below, we break out _home value_ performance by city. Home value indices were a touch softer in March, the latest month for which we have data. We expect home values to trend upwards in the months ahead in the absence of any pronounced external shocks.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2619/assets/images/iW=746&iH=462&oX=0&oY=0&cW=746&cH=462/Home-Values-by-city-May-update.png)
+![](/assets/images/home-values-by-city-1.png)
 
 ### Jargon Busting
 
@@ -231,8 +228,7 @@ Below, we break out _home value_ performance by city. Home value indices were a 
 
 **Sale Price**: the price at which a seller and a buyer agree to transact. The _median sale price_ for a given data set is the price “in the middle” of all sale prices when arranged in order of value. Referencing the _median sale price_ instead of the _mean sale price_ is useful as it reduces skew from outlying data points.
 
-**Home Value**: a proxy for the value of a property, or how much it is "worth". Ultimately, the true determination of value can only be established through transacting. Most homes in a particular geography aren’t on the market, so indices are constructed in order to monitor fluctuations in local home values in aggregate.
----
+## **Home Value**: a proxy for the value of a property, or how much it is "worth". Ultimately, the true determination of value can only be established through transacting. Most homes in a particular geography aren’t on the market, so indices are constructed in order to monitor fluctuations in local home values in aggregate.
 
 ## Supply & Demand
 
@@ -240,7 +236,7 @@ Below, we break out _home value_ performance by city. Home value indices were a 
 
 In line with our expectations, the number of properties that went pending last month continued to climb. Pending listings for April were up 20% in the San Francisco-Oakland-Hayward metro and 24% in the San Jose-Sunnyvale-Santa Clara metro. More sellers and buyers are reaching mutual acceptance, and the vast majority of these pending listings will become closed sales. We expect active markets to continue during the summer months, particularly in light of cheaper credit. We shift our view on risks here: the main short-term risk factors in our view are geopolitical. Recent data releases and communications from the Fed suggest the [likelihood of a rate hike any time soon is low](https://www.apnews.com/63808a322fa14353bac677432e6df23e).
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2619/assets/images/iW=765&iH=474&oX=0&oY=0&cW=765&cH=474/Pending-Listings-by-metro-area-May-update.png)
+![](/assets/images/pending-listings-by-metroarea.png)
 
 **Inventory of homes increased in April**
 
@@ -248,7 +244,7 @@ The number of homes for sale increased in April, but inventory is still lean.
 
 _Months of inventory_, a proxy for how long it would take for all existing homes on the market to be sold, is low in both the San Francisco-Oakland-Hayward Metro (1.4 months) and the San Jose-Sunnyvale-Santa Clara Metro (1.2 months). Both metros saw _months of inventory_ fall last month. Traditionally, a balanced market is characterized by 5-6 months of inventory. While the five year average for the San Francisco and San Jose metro areas is just over one month, the supply/demand imbalance over this period is at least partially to blame for runaway prices.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2619/assets/images/iW=765&iH=473&oX=0&oY=0&cW=765&cH=473/Active-Listings-by-metro-area-May-update.png)
+![](/assets/images/active-listing-by-metroarea.png)
 
 **Homes are not on the market for long**
 
@@ -256,7 +252,7 @@ The average home in both the San Francisco-Oakland-Hayward metro and the San Jos
 
 Despite above average inventory for this time of year, the market continues to digest new supply as it comes online.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2619/assets/images/iW=765&iH=473&oX=0&oY=0&cW=765&cH=473/Days-on-Market-by-metro-area-May-update.png)
+![](/assets/images/days-on-market-by-metroarea.png)
 
 # Local Economy
 
@@ -266,34 +262,34 @@ The Bay Area continues to experience a period of strong economic performance (th
 
 <div class="table-responsive">
 <table class="table table-bordered">
-  <thead>
-    <tr>
-      <th scope="col">Low Unemployment</th>
-      <th scope="col">Steady Job Creation</th>
-      <th scope="col">Strong Wage & Salary Growth</th>
-      <th scope="col">Inflation</th>
-    </tr>
-  </thead>
- <tbody>
-   <tr>
-     <td><b>2.8%</b></td>
-     <td><b>2.3%</b></td>
-     <td><b>3.8%</b></td>
-     <td><b>3.5%</b></td>
-    </tr>
-   <tr>
-      <td>Virtual full employment: the majority of those who are able and want to work can secure employment.</td>
-      <td>Many firms are actually challenged to find folks to hire in the current climate, according to California Dept. of Transport.</td>
-      <td>Real per capital income is expected to surpass $135k by 2023.</td>
-      <td>Above the national average, though down from the last release at 4.5%.</td>
-    </tr>
-	<tr>
-      <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
-      <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
-      <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
-      <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a></td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th scope="col">Low Unemployment</th>
+<th scope="col">Steady Job Creation</th>
+<th scope="col">Strong Wage & Salary Growth</th>
+<th scope="col">Inflation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>2.8%</b></td>
+<td><b>2.3%</b></td>
+<td><b>3.8%</b></td>
+<td><b>3.5%</b></td>
+</tr>
+<tr>
+<td>Virtual full employment: the majority of those who are able and want to work can secure employment.</td>
+<td>Many firms are actually challenged to find folks to hire in the current climate, according to California Dept. of Transport.</td>
+<td>Real per capital income is expected to surpass $135k by 2023.</td>
+<td>Above the national average, though down from the last release at 4.5%.</td>
+</tr>
+<tr>
+<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a></td>
+</tr>
+</tbody>
 </table>
 </div>
 
@@ -335,22 +331,22 @@ Source: realtor.com data for SF-Oakland-Hayward Metro as of April 2019
 ## Economies of Scale
 
 <table class="table">
-  <thead>
-    <tr>
-      <th>Flying solo </th>
-      <th>Teaming up to co-buy </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>single buyer / 1 bedroom home</td>
-      <td>3 co-buyers / 3 bedroom home</td>
-    </tr>
-    <tr>
-      <td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
-      <td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Flying solo </th>
+<th>Teaming up to co-buy </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>single buyer / 1 bedroom home</td>
+<td>3 co-buyers / 3 bedroom home</td>
+</tr>
+<tr>
+<td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
+<td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
+</tr>
+</tbody>
 </table>
 
 Breaking it down...
@@ -358,4 +354,3 @@ Breaking it down...
 ![](/assets/images/break-it-down-2019.png)
 
 On a per-bedroom basis, purchasing a three-bedroom home in the SF-Oakland-Hayward metro is currently 52% cheaper than purchasing a one-bedroom home. Economies of scale are real! Co-buying can deliver more bang for your buck _and_ provide greater optionality.
-
