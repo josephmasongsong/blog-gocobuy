@@ -25,3 +25,5 @@ fields:
     max: 
     labelField: 
   label: header
+pages:
+- _data/menus.yml
