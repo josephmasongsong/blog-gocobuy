@@ -113,11 +113,9 @@ In aggregate, home prices are approaching the peaks reached in 2018. The graph b
 
 Many articles in the press talk about softening in local housing markets. Ironically, few point out that the median sale price in Tacoma is at an all-time high while in Seattle, it has increased over 13% since the start of 2019. This price appreciation has taken place even as the inventory of homes on the market has risen since January. The market is digesting new supply without any problem.
 
-![{{ brizy_dc_image_alt uid='wp-fc86e491d727ba2194769ee274bd70db' }}](https://blog.gocobuy.com/greater-seattle-housing-market-update-summer-2019/{@brizy_SITE_URL_PLACEHOLDER@}/?brizy_media=wp-fc86e491d727ba2194769ee274bd70db&brizy_crop=iW%3D746%26iH%3D426%26oX%3D0%26oY%3D0%26cW%3D746%26cH%3D426&brizy_post=2885)
+![](/assets/images/median-sale-price-by-city.png)
 
-Home value indices for Seattle and Bellevue are down 5% and 2% respectively from the highs registered in 2018. In Tacoma, home values are currently at their all-time high.
-
-![{{ brizy_dc_image_alt uid='wp-5e7eade662c7637bd6c7e9866a9c6476' }}](https://blog.gocobuy.com/greater-seattle-housing-market-update-summer-2019/{@brizy_SITE_URL_PLACEHOLDER@}/?brizy_media=wp-5e7eade662c7637bd6c7e9866a9c6476&brizy_crop=iW%3D746%26iH%3D424%26oX%3D0%26oY%3D0%26cW%3D746%26cH%3D424&brizy_post=2885)
+![](/assets/images/home-values-by-city.png)
 
 Job growth and rising incomes are likely to contribute to moderate price appreciation over the coming months, barring any shocks.
 
@@ -137,13 +135,13 @@ The number of homes for sale, pending sales, and closed sales across Greater Sea
 
 Seasonality is a factor behind the bump in transactions month on month, as is the fall in rates. While activity in the local housing markets traditionally peaks in May, we expect buyer demand to continue over the coming months.
 
-![{{ brizy_dc_image_alt uid='wp-e78ecf58b899c2a4df5f677fd04bf6db' }}](https://blog.gocobuy.com/greater-seattle-housing-market-update-summer-2019/{@brizy_SITE_URL_PLACEHOLDER@}/?brizy_media=wp-e78ecf58b899c2a4df5f677fd04bf6db&brizy_crop=iW%3D765%26iH%3D547%26oX%3D0%26oY%3D0%26cW%3D765%26cH%3D547&brizy_post=2885)
+![](/assets/images/home-for-sale-by-city.png)
 
-![{{ brizy_dc_image_alt uid='wp-017c8b5561aa93c9885effc9472d8d0b' }}](https://blog.gocobuy.com/greater-seattle-housing-market-update-summer-2019/{@brizy_SITE_URL_PLACEHOLDER@}/?brizy_media=wp-017c8b5561aa93c9885effc9472d8d0b&brizy_crop=iW%3D765%26iH%3D550%26oX%3D0%26oY%3D0%26cW%3D765%26cH%3D550&brizy_post=2885)
+![](/assets/images/pending-sales-by-city.png)
 
-![{{ brizy_dc_image_alt uid='wp-762da01f1aef22a43a05ac80634491c7' }}](https://blog.gocobuy.com/greater-seattle-housing-market-update-summer-2019/{@brizy_SITE_URL_PLACEHOLDER@}/?brizy_media=wp-762da01f1aef22a43a05ac80634491c7&brizy_crop=iW%3D765%26iH%3D547%26oX%3D0%26oY%3D0%26cW%3D765%26cH%3D547&brizy_post=2885)
+![](/assets/images/closed-sales-by-city.png)
 
-![{{ brizy_dc_image_alt uid='wp-7ab7d49f44ab1b712ae83a44016cca02' }}](https://blog.gocobuy.com/greater-seattle-housing-market-update-summer-2019/{@brizy_SITE_URL_PLACEHOLDER@}/?brizy_media=wp-7ab7d49f44ab1b712ae83a44016cca02&brizy_crop=iW%3D765%26iH%3D551%26oX%3D0%26oY%3D0%26cW%3D765%26cH%3D551&brizy_post=2885)
+![](/assets/images/average-days-on-market.png)
 
 ## Rates
 
@@ -151,7 +149,7 @@ Seasonality is a factor behind the bump in transactions month on month, as is th
 
 The cost of borrowing to finance a home purchase is substantially lower today than at the start of 2019. The average rate for a 30-year fixed-rate mortgage has fallen by nearly 70 basis points year to date.
 
-![{{ brizy_dc_image_alt uid='wp-aed33b5cd8fb1e269b2f87997e8ec04e' }}](https://blog.gocobuy.com/greater-seattle-housing-market-update-summer-2019/{@brizy_SITE_URL_PLACEHOLDER@}/?brizy_media=wp-aed33b5cd8fb1e269b2f87997e8ec04e&brizy_crop=iW%3D765%26iH%3D474%26oX%3D0%26oY%3D0%26cW%3D765%26cH%3D474&brizy_post=2885)
+![](/assets/images/lend-it-the-come.png)
 
 To put this into perspective, consider an example.
 
@@ -190,7 +188,7 @@ Note: Monthly Payment includes loan principal and loan interest. Total Payments 
 
 The cost of borrowing is near historic lows.
 
-![{{ brizy_dc_image_alt uid='wp-7be1acc7bc8c1fbe3ec2f5aa50acaeec' }}](https://blog.gocobuy.com/greater-seattle-housing-market-update-summer-2019/{@brizy_SITE_URL_PLACEHOLDER@}/?brizy_media=wp-7be1acc7bc8c1fbe3ec2f5aa50acaeec&brizy_crop=iW%3D765%26iH%3D402%26oX%3D0%26oY%3D0%26cW%3D765%26cH%3D402&brizy_post=2885)
+![](/assets/images/prime-mortgage.png)
 
 This has spurred demand from homebuyers, as evidenced by the [increase in mortgage applications](https://tradingeconomics.com/united-states/mortgage-applications) over recent weeks. The increase in activity from prospective buyers (and homeowners exploring refinancing) is challenging the bandwidth of many mortgage lenders during an already busy buying season.
 
@@ -313,6 +311,6 @@ Three co-buyers would need to each contribute $31k up front for down payment and
 
 Breaking it down…
 
-![{{ brizy_dc_image_alt uid='wp-a5b66d62b69c1f08a8ebd589055756dd' }}](https://blog.gocobuy.com/greater-seattle-housing-market-update-summer-2019/{@brizy_SITE_URL_PLACEHOLDER@}/?brizy_media=wp-a5b66d62b69c1f08a8ebd589055756dd&brizy_crop=iW%3D995%26iH%3D145%26oX%3D0%26oY%3D0%26cW%3D995%26cH%3D145&brizy_post=2885)
+![](/assets/images/breaking-down-rooms.png)
 
 On a per-bedroom basis, purchasing a three-bedroom home in Seattle is nearly 40% cheaper versus purchasing a one-bedroom home. Economies of scale are real! Co-buying can deliver more bang for your buck _and_ provide greater optionality.
