@@ -39,37 +39,15 @@ Prices and activity are up month-on-month in the San Francisco-Oakland-Hayward M
 
 | **Days on Market** | 28 days (-1 day vs. last month) |
 
-Markets around the Bay are hyper competitive. Lower mortgage rates coupled with continued wage growth continue to spur homebuyer interest. We are seeing strong demand and
+Markets around the Bay are hyper competitive. Lower mortgage rates coupled with continued wage growth continue to spur homebuyer interest. We are seeing strong demand and brisk activity, which is particularly intense at lower price points and along major transitroutes.
 
-brisk activity, which is particularly intense at lower price points and along major transit
+Buyer demand is tiered, with homes listed at price points of up to $1.5 million experiencing the heaviest foot traffic, receiving more offers on average, and staying on the market for fewer days on average. At all price points, well-priced properties are selling at or above the price at which they were listed. In some localities, properties are routinely listed at a price designed to stoke competition resulting in a sale at 10-15% (or more) above the asking price.
 
-routes.
-
-Buyer demand is tiered, with homes listed at price points of up to $1.5 million experiencing
-
-the heaviest foot traffic, receiving more offers on average, and staying on the market for
-
-fewer days on average. At all price points, well-priced properties are selling at or above the
-
-price at which they were listed. In some localities, properties are routinely listed at a price
-
-designed to stoke competition resulting in a sale at 10-15% (or more) above the asking price.
-
-In context of the current market climate, there are steps that buyers can take to improve
-
-their positioning. Buyers should secure fully underwritten approval for financing before
-
-placing offers. It is also advisable to work with an agent who is well-versed in local market
-
-transaction dynamics. CoBuy builds in these and other measures to strengthen the competitiveness of the buyers we serve.
+In context of the current market climate, there are steps that buyers can take to improve their positioning. Buyers should secure fully underwritten approval for financing before placing offers. It is also advisable to work with an agent who is well-versed in local market transaction dynamics. CoBuy builds in these and other measures to strengthen the competitiveness of the buyers we serve.
 
 Opportunities do exist. One example, according to San Francisco [CoBuy-certified™ Agent](https://shellysutherland.com/)
 
-[Shelly Sutherland](https://shellysutherland.com/), can be found in properties that have been on the market for longer than 20 to 30 days.
-
-"In San Francisco, if a property does not sell in the first 21 days, things can become more
-
-challenging for the seller as sometimes the market can assign a stigma to the property. This stigma isn't necessarily always warranted and it can present an opportunity for buyers,'" observes Sutherland.
+[Shelly Sutherland](https://shellysutherland.com/), can be found in properties that have been on the market for longer than 20 to 30 days. "In San Francisco, if a property does not sell in the first 21 days, things can become more challenging for the seller as sometimes the market can assign a stigma to the property. This stigma isn't necessarily always warranted and it can present an opportunity for buyers,'" observes Sutherland.
 
 **Drivers**
 
