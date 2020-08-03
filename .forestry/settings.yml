@@ -9,7 +9,7 @@ sections:
   label: Posts
   create: documents
   match: "*.*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - default
 - type: directory
@@ -17,7 +17,7 @@ sections:
   label: Pages
   create: documents
   match: "*.*"
-  new_doc_ext: ".md"
+  new_doc_ext: md
   templates:
   - page
 - type: directory
