@@ -248,37 +248,38 @@ If the Bay Area were a country, it would have the world’s [19th largest econom
 
 Its residents are among the nations most educated and are responsible for nearly one in five patents issued nationally in the U.S. The Bay is home to 33 of the companies in the Fortune 500, second only to New York and Chicago. It beats the combined average of its peer group (NYC, L.A., Austin, Dallas, Boston, Seattle, and San Diego) across growth in wages, GDP, household income, employment, productivity, and income per capita.
 
-
+<div class="table-responsive">
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">**4.3%**</th>
-      <th scope="col">**2.1%**</th>
-      <th scope="col">**3.3%**</th>
-      <th scope="col">**2.7%**</th>
+      <th scope="col">GDP</th>
+      <th scope="col">Unemployment</th>
+      <th scope="col">Wage & Salary Growth</th>
+      <th scope="col">Job Growth</th>
     </tr>
   </thead>
  <tbody>
-    <tr>
-      <th scope="row">GDP</th>
-      <td>Unemployment</td>
-      <td>Wage & Salary Growth</td>
-      <td>Job Growth</td>
+   <tr>
+      <td>4.3%</td>
+      <td>2.1%</td>
+      <td>3.3%</td>
+      <td>2.7%</td>
     </tr>
    <tr>
-      <th scope="row">Compounded annual growth rate of real GDP from 2014-2017.</th>
+      <td>Compounded annual growth rate of real GDP from 2014-2017.</td>
       <td>Companies are challenged to find folks to hire, according to California Dept. of Transport.</td>
       <td>Real per capital income is expected to surpass $135k by 2023.</td>
       <td>Yep</td>
     </tr>
 	<tr>
-      <th scope="row">Source: [Bay Area Council 2019](http://documents.bayareacouncil.org/SacramentoPresentation.pdf)</th>
+      <td scope="row">Source: [Bay Area Council 2019](http://documents.bayareacouncil.org/SacramentoPresentation.pdf)</td>
       <td>Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf), [DoT](http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf)</td>
       <td>Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf), [DoT](http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf)</td>
       <td>Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf)</td>
     </tr>
   </tbody>
 </table>
+</div>
 
 To say the local economy is robust is an understatement.
 
