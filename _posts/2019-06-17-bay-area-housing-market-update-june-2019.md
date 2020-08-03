@@ -272,10 +272,11 @@ Its residents are among the nations most educated and are responsible for nearly
       <td>Yep</td>
     </tr>
 	<tr>
-      <td scope="row">Source: [Bay Area Council 2019](http://documents.bayareacouncil.org/SacramentoPresentation.pdf)</td>
-      <td>Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf), [DoT](http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf)</td>
-      <td>Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf), [DoT](http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf)</td>
-      <td>Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf)</td>
+      <td scope="row">Source: <a href="http://documents.bayareacouncil.org/SacramentoPresentation.pdf">Bay Area Council 2019</a></td>
+      <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>,
+        <a href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+      <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+      <td>Source:<a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a></td>
     </tr>
   </tbody>
 </table>
