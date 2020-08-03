@@ -7,7 +7,8 @@ description: With the median home price in the San Francisco metro at $955k and 
   rents, is homeownership out of reach?
 image: ''
 hidden: false
-date: 
+date: 2019-06-17 20:00:00 +0000
+permalink: bay-area-housing-market-update-june-2019
 
 ---
 > "Summer, summer, summertime. Time to kick back and unwind."
