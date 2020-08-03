@@ -47,13 +47,10 @@ Market conditions continue to play out in-line with our expectations. The invent
 
 ### **San Francisco-Oakland-Hayward Metro Area**
 
-| **Median List Price** | **$954,500** (+14% year to date) |
-
-| **Active Listings** | **6,461 properties** (+15% vs. last month) | 
-
-|**Single-family Home Sales** | **+19.4%** (vs. last month) |
-
-| **Days on Market** | **28 days** (flat vs. last month) |
+| **Median List Price** | $954,500 (+14% year to date) |
+| **Active Listings** | 6,461 properties (+15% vs. last month) | 
+|**Single-family Home Sales** | +19.4% (vs. last month) |
+| **Days on Market** | 28 days (flat vs. last month) |
 
 _Source: data from realtor.com, sales data for "SF Bay Area" from_ [_CAR._](https://www.car.org/-/media/CAR/Documents/Industry-360/PDF/Market-Data/201905-SFH-Sales--Price.pdf?la=en&hash=343E3523D5EDE95222A3E4D9D64D61ADFF83DFE4)
 
