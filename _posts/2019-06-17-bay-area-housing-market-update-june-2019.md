@@ -9,7 +9,7 @@ title: Bay Area Housing Market Update - June 2019
 description: With the median home price in the San Francisco metro at $955k and sky-high
   rents, is homeownership out of reach?
 image: "/assets/images/cobuy-bay-area-housing-market-update-june-2019-e1560910259855.jpeg"
-hidden: true
+hidden: false
 date: 2019-06-17 20:00:00 +0000
 permalink: bay-area-housing-market-update-june-2019
 
