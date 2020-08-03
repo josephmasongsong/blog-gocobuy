@@ -1,11 +1,14 @@
 ---
 author: mat
-categories: []
+categories:
+- Bay Area
+- CoBuying
+- Housing Market Update
 layout: post
 title: Bay Area Housing Market Update - June 2019
 description: With the median home price in the San Francisco metro at $955k and sky-high
   rents, is homeownership out of reach?
-image: ''
+image: "/assets/images/cobuy-bay-area-housing-market-update-june-2019-e1560910259855.jpeg"
 hidden: false
 date: 2019-06-17 20:00:00 +0000
 permalink: bay-area-housing-market-update-june-2019
@@ -38,41 +41,29 @@ Happy summer!
 
 \-Team CoBuy
 
-**Buying a home together in the Bay?**
-
-Learn how CoBuy makes it easier, more efficient, and better protected.
-
-At a glance
+## At a glance
 
 Market conditions continue to play out in-line with our expectations. The inventory of homes for sale has increased as is to be expected this time of year, though strong buyer demand continues to push home prices upward.
 
-**San Francisco-Oakland-Hayward Metro Area**
+### **San Francisco-Oakland-Hayward Metro Area**
 
 **Median List Price**
 
-**$954,500**
-
-(+14% year to date)
+**$954,500** (+14% year to date)
 
 **Active Listings**
 
-**6,461 properties**
-
-(+15% vs. last month)
+**6,461 properties** (+15% vs. last month)
 
 **Single-family Home Sales**
 
-**+19.4%**
-
-(vs. last month)
+**+19.4%** (vs. last month)
 
 **Days on Market**
 
-**28 days**
+**28 days** (flat vs. last month)
 
-(flat vs. last month)
-
-Source: data from realtor.com, sales data for "SF Bay Area" from [CAR.](https://www.car.org/-/media/CAR/Documents/Industry-360/PDF/Market-Data/201905-SFH-Sales--Price.pdf?la=en&hash=343E3523D5EDE95222A3E4D9D64D61ADFF83DFE4)
+_Source: data from realtor.com, sales data for "SF Bay Area" from_ [_CAR._](https://www.car.org/-/media/CAR/Documents/Industry-360/PDF/Market-Data/201905-SFH-Sales--Price.pdf?la=en&hash=343E3523D5EDE95222A3E4D9D64D61ADFF83DFE4)
 
 Interpreting market conditions can be challenging. Are housing markets around the Bay [cooling off](https://www.sfchronicle.com/business/networth/article/Bay-Area-home-prices-flat-for-a-second-straight-13907307.php?psid=8Lud2) or [heating up](https://www.housingwire.com/articles/49305-san-franciscos-housing-market-heats-up-as-tech-ipos-move-in?utm_campaign=Newsletter%20-%20HousingWire%20Daily&utm_source=hs_email&utm_medium=email&utm_content=73575372&_hsenc=p2ANqtz-8wfhD38P8qigEEzkEH5ULE0ZF5fes8JFuMEFGZKNjpnCcYqyqPSUhoWAGszr48YiTmEYJWzXEdmPrmnXiZ1LNMgnlyVg&_hsmi=73575372)? The devil is in the detail. We see prices rising, strong demand, and increased competition, all at a healthier, more sustainable clip than in the first half of 2018.
 
@@ -80,7 +71,7 @@ Activity levels, the depth of buyer demand, and competition vary by geography an
 
 In May, the [median sale price for a single-family](https://www.car.org/-/media/CAR/Documents/Industry-360/PDF/Market-Data/201905-SFH-Sales--Price.pdf?la=en&hash=343E3523D5EDE95222A3E4D9D64D61ADFF83DFE4) home in San Francisco and Alameda Counties clocked in at $1.7 million and $959,000, respectively. For desirable, well-priced properties listed up to these bright lines, buyers can expect to face competing offers. To increase competitive positioning, buyers may choose to team up with friends or family members to increase their purchasing power. Whether financial participation comes in the form of a gift, a loan, or co-ownership, adequate preparation is essential. Co-buyers should agree upon and define shared objectives up front. Naturally, support from a team of experienced professionals provides distinct advantage before, during, and after the purchase.
 
-**Drivers**
+## **Drivers**
 
 We reorganize the main themes we see driving local housing markets over the near term, though our conviction remains unchanged.
 
@@ -94,7 +85,9 @@ The supply and demand dynamics of housing in the Bay area will have implications
 
 Robust local and national economies have created a sizeable professional class of residents with significant purchasing power and demand for housing. Of the top ten cities with the highest median income nationally, [five are in the Bay](https://www.kron4.com/news/bay-area/median-income-reaching-new-heights-in-bay-area-200k-is-middle-class-in-san-jose/1802690414). San Francisco ranks first globally for billionaires per capita: [1 in 11,600 residents](https://www.vox.com/recode/2019/5/9/18537122/billionaire-study-wealthx-san-francisco) can claim membership in the _three comma club_. While the impact of numerous IPOs this year on the housing market hasn’t been as drastic as some called for, this could change as traditional six-month [restrictions on the selling of shares by employees expire](https://sf.curbed.com/2019/6/5/18654356/compass-san-francisco-housing-price-report-median-spring-2019-rises).
 
-Price action
+***
+
+## Price action
 
 On the up...
 
@@ -104,23 +97,25 @@ It is worth highlighting that the price appreciation seen in the first half of l
 
 Home value indices have yet to reach the peaks registered in 2018. As the latest data available is from April of this year, the rolling average should adjust upward if the current trend up price appreciation continues or prices remain flat.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2839/assets/images/iW=746&iH=462&oX=0&oY=0&cW=746&cH=462/Median-List-Price-by-metro-area-June-19.png)
+![](/assets/images/median-list-price-by-metro-area-june-19.png)
 
 **Median Sale Price (by county): Single Family Homes**
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2839/assets/images/iW=497&iH=247&oX=0&oY=0&cW=497&cH=247/SFH-Sales-June-2019.png)
+![](/assets/images/sfh-sales-june-2019.png)
 
-Source: data from [CAR](https://www.car.org/marketdata/data/countysalesactivity)
+_Source: data from_ [_CAR_](https://www.car.org/marketdata/data/countysalesactivity)
 
 **Median Sale Price (by county): Condos & Townhomes**
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2839/assets/images/iW=497&iH=246&oX=0&oY=0&cW=497&cH=246/Condo-townhome-Sales-June-2019.png)
+![](/assets/images/condo-townhome-sales-june-2019.png)
 
-Source: data from [CAR](https://www.car.org/marketdata/data/countysalesactivity)
+_Source: data from_ [_CAR_](https://www.car.org/marketdata/data/countysalesactivity)
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2839/assets/images/iW=746&iH=462&oX=0&oY=0&cW=746&cH=462/Home-Values-by-city-June-2019.png)
+![](/assets/images/home-values-by-city-june-2019.png)
 
-**Jargon Busting**
+***
+
+### **Jargon Busting**
 
 **List Price**: the price at which a seller advertises a property for sale on the market.
 
@@ -128,17 +123,19 @@ Source: data from [CAR](https://www.car.org/marketdata/data/countysalesactivity)
 
 **Home Value**: a proxy for the value of a property, or how much it is "worth". Ultimately, the true determination of value can only be established through transacting. Most homes in a particular geography aren’t on the market, so indices are constructed in order to monitor fluctuations in local home values in aggregate.
 
+***
+
 ## Supply & Demand
 
-**Too few homes.**
+#### **Too few homes.**
 
 Strong demand has fueled an increase in the number of home sales across the Bay. In May, single-family home sales increased by [8.3% in San Francisco County](https://www.car.org/-/media/CAR/Documents/Industry-360/PDF/Market-Data/201905-SFH-Sales--Price.pdf?la=en&hash=343E3523D5EDE95222A3E4D9D64D61ADFF83DFE4) and [15.1% in Alameda County](https://www.car.org/-/media/CAR/Documents/Industry-360/PDF/Market-Data/201905-SFH-Sales--Price.pdf?la=en&hash=343E3523D5EDE95222A3E4D9D64D61ADFF83DFE4), month on month. In both the San Francisco and San Jose metro areas, the median days a home is on the market hovers at 28 days. Well-priced properties in cities and neighborhoods with greater competition can sell in two weeks or less.
 
 Seasonality is definitely a factor behind the bump in sales and increased competition, as is the fall in rates. Some market participants believe a contingent of sellers is deferring listing their homes in anticipation of higher prices - perhaps from the injection of capital to the local economy resulting from IPOs. Due to constrained supply, some homeowners who might otherwise choose to sell their home could be deciding to stay put. Selling their existing home would necessitate buying another home. For local residents intending to remain in the Bay, this could be a deterrent.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2839/assets/images/iW=765&iH=473&oX=0&oY=0&cW=765&cH=473/Days-on-Market-by-metro-area-June-2019.png)
+![](/assets/images/days-on-market-by-metro-area-june-2019.png)
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2839/assets/images/iW=765&iH=473&oX=0&oY=0&cW=765&cH=473/Active-Listings-by-metro-area-June-2019.png)
+![](/assets/images/active-listings-by-metro-area-june-2019.png)
 
 ## Rates
 
@@ -146,9 +143,11 @@ Seasonality is definitely a factor behind the bump in sales and increased compet
 
 The cost of borrowing to finance a home purchase is substantially lower today than at the start of 2019. The average rate for a 30-year fixed-rate mortgage has fallen by nearly 70 basis points year to date.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2839/assets/images/iW=765&iH=474&oX=0&oY=0&cW=765&cH=474/Mortgage-Rates.png)
+![](/assets/images/mortgage-rates.png)
 
 To put this into perspective, consider an example.
+
+***
 
 **Example:**
 
@@ -183,13 +182,19 @@ Note: Monthly Payment includes loan principal and loan interest. Total Payments 
 
 **Swings in the cost of borrowing have significant implications for affordability.**
 
+***
+
 The cost of borrowing is near historic lows.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2839/assets/images/iW=765&iH=402&oX=0&oY=0&cW=765&cH=402/Mortgage-rate-evolution.png)
+![](/assets/images/mortgage-rate-evolution.png)
 
 This has spurred demand from homebuyers, as evidenced by the [increase in mortgage applications](https://tradingeconomics.com/united-states/mortgage-applications) over recent weeks. The increase in activity from prospective buyers (and homeowners exploring refinancing) is challenging the bandwidth of many mortgage lenders during an already busy buying season.
 
+***
+
 **Pro tip:** Buyers benefit from working with a mortgage lender who is responsive, experienced, and excellent at execution. In competitive markets, these are often prerequisites to a successful purchase. CoBuy works with vetted, ethically-aligned lending institutions and loan officers who rank among the best in the business. We do not benefit financially when CoBuyers choose to work with a [CoBuy-certified™](https://www.gocobuy.com/certified-pro) Lender, but you may.
+
+***
 
 Freddie Mac forecasts the average rate on a 30-year fixed-rate mortgage to average 4.1% in 2019 and 4.2% in 2020. Chief Economist Sam Khater predicts favorable mortgage rates will contribute to [increased home sales](https://freddiemac.gcs-web.com/news-releases/news-release-details/freddie-mac-june-forecast-favorable-mortgage-rates-and-strong?_ga=2.70324624.1295101509.1560792230-1399193179.1549688736) nationally for the remainder of the year.
 
@@ -237,7 +242,7 @@ According to the World Bank, U.S. growth will [temper to 2.6% in 2019](http://ww
 
 A robust national economy fuels demand for housing, particularly in densely populated metro areas that serve as professional services and tech hubs.
 
-# Bay Area Economy
+## Bay Area Economy
 
 If the Bay Area were a country, it would have the world’s [19th largest economy by GDP](http://documents.bayareacouncil.org/SacramentoPresentation.pdf).
 
@@ -312,6 +317,6 @@ Three co-buyers would need to each contribute $37k up front for down payment and
 
 Breaking it down...
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2839/assets/images/iW=995&iH=152&oX=0&oY=0&cW=995&cH=152/Co-buying-a-home-Bay-area-May-update.png)
+![](/assets/images/break-it-down-2019.png)
 
 On a per-bedroom basis, purchasing a three-bedroom home in the SF-Oakland-Hayward metro is currently 52% cheaper than purchasing a one-bedroom home. Economies of scale are real! Co-buying can deliver more bang for your buck _and_ provide greater optionality.
