@@ -260,10 +260,10 @@ Its residents are among the nations most educated and are responsible for nearly
   </thead>
  <tbody>
    <tr>
-      <td>4.3%</td>
-      <td>2.1%</td>
-      <td>3.3%</td>
-      <td>2.7%</td>
+     <td><b>4.3%</b></td>
+     <td><b>2.1%</b></td>
+     <td><b>3.3%</b></td>
+     <td><b>2.7%</b></td>
     </tr>
    <tr>
       <td>Compounded annual growth rate of real GDP from 2014-2017.</td>
