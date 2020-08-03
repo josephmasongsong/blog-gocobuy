@@ -1,12 +1,15 @@
 ---
 author: mat
-categories: []
+categories:
+- "\tBay Area"
+- CoBuying
+- Housing Market Update
 layout: post
 title: Bay Area Housing Market Flash - August 2019
 description: Is this the new normal?
-image: ''
+image: "/assets/images/bay-area-housing-market-flash-cobuy-august-2019.jpg"
 hidden: false
-date: 
+date: 2019-08-05 20:00:00 +0000
 permalink: "/bay-area-housing-market-flash-august-2019"
 
 ---
