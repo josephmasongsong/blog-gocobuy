@@ -10,7 +10,7 @@ hidden: false
 date: 
 
 ---
-"If you invest the time earlier to create structure and process around communication, planning, and goal setting, you can prevent missteps before they occur."
+> If you invest the time earlier to create structure and process around communication, planning, and goal setting, you can prevent missteps before they occur.
 
 _-Christine Tsai_
 
@@ -26,33 +26,17 @@ In recent months, our views have frequently clashed with those pushed in the hea
 
 We hope you find this month’s update informative. If you are considering buying a home with friends, family, or your partner around the Bay, we invite you to get in touch.
 
-**Buying a home together in the Bay?**
-
-Learn how CoBuy makes it easier, more efficient, and better protected.
-
-**At a glance**
+## **At a glance**
 
 Prices and activity are up month-on-month in the San Francisco-Oakland-Hayward Metropolitan Area, while the number of days a home is on the market decreased by one day. This is in line with our expectations and is a function of increased demand, seasonality, and favorable borrowing costs.
 
 **San Francisco-Oakland-Hayward Metro Area**
 
-**Median List Price**
+**| Median List Price |** $948,295 (+3% vs. last month) |
 
-**$948,295**
+**| Pending Listings |** 4,085 properties (+20% vs. last month) |
 
-(+3% vs. last month)
-
-**Pending Listings**
-
-**4,085 properties**
-
-(+20% vs. last month)
-
-**Days on Market**
-
-**28 days**
-
-(-1 day vs. last month)
+**| Days on Market |** 28 days (-1 day vs. last month) |
 
 Markets around the Bay are hyper competitive. Lower mortgage rates coupled with continued wage growth continue to spur homebuyer interest. We are seeing strong demand and
 
