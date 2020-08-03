@@ -205,7 +205,7 @@ Freddie Mac forecasts the average rate on a 30-year fixed-rate mortgage to avera
 The U.S. economy is experiencing what [may turn out to be](https://www.theguardian.com/business/2019/jun/14/the-us-economic-recovery-is-far-from-being-a-world-record) the longest period of economic expansion in its history. Growth is strong, unemployment is at a 50-year low, inflation is below the 2% target, and consumers are optimistic on the whole.
 
 <div class="table-responsive">
-<table class="table">
+<table class="table table-bordered">
   <thead>
     <tr>
       <th scope="col">GDP</th>
@@ -251,7 +251,7 @@ If the Bay Area were a country, it would have the world’s [19th largest econom
 Its residents are among the nations most educated and are responsible for nearly one in five patents issued nationally in the U.S. The Bay is home to 33 of the companies in the Fortune 500, second only to New York and Chicago. It beats the combined average of its peer group (NYC, L.A., Austin, Dallas, Boston, Seattle, and San Diego) across growth in wages, GDP, household income, employment, productivity, and income per capita.
 
 <div class="table-responsive">
-<table class="table">
+<table class="table table-bordered">
   <thead>
     <tr>
       <th scope="col">GDP</th>
