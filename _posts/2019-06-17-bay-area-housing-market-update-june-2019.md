@@ -303,7 +303,7 @@ Source: realtor.com data for SF-Oakland-Hayward Metro as of April 2019
 
 ## Economies of Scale
 
-<table rules="groups">
+<table class="table">
   <thead>
     <tr>
       <th>Flying solo </th>
