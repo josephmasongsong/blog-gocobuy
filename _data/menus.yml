@@ -1,8 +1,8 @@
 ---
 header:
-- url: "/contact"
-  title: Contact Us
-  identifier: contact
 - title: About
   identifier: about
   url: "/about"
+- url: "/contact"
+  title: Contact Us
+  identifier: contact
