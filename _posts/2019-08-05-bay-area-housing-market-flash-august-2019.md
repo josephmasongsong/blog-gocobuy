@@ -141,25 +141,34 @@ In the example below, we assume:
 
 Source: realtor.com data for SF-Oakland-Hayward Metro as of April 2019
 
-Economies of Scale
 
-**Flying solo**
+## Economies of Scale
 
-**single buyer / 1 bedroom home**
-
-A single buyer would need $76k in cash up front for down payment and closing costs.
-
-**Teaming up to co-buy**
-
-**3 co-buyers / 3 bedroom home**
-
-Three co-buyers would need to each contribute $37k up front for down payment and closing costs.
+<table class="table">
+  <thead>
+    <tr>
+      <th>Flying solo </th>
+      <th>Teaming up to co-buy </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>single buyer / 1 bedroom home</td>
+      <td>3 co-buyers / 3 bedroom home</td>
+    </tr>
+    <tr>
+      <td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
+      <td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
+    </tr>
+  </tbody>
+</table>
 
 Breaking it down...
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2931/assets/images/iW=995&iH=152&oX=0&oY=0&cW=995&cH=152/Co-buying-a-home-Bay-area-May-update.png)
+![](/assets/images/break-it-down-2019.png)
 
 On a per-bedroom basis, purchasing a three-bedroom home in the SF-Oakland-Hayward metro is currently 52% cheaper than purchasing a one-bedroom home. Economies of scale are real! Co-buying can deliver more bang for your buck _and_ provide greater optionality.
+
 
 **Learn how CoBuy makes it easier to buy a home together, intelligently.**
 

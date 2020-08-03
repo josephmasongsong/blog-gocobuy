@@ -8,10 +8,6 @@ layout: post
 title: 'Bay Area Housing Market Update – May 2019'
 description: Home prices in the SF metro are up 13% in 2019, but buyers can increase their purchasing power drastically by teaming up to buy and own together
 image: "/assets/images/cobuy-bay-area-housing-market-update-may-2019-e1557971182234.jpeg"
-<<<<<<< HEAD
-hidden: false
-=======
->>>>>>> 136e54e... modifications to multiple articles
 date: 2019-05-14 20:00:00 +0000
 permalink: bay-area-housing-market-update-may-2019
 
@@ -32,11 +28,11 @@ In recent months, our views have frequently clashed with those pushed in the hea
 
 We hope you find this month’s update informative. If you are considering buying a home with friends, family, or your partner around the Bay, we invite you to get in touch.
 
-## **At a glance**
+## At a glance
 
 Prices and activity are up month-on-month in the San Francisco-Oakland-Hayward Metropolitan Area, while the number of days a home is on the market decreased by one day. This is in line with our expectations and is a function of increased demand, seasonality, and favorable borrowing costs.
 
-**San Francisco-Oakland-Hayward Metro Area**
+### San Francisco-Oakland-Hayward Metro Area
 
 | **Median List Price** | $948,295 (+3% vs. last month) |
 
@@ -65,6 +61,7 @@ Last month we highlighted three themes that we see driving Bay area housing mark
 The picture has evolved, but it has not drastically changed. We continue to see these as key drivers over the near term and beyond (more below).
 
 The past month has yielded important new information on the health of the U.S. economy. An article dated May 4th in The Economist sums it up: ['Fears of recession in America have faded'](https://www.economist.com/finance-and-economics/2019/05/04/fears-of-recession-in-america-have-faded). Recent economic data has confirmed strong growth, a rebound in consumer confidence, low inflation, and the lowest unemployment in 50 years.
+
 <div class="table-responsive">
 <table class="table table-bordered">
   <thead>
