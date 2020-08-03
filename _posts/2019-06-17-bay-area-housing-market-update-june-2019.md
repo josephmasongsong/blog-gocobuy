@@ -252,44 +252,33 @@ Its residents are among the nations most educated and are responsible for nearly
 <table class="table">
   <thead>
     <tr>
-      <th scope="col"><svg id="nc_icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" xml:space="preserve" class="brz-icon-svg"><g transform="translate(0, 0)" class="nc-icon-wrapper" fill="none"><polyline data-cap="butt" data-color="color-2" fill="none" stroke="currentColor" vector-effect="non-scaling-stroke" stroke-miterlimit="10" points="22,7 13,17 7,11 2,16 " stroke-linejoin="miter" stroke-linecap="butt"></polyline> <polyline fill="none" stroke="currentColor" vector-effect="non-scaling-stroke" stroke-linecap="square" stroke-miterlimit="10" points="15,7 22,7 22,14 " stroke-linejoin="miter"></polyline></g></svg></th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">**4.3%**</th>
+      <th scope="col">**2.1%**</th>
+      <th scope="col">**3.3%**</th>
+      <th scope="col">**2.7%**</th>
     </tr>
   </thead>
+ <tbody>
+    <tr>
+      <th scope="row">GDP</th>
+      <td>Unemployment</td>
+      <td>Wage & Salary Growth</td>
+      <td>Job Growth</td>
+    </tr>
+   <tr>
+      <th scope="row">Compounded annual growth rate of real GDP from 2014-2017.</th>
+      <td>Companies are challenged to find folks to hire, according to California Dept. of Transport.</td>
+      <td>Real per capital income is expected to surpass $135k by 2023.</td>
+      <td>Yep</td>
+    </tr>
+	<tr>
+      <th scope="row">Source: [Bay Area Council 2019](http://documents.bayareacouncil.org/SacramentoPresentation.pdf)</th>
+      <td>Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf), [DoT](http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf)</td>
+      <td>Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf), [DoT](http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf)</td>
+      <td>Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf)</td>
+    </tr>
+  </tbody>
 </table>
-**4.3%**
-
-##### GDP
-
-Compounded annual growth rate of real GDP from 2014-2017.
-
-Source: [Bay Area Council 2019](http://documents.bayareacouncil.org/SacramentoPresentation.pdf)
-
-**2.1%**
-
-##### Unemployment
-
-Companies are challenged to find folks to hire, according to California Dept. of Transport.
-
-Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf), [DoT](http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf)
-
-**3.3%**
-
-##### Wage & Salary Growth
-
-Real per capital income is expected to surpass $135k by 2023.
-
-Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf), [DoT](http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf)
-
-**2.7%**
-
-##### Job Growth
-
-Yep.
-
-Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf)
 
 To say the local economy is robust is an understatement.
 
