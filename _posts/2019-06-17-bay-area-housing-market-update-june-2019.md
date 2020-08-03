@@ -204,37 +204,39 @@ Freddie Mac forecasts the average rate on a 30-year fixed-rate mortgage to avera
 
 The U.S. economy is experiencing what [may turn out to be](https://www.theguardian.com/business/2019/jun/14/the-us-economic-recovery-is-far-from-being-a-world-record) the longest period of economic expansion in its history. Growth is strong, unemployment is at a 50-year low, inflation is below the 2% target, and consumers are optimistic on the whole.
 
-**3.1%**
+<div class="table-responsive">
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">GDP</th>
+      <th scope="col">Unemployment</th>
+      <th scope="col">Inflation</th>
+      <th scope="col">Consumer Confidence</th>
+    </tr>
+  </thead>
+ <tbody>
+   <tr>
+     <td><b>3.1%</b></td>
+     <td><b>3.6%</b></td>
+     <td><b>1.8%</b></td>
+     <td><b>100</b></td>
+    </tr>
+   <tr>
+     <td>Strong growth reported for Q1 2019.</td>
+     <td>Virtual 'full employment'.</td>
+     <td>Below the 2% target.</td>
+     <td>'Favorable levels' despite geopolitical challenges.</td>
+   </tr>
+   <tr>
+     <td>Source: <a href="https://www.bea.gov/news/2019/gross-domestic-product-1st-quarter-2019-second-estimate-corporate-profits-1st-quarter">U.S. BEA</a></td>
+     <td>Source: <a href="https://data.bls.gov/timeseries/LNS14000000">BLS</a></td>
+     <td>Source: <a href="https://tradingeconomics.com/united-states/inflation-cpi">BLS</a></td>
+     <td>Source: <a href="https://tradingeconomics.com/articles/05312019140711.htm">U. of Michigan</a></td>
+   </tr>
+  </tbody>
+  </table>
+</div>
 
-##### GDP
-
-Strong growth reported for Q1 2019.
-
-Source: [U.S. BEA](https://www.bea.gov/news/2019/gross-domestic-product-1st-quarter-2019-second-estimate-corporate-profits-1st-quarter)
-
-**3.6%**
-
-##### Unemployment
-
-Virtual 'full employment'.
-
-Source: [BLS](https://data.bls.gov/timeseries/LNS14000000)
-
-**1.8%**
-
-##### Inflation
-
-Below the 2% target.
-
-Source: [BLS](https://tradingeconomics.com/united-states/inflation-cpi)
-
-**100**
-
-##### Consumer Confidence
-
-'Favorable levels' despite geopolitical challenges.
-
-Source: [U. of Michigan](https://tradingeconomics.com/articles/05312019140711.htm)
 
 It is clear that despite this impressive stretch of growth at the national level, the U.S. faces [growing economic disparity](https://www.marketwatch.com/story/the-richest-10-of-households-now-represent-70-of-all-us-wealth-2019-05-24) at the individual level. Still, many of those who live and work around the country have benefitted from higher incomes, appreciating assets, and financial returns. This is particularly true in economic powerhouses such as the San Francisco, San Jose, Seattle, and Austin metro areas.
 
