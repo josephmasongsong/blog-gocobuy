@@ -28,9 +28,9 @@ This week we highlight [CoBuy-certified™](https://www.gocobuy.com/certified-pr
 
 We sat down with Trevor to talk about the process of buying a home together and how to get it right.
 
-[![{{ brizy_dc_image_alt uid='wp-984fa84393bb9a2b8ca7ce43983cf639' }}](https://blog.gocobuy.com/cobuy-certified-mortgage-pro-trevor-reese/%7B@brizy_SITE_URL_PLACEHOLDER@%7D/?brizy_media=wp-984fa84393bb9a2b8ca7ce43983cf639&brizy_crop=iW%3D229%26iH%3D319%26oX%3D0%26oY%3D0%26cW%3D229%26cH%3D319&brizy_post=3015)](https://www.gocobuy.com/certified-pro)
+[![](/assets/images/certificate.png)](https://www.gocobuy.com/certified-pro)
 
-[![{{ brizy_dc_image_alt uid='wp-28a7593ce4f4dd64fcd5705c16b2b63e' }}](https://blog.gocobuy.com/cobuy-certified-mortgage-pro-trevor-reese/%7B@brizy_SITE_URL_PLACEHOLDER@%7D/?brizy_media=wp-28a7593ce4f4dd64fcd5705c16b2b63e&brizy_crop=iW%3D229%26iH%3D229%26oX%3D0%26oY%3D0%26cW%3D229%26cH%3D229&brizy_post=3015)](https://www.loandepot.com/loan-officers/treese)
+[![](/assets/images/trevor_r.jpg)](https://www.loandepot.com/loan-officers/treese)
 
 [**Trevor Reese**](https://www.loandepot.com/loan-officers/treese)
 
