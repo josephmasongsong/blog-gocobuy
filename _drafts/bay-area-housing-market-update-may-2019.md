@@ -5,7 +5,7 @@ layout: post
 title: 'Bay Area Housing Market Update – May 2019 '
 description: Home prices in the SF metro are up 13% in 2019, but buyers can increase
   their purchasing power drastically by teaming up to buy and own together
-image: ''
+image: "/assets/images/cobuy-bay-area-housing-market-update-may-2019-e1557971182234.jpeg"
 hidden: false
 date: 
 
