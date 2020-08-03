@@ -12,8 +12,8 @@ description: We examine the risks and best practice for co-buying a home with fi
 image: "/assets/images/co-buying-a-home-bank-of-mom-and-dad-e1568328074673.jpeg"
 featured: false
 hidden: false
-date: 2019-09-12 20:00:00 +0000
-permalink: /buying-with-help-bank-of-mom-and-dad
+date: 2019-09-12T20:00:00.000+00:00
+permalink: "/buying-with-help-bank-of-mom-and-dad"
 
 ---
 It’s tough out there for young adults who want to buy a home.
@@ -67,6 +67,7 @@ The bottom line.
 Approached intelligently, securing financial support from friends or family can be a great way to get on the property ladder and start building equity as a homeowner. Those who do choose this route are wise to plan and document the arrangement carefully. Ultimately, it’s a good idea to consult licensed lending, legal, and tax professionals who have relevant domain expertise. With money, relationships, and a home at stake, there’s no sense in spending a dollar to save a dime.
 
 ***
+
 ## CoBuyer Genya S.
 
 Learn how CoBuy helped Genya and her partner navigate the process of co-buying a home with support from family members.
