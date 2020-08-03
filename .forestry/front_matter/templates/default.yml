@@ -64,7 +64,6 @@ fields:
   hidden: true
   default: post
 pages:
-- _posts/2019-06-17-bay-area-housing-market-update-june-2019-1.md
 - _posts/2019-06-23-greater-seattle-housing-market-update-summer-2019.md
 - _posts/2019-08-05-bay-area-housing-market-flash-august-2019.md
 - _posts/2019-09-12-co-buying-a-home-with-a-little-help-from-the-bank-of-mom-dad.md
