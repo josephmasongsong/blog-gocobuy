@@ -74,9 +74,9 @@ Learn how CoBuy helped Genya and her partner navigate the process of co-buying a
 
 {% youtube https://www.youtube.com/watch?v=ij4liE_fhkU %}
 
-\***
+***
 
-\## Get in touch.
+## Get in touch.
 
 CoBuy makes it easy to buy & own a home together, intelligently. We work with buyers to navigate the purchase process efficiently and effectively. Best of all, we don't charge buyers to use our service.
 

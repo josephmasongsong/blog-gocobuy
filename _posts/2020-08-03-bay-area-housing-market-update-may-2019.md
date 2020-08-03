@@ -143,33 +143,54 @@ On the supply side, the Bay has a [severe shortage of](https://blog.gocobuy.com/
 
 
 
-Alameda County (2010-2018)
+### Alameda County (2010-2018)
 
-\+9.9%
+<div class="table-responsive">
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Population</th>
+      <th scope="col">Housing units</th>
+    </tr>
+  </thead>
+ <tbody>
+   <tr>
+     <td><b>+9.9%</b></td>
+     <td><b>+3.6%</b></td>
+    </tr>
+   <tr>
+      <td>Source: CA Dept. of Finance</td>
+      <td>Source: CA Dept. of Finance</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
-Population
 
-Source: CA Dept. of Finance
 
-\+3.6%
 
-Housing units
+### San Francisco County (2010-2018)
 
-Source: CA Dept. of Finance
-
-San Francisco County (2010-2018)
-
-\+9.8%
-
-Population
-
-Source: CA Dept. of Finance
-
-\+5.6%
-
-Housing units
-
-Source: CA Dept. of Finance
+<div class="table-responsive">
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Population</th>
+      <th scope="col">Housing units</th>
+    </tr>
+  </thead>
+ <tbody>
+   <tr>
+     <td><b>+9.8%</b></td>
+     <td><b>+5.6%</b></td>
+    </tr>
+   <tr>
+      <td>Source: CA Dept. of Finance</td>
+      <td>Source: CA Dept. of Finance</td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 Regulation, [sky-rocketing construction costs](https://www.sfchronicle.com/business/article/San-Francisco-passes-New-York-to-become-world-s-13760541.php), and an [accrued housing deficit](https://ternercenter.berkeley.edu/blog/local-solutions-statewide-shortfall) are contributing factors.
 
@@ -243,37 +264,38 @@ The Bay Area continues to experience a period of strong economic performance (th
 
 ***
 
-**2.8%**
-
-##### Low Unemployment
-
-Virtual full employment: the majority of those who are able and want to work can secure employment.
-
-Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf), [DoT](http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf)
-
-**2.3%**
-
-##### Steady Job Creation
-
-Many firms are actually challenged to find folks to hire in the current climate, according to California Dept. of Transport.
-
-Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf), [DoT](http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf)
-
-**3.8%**
-
-##### Strong Wage & Salary Growth
-
-Real per capital income is expected to surpass $135k by 2023.
-
-Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf), [DoT](http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf)
-
-**3.5%**
-
-##### Inflation
-
-Above the national average, though down from the last release at 4.5%.
-
-Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf)
+<div class="table-responsive">
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">Low Unemployment</th>
+      <th scope="col">Steady Job Creation</th>
+      <th scope="col">Strong Wage & Salary Growth</th>
+      <th scope="col">Inflation</th>
+    </tr>
+  </thead>
+ <tbody>
+   <tr>
+     <td><b>2.8%</b></td>
+     <td><b>2.3%</b></td>
+     <td><b>3.8%</b></td>
+     <td><b>3.5%</b></td>
+    </tr>
+   <tr>
+      <td>Virtual full employment: the majority of those who are able and want to work can secure employment.</td>
+      <td>Many firms are actually challenged to find folks to hire in the current climate, according to California Dept. of Transport.</td>
+      <td>Real per capital income is expected to surpass $135k by 2023.</td>
+      <td>Above the national average, though down from the last release at 4.5%.</td>
+    </tr>
+	<tr>
+      <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+      <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+      <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+      <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
 ### **Looking ahead...**
 
