@@ -248,6 +248,17 @@ If the Bay Area were a country, it would have the world’s [19th largest econom
 
 Its residents are among the nations most educated and are responsible for nearly one in five patents issued nationally in the U.S. The Bay is home to 33 of the companies in the Fortune 500, second only to New York and Chicago. It beats the combined average of its peer group (NYC, L.A., Austin, Dallas, Boston, Seattle, and San Diego) across growth in wages, GDP, household income, employment, productivity, and income per capita.
 
+
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col"><svg id="nc_icon" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 24 24" xml:space="preserve" class="brz-icon-svg"><g transform="translate(0, 0)" class="nc-icon-wrapper" fill="none"><polyline data-cap="butt" data-color="color-2" fill="none" stroke="currentColor" vector-effect="non-scaling-stroke" stroke-miterlimit="10" points="22,7 13,17 7,11 2,16 " stroke-linejoin="miter" stroke-linecap="butt"></polyline> <polyline fill="none" stroke="currentColor" vector-effect="non-scaling-stroke" stroke-linecap="square" stroke-miterlimit="10" points="15,7 22,7 22,14 " stroke-linejoin="miter"></polyline></g></svg></th>
+      <th scope="col">First</th>
+      <th scope="col">Last</th>
+      <th scope="col">Handle</th>
+    </tr>
+  </thead>
+</table>
 **4.3%**
 
 ##### GDP
