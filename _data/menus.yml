@@ -1,10 +1,1 @@
----
-header:
-- url: "/contact"
-  title: Contact Us
-  identifier: contact
-  weight: 2
-- title: About
-  identifier: about
-  url: "/about"
-  weight: 1
+--- {}
