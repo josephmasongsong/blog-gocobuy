@@ -1,12 +1,17 @@
 ---
 author: mat
-categories: []
+categories:
+  - Bay Area
+  - CoBuying
+  - Housing Market Update
 layout: post
-title: 'Bay Area Housing Market Update – May 2019 '
-description: Home prices in the SF metro are up 13% in 2019, but buyers can increase
-  their purchasing power drastically by teaming up to buy and own together
+title: 'Bay Area Housing Market Update – May 2019'
+description: Home prices in the SF metro are up 13% in 2019, but buyers can increase their purchasing power drastically by teaming up to buy and own together
 image: "/assets/images/cobuy-bay-area-housing-market-update-may-2019-e1557971182234.jpeg"
+<<<<<<< HEAD
 hidden: false
+=======
+>>>>>>> 136e54e... modifications to multiple articles
 date: 2019-05-14 20:00:00 +0000
 permalink: bay-area-housing-market-update-may-2019
 
@@ -60,24 +65,28 @@ Last month we highlighted three themes that we see driving Bay area housing mark
 The picture has evolved, but it has not drastically changed. We continue to see these as key drivers over the near term and beyond (more below).
 
 The past month has yielded important new information on the health of the U.S. economy. An article dated May 4th in The Economist sums it up: ['Fears of recession in America have faded'](https://www.economist.com/finance-and-economics/2019/05/04/fears-of-recession-in-america-have-faded). Recent economic data has confirmed strong growth, a rebound in consumer confidence, low inflation, and the lowest unemployment in 50 years.
-
-3\.2%
-
-[Q1 GDP](https://finance.yahoo.com/news/gdp-1q-2019-first-print-191823923.html)
-
-3\.6%
-
-[Unemployment](https://www.reuters.com/article/us-usa-economy/strong-us-job-growth-expected-in-april-wages-seen-moderate-idUSKCN1S9075)
-
-1\.6%
-
-[Inflation](https://www.bea.gov/news/2019/personal-income-and-outlays-march-2019)
-
-(PCE Price Index)
-
-129\.2
-
-[CB Consumer Confidence Index](https://www.conference-board.org/data/consumerconfidence.cfm)
+<div class="table-responsive">
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">
+<a href="https://finance.yahoo.com/news/gdp-1q-2019-first-print-191823923.html">Q1 GDP</a></th>
+      <th scope="col">
+<a href="https://www.reuters.com/article/us-usa-economy/strong-us-job-growth-expected-in-april-wages-seen-moderate-idUSKCN1S9075">Unemployment</a></th>
+      <th scope="col"><a href="https://www.bea.gov/news/2019/personal-income-and-outlays-march-2019">Inflation</a> (PCE Price Index)</th>
+      <th scope="col"><a href="https://www.conference-board.org/data/consumerconfidence.cfm">CB Consumer Confidence Index</a></th>
+    </tr>
+  </thead>
+ <tbody>
+   <tr>
+     <td><b>3.2%</b></td>
+     <td><b>3.6%</b></td>
+     <td><b>1.6%</b></td>
+     <td><b>129.2</b></td>
+    </tr>
+  </tbody>
+  </table>
+</div>
 
 After an extended period of growth, many media outlets, analysts, and investors have predicted a slowdown. As of writing, there is little evidence that _America, Inc_ has started to falter. If anything, quite the opposite. The economy is growing and adding jobs while inflation remains below the 2% bright line. For the first time, the concern is that an excessively tight labor market [could actually be the mitigating factor](https://www.reuters.com/article/us-usa-economy-jobs/us-job-openings-surge-point-to-tightening-labor-market-idUSKCN1SD1P9) to the current period of extended expansion as companies struggle to source the talent they need to continue producing goods and services.
 
@@ -135,6 +144,8 @@ Fundamentally, there exists a sizable imbalance between the demand for homes in 
 
 On the supply side, the Bay has a [severe shortage of](https://blog.gocobuy.com/bay-area-housing-market-update-may-2019/#supply) [housing](https://blog.gocobuy.com/bay-area-housing-market-update-may-2019/#supply). According to the California Department of Transportation, "housing production is not keeping pace with population growth."
 
+
+
 Alameda County (2010-2018)
 
 \+9.9%
@@ -165,7 +176,8 @@ Source: CA Dept. of Finance
 
 Regulation, [sky-rocketing construction costs](https://www.sfchronicle.com/business/article/San-Francisco-passes-New-York-to-become-world-s-13760541.php), and an [accrued housing deficit](https://ternercenter.berkeley.edu/blog/local-solutions-statewide-shortfall) are contributing factors.
 
-Price action
+---
+## Price action
 
 Bay Area Median List Prices: on the rise
 
@@ -195,13 +207,14 @@ Below, we break out _home value_ performance by city. Home value indices were a 
 
 ![](https://blog.gocobuy.com/wp-content/uploads/brizy/2619/assets/images/iW=746&iH=462&oX=0&oY=0&cW=746&cH=462/Home-Values-by-city-May-update.png)
 
-**Jargon Busting**
+### Jargon Busting
 
 **List Price**: the price at which a seller advertises a property for sale on the market.
 
 **Sale Price**: the price at which a seller and a buyer agree to transact. The _median sale price_ for a given data set is the price “in the middle” of all sale prices when arranged in order of value. Referencing the _median sale price_ instead of the _mean sale price_ is useful as it reduces skew from outlying data points.
 
 **Home Value**: a proxy for the value of a property, or how much it is "worth". Ultimately, the true determination of value can only be established through transacting. Most homes in a particular geography aren’t on the market, so indices are constructed in order to monitor fluctuations in local home values in aggregate.
+---
 
 ## Supply & Demand
 
@@ -300,22 +313,30 @@ In the example below, we assume:
 
 Source: realtor.com data for SF-Oakland-Hayward Metro as of April 2019
 
-Economies of Scale
+## Economies of Scale
 
-**Flying solo**
-
-**single buyer / 1 bedroom home**
-
-A single buyer would need $76k in cash up front for down payment and closing costs.
-
-**Teaming up to co-buy**
-
-**3 co-buyers / 3 bedroom home**
-
-Three co-buyers would need to each contribute $37k up front for down payment and closing costs.
+<table class="table">
+  <thead>
+    <tr>
+      <th>Flying solo </th>
+      <th>Teaming up to co-buy </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>single buyer / 1 bedroom home</td>
+      <td>3 co-buyers / 3 bedroom home</td>
+    </tr>
+    <tr>
+      <td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
+      <td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
+    </tr>
+  </tbody>
+</table>
 
 Breaking it down...
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2619/assets/images/iW=995&iH=152&oX=0&oY=0&cW=995&cH=152/Co-buying-a-home-Bay-area-May-update.png)
+![](/assets/images/break-it-down-2019.png)
 
 On a per-bedroom basis, purchasing a three-bedroom home in the SF-Oakland-Hayward metro is currently 52% cheaper than purchasing a one-bedroom home. Economies of scale are real! Co-buying can deliver more bang for your buck _and_ provide greater optionality.
+

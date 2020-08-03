@@ -1,7 +1,7 @@
 ---
 author: mat
 categories:
-- "\tBay Area"
+- Bay Area
 - CoBuying
 - Housing Market Update
 layout: post

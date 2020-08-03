@@ -295,22 +295,29 @@ In the example below, we assume:
 
 Source: NWMLS data for Seattle as of June 2019.
 
-Economies of Scale
+## Economies of Scale
 
-**Flying solo**
+<table class="table">
+  <thead>
+    <tr>
+      <th>Flying solo </th>
+      <th>Teaming up to co-buy </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>single buyer / 1 bedroom home</td>
+      <td>3 co-buyers / 3 bedroom home</td>
+    </tr>
+    <tr>
+      <td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
+      <td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
+    </tr>
+  </tbody>
+</table>
 
-**single buyer / 1 bedroom home**
+Breaking it down...
 
-A single buyer would need $50k in cash up front for down payment and closing costs.
+![](/assets/images/break-it-down-2019.png)
 
-**Teaming up to co-buy**
-
-**3 co-buyers / 3 bedroom home**
-
-Three co-buyers would need to each contribute $31k up front for down payment and closing costs.
-
-Breaking it down…
-
-![](/assets/images/breaking-down-rooms.png)
-
-On a per-bedroom basis, purchasing a three-bedroom home in Seattle is nearly 40% cheaper versus purchasing a one-bedroom home. Economies of scale are real! Co-buying can deliver more bang for your buck _and_ provide greater optionality.
+On a per-bedroom basis, purchasing a three-bedroom home in the SF-Oakland-Hayward metro is currently 52% cheaper than purchasing a one-bedroom home. Economies of scale are real! Co-buying can deliver more bang for your buck _and_ provide greater optionality.

@@ -48,7 +48,7 @@ Market conditions continue to play out in-line with our expectations. The invent
 ### **San Francisco-Oakland-Hayward Metro Area**
 
 | **Median List Price** | $954,500 (+14% year to date) |
-| **Active Listings** | 6,461 properties (+15% vs. last month) | 
+| **Active Listings** | 6,461 properties (+15% vs. last month) |
 |**Single-family Home Sales** | +19.4% (vs. last month) |
 | **Days on Market** | 28 days (flat vs. last month) |
 
@@ -307,16 +307,14 @@ Source: realtor.com data for SF-Oakland-Hayward Metro as of April 2019
     <tr>
       <td>single buyer / 1 bedroom home</td>
       <td>3 co-buyers / 3 bedroom home</td>
-      
     </tr>
     <tr>
       <td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
       <td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
-      
     </tr>
   </tbody>
 </table>
-  
+
 Breaking it down...
 
 ![](/assets/images/break-it-down-2019.png)
