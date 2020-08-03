@@ -12,8 +12,8 @@ description: Borrowing money to buy a home together? Working with a CoBuy-certif
 image: "/assets/images/cobuy-certified-mortgage-pro-1600x900.jpg"
 featured: false
 hidden: false
-date: 2019-10-07 20:00:00 +0000
-permalink: /cobuy-certified-mortgage-pro-trevor-reese
+date: 2019-10-07T20:00:00.000+00:00
+permalink: "/cobuy-certified-mortgage-pro-trevor-reese"
 
 ---
 **CoBuy-certified™**
@@ -28,9 +28,9 @@ This week we highlight [CoBuy-certified™](https://www.gocobuy.com/certified-pr
 
 We sat down with Trevor to talk about the process of buying a home together and how to get it right.
 
-[![{{ brizy_dc_image_alt uid='wp-984fa84393bb9a2b8ca7ce43983cf639' }}](https://blog.gocobuy.com/cobuy-certified-mortgage-pro-trevor-reese/{@brizy_SITE_URL_PLACEHOLDER@}/?brizy_media=wp-984fa84393bb9a2b8ca7ce43983cf639&brizy_crop=iW%3D229%26iH%3D319%26oX%3D0%26oY%3D0%26cW%3D229%26cH%3D319&brizy_post=3015)](https://www.gocobuy.com/certified-pro)
+[![{{ brizy_dc_image_alt uid='wp-984fa84393bb9a2b8ca7ce43983cf639' }}](https://blog.gocobuy.com/cobuy-certified-mortgage-pro-trevor-reese/%7B@brizy_SITE_URL_PLACEHOLDER@%7D/?brizy_media=wp-984fa84393bb9a2b8ca7ce43983cf639&brizy_crop=iW%3D229%26iH%3D319%26oX%3D0%26oY%3D0%26cW%3D229%26cH%3D319&brizy_post=3015)](https://www.gocobuy.com/certified-pro)
 
-[![{{ brizy_dc_image_alt uid='wp-28a7593ce4f4dd64fcd5705c16b2b63e' }}](https://blog.gocobuy.com/cobuy-certified-mortgage-pro-trevor-reese/{@brizy_SITE_URL_PLACEHOLDER@}/?brizy_media=wp-28a7593ce4f4dd64fcd5705c16b2b63e&brizy_crop=iW%3D229%26iH%3D229%26oX%3D0%26oY%3D0%26cW%3D229%26cH%3D229&brizy_post=3015)](https://www.loandepot.com/loan-officers/treese)
+[![{{ brizy_dc_image_alt uid='wp-28a7593ce4f4dd64fcd5705c16b2b63e' }}](https://blog.gocobuy.com/cobuy-certified-mortgage-pro-trevor-reese/%7B@brizy_SITE_URL_PLACEHOLDER@%7D/?brizy_media=wp-28a7593ce4f4dd64fcd5705c16b2b63e&brizy_crop=iW%3D229%26iH%3D229%26oX%3D0%26oY%3D0%26cW%3D229%26cH%3D229&brizy_post=3015)](https://www.loandepot.com/loan-officers/treese)
 
 [**Trevor Reese**](https://www.loandepot.com/loan-officers/treese)
 
@@ -95,3 +95,25 @@ Legal considerations
 Exiting the co-ownership arrangement
 
 **CoBuy can help.**
+
+***
+
+## Get in touch.
+
+CoBuy makes it easy to buy & own a home together, intelligently. We work with buyers to navigate the purchase process efficiently and effectively. Best of all, we don't charge buyers to use our service.
+
+Considering buying a home with friends, family, or a loved one? We'd love to hear from you. Create an account at [CoBuy](http://www.gocobuy.com) or drop us a note below for more info.
+
+<form name="post-contact" method="POST" data-netlify="true">
+<p class="form-group">
+<label form="formEmail">Email</label>
+<input type="email" name="email" class="form-control" id="formEmail" required/>
+</p>
+<p class="form-group">
+<label for="formMessage">Message <span class="text-danger">*</span></label>
+<textarea name="message" class="form-control" id="formMessage" required></textarea>
+</p>
+<p>
+<button type="submit" class="btn btn-primary">Submit</button>
+</p>
+</form>
