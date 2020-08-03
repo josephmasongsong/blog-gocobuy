@@ -1,2 +1,5 @@
 ---
-header: []
+header:
+- title: About
+  identifier: about
+  url: "/about"
