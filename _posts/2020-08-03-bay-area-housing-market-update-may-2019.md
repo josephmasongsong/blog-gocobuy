@@ -33,11 +33,11 @@ Prices and activity are up month-on-month in the San Francisco-Oakland-Hayward M
 
 **San Francisco-Oakland-Hayward Metro Area**
 
-**| Median List Price |** $948,295 (+3% vs. last month) |
+| **Median List Price** | $948,295 (+3% vs. last month) |
 
-**| Pending Listings |** 4,085 properties (+20% vs. last month) |
+| **Pending Listings** | 4,085 properties (+20% vs. last month) |
 
-**| Days on Market |** 28 days (-1 day vs. last month) |
+| **Days on Market** | 28 days (-1 day vs. last month) |
 
 Markets around the Bay are hyper competitive. Lower mortgage rates coupled with continued wage growth continue to spur homebuyer interest. We are seeing strong demand and
 
