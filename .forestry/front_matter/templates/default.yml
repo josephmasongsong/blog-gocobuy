@@ -16,6 +16,21 @@ fields:
     schema:
       format: markdown
   label: description
+- name: hidden
+  type: boolean
+  label: hidden
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: image
+- name: toc
+  type: boolean
+  label: Table of contents
 - name: author
   type: select
   default: []
@@ -30,18 +45,6 @@ fields:
       file: 
       path: 
   label: author
-- name: categories
-  type: tag_list
-  default: []
-  label: categories
-- name: image
-  type: file
-  config:
-    maxSize: 64
-  label: image
-- name: hidden
-  type: boolean
-  label: hidden
 - name: date
   type: datetime
   label: date
@@ -71,4 +74,3 @@ pages:
 - _posts/2019-09-13-mortgage-before-marriage-read-this-first.md
 - _posts/2019-10-07-cobuy-certified-mortgage-pro-trevor-reese.md
 - _posts/2020-08-03-bay-area-housing-market-update-may-2019.md
-- _posts/greater-seattle-housing-market-survey-april-19.md
