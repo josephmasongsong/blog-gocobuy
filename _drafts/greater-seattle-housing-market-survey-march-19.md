@@ -66,25 +66,12 @@ over the next 3 months.
 
 ...
 
-##### **#1**
-
-##### Lack of Inventory
-
-##### **#2**
-
-##### Geopolitics
-
-##### **#3**
-
-##### Economic Uncertainty
-
-##### **#4**
-
-##### Inadequate Infrastructure
+**#1** - Lack of Inventory
+**#2** - Geopolitics
+**#3** - Economic Uncertainty
+**#4** - Inadequate Infrastructure
 
 ## Challenges facing first-time buyers...
-
-## 
 
 **_High prices_**
 
