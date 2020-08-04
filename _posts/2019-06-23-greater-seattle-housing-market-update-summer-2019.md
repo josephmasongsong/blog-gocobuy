@@ -105,7 +105,7 @@ The supply and demand dynamics in and around Seattle will continue to impact hom
 
 Robust local and national economies contribute to a growing professional class of residents with significant purchasing power. Among the nation’s largest metros, Seattle ranks [second for pay growth and third for job growth](https://www.seattlebusinessmag.com/economy/seattle-shines-both-job-and-pay-growth-over-past-year) over the last year. Job creation, population growth, and higher wages increase the demand for housing.
 
-Price action
+## Price action
 
 Trending up in 2019…
 
@@ -119,13 +119,17 @@ Many articles in the press talk about softening in local housing markets. Ironic
 
 Job growth and rising incomes are likely to contribute to moderate price appreciation over the coming months, barring any shocks.
 
-**Jargon Busting**
+---
+
+## Jargon Busting
 
 **List Price**: the price at which a seller advertises a property for sale on the market.
 
 **Sale Price**: the price at which a seller and a buyer agree to transact. The _median sale price_ for a given data set is the price “in the middle” of all sale prices when arranged in order of value. Referencing the _median sale price_ instead of the _mean sale price_ is useful as it reduces skew from outlying data points.
 
 **Home Value**: a proxy for the value of a property, or how much it is “worth”. Ultimately, the true determination of value can only be established through transacting. Most homes in a particular geography aren’t on the market, so indices are constructed in order to monitor fluctuations in local home values in aggregate.
+
+---
 
 ## Supply & Demand
 
@@ -202,37 +206,38 @@ Freddie Mac forecasts the average rate on a 30-year fixed-rate mortgage to avera
 
 The U.S. economy is experiencing what [may turn out to be](https://www.theguardian.com/business/2019/jun/14/the-us-economic-recovery-is-far-from-being-a-world-record) the longest period of economic expansion in its history. Growth is strong, unemployment is at a 50-year low, inflation is below the 2% target, and consumers are optimistic on the whole.
 
-**3.1%**
-
-##### GDP
-
-Strong growth reported for Q1 2019.
-
-Source: [U.S. BEA](https://www.bea.gov/news/2019/gross-domestic-product-1st-quarter-2019-second-estimate-corporate-profits-1st-quarter)
-
-**3.6%**
-
-##### Unemployment
-
-Virtual ‘full employment’.
-
-Source: [BLS](https://data.bls.gov/timeseries/LNS14000000)
-
-**1.8%**
-
-##### Inflation
-
-Below the 2% target.
-
-Source: [BLS](https://tradingeconomics.com/united-states/inflation-cpi)
-
-**100**
-
-##### Consumer Confidence
-
-‘Favorable levels’ despite geopolitical challenges.
-
-Source: [U. of Michigan](https://tradingeconomics.com/articles/05312019140711.htm)
+<div class="table-responsive">
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">GDP</th>
+      <th scope="col">Unemployment</th>
+      <th scope="col">Inflation</th>
+      <th scope="col">Consumer Confidence</th>
+    </tr>
+  </thead>
+ <tbody>
+   <tr>
+     <td><b>3.1%</b></td>
+     <td><b>3.6%</b></td>
+     <td><b>1.8%</b></td>
+     <td><b>100</b></td>
+    </tr>
+   <tr>
+     <td>Strong growth reported for Q1 2019.</td>
+     <td>Virtual 'full employment'.</td>
+     <td>Below the 2% target.</td>
+     <td>'Favorable levels' despite geopolitical challenges.</td>
+   </tr>
+   <tr>
+     <td>Source: <a href="https://www.bea.gov/news/2019/gross-domestic-product-1st-quarter-2019-second-estimate-corporate-profits-1st-quarter">U.S. BEA</a></td>
+     <td>Source: <a href="https://data.bls.gov/timeseries/LNS14000000">BLS</a></td>
+     <td>Source: <a href="https://tradingeconomics.com/united-states/inflation-cpi">BLS</a></td>
+     <td>Source: <a href="https://tradingeconomics.com/articles/05312019140711.htm">U. of Michigan</a></td>
+   </tr>
+  </tbody>
+  </table>
+</div>
 
 It is clear that despite this impressive stretch of growth at the national level, the U.S. faces [growing economic disparity](https://www.marketwatch.com/story/the-richest-10-of-households-now-represent-70-of-all-us-wealth-2019-05-24) at the individual level. Still, many of those who live and work around the country have benefitted from higher incomes, appreciating assets, and financial returns. This is particularly true in economic powerhouses such as the San Francisco, San Jose, Seattle, and Austin metro areas.
 
@@ -246,37 +251,39 @@ Greater Seattle has one of the strongest, most dynamic local economies on the pl
 
 Last month, Washington received the dual honors of being recognized as the [strongest state economy](https://wallethub.com/edu/states-with-the-best-economies/21697/) nationally and the “[best state](https://www.usnews.com/news/best-states/washington#state-rankings)” by U.S. News & World Report. Seattle’s booming technology sector boasts the [second highest wages globally for tech](https://www.seattlepi.com/business/article/Seattle-tech-worker-salary-job-career-Hired-report-14026259.php) with a median income of $138k, adding [more tech jobs](https://readwrite.com/2019/05/24/its-not-just-coffee-technology-now-fueling-massive-growth-in-seattle/) than any other city over the past two years. Over [230,000 employees work in STEM-related roles](https://www.geekwire.com/2019/seattle-los-angeles-lead-stem-job-growth-u-s/) (science, tech, engineering, math), equal to 31% of Seattle’s population.
 
-**5.2%**
+<div class="table-responsive">
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th scope="col">GDP</th>
+      <th scope="col">Unemployment</th>
+      <th scope="col">Wages & Salaries</th>
+      <th scope="col">Job Growth</th>
+    </tr>
+  </thead>
+ <tbody>
+   <tr>
+     <td><b>5.2%</b></td>
+     <td><b>3.4%</b></td>
+     <td><b>2.9%</b></td>
+     <td><b>2.8%</b></td>
+    </tr>
+   <tr>
+     <td>Stellar growth.</td>
+     <td>Low unemployment.</td>
+     <td>Growing wages & salaries.</td>
+     <td>Booming job market.</td>
+   </tr>
+   <tr>
+     <td>Source: <a href="https://www.bea.gov/system/files/2018-09/gdp_metro0918_0.pdf">U.S. BEA</a></td>
+     <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_seattle.pdf">BLS</a></td>
+     <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_seattle.pdf">BLS</a></td>
+     <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_seattle.pdf">U. of Michigan</a></td>
+   </tr>
+  </tbody>
+  </table>
+</div>
 
-##### GDP
-
-Stellar growth.
-
-Source: [U.S. BEA](https://www.bea.gov/system/files/2018-09/gdp_metro0918_0.pdf)
-
-**3.4%**
-
-##### Unemployment
-
-Low unemployment.
-
-Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_seattle.pdf)
-
-**2.9%**
-
-##### Wages & Salaries
-
-Growing wages & salaries.
-
-Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_seattle.pdf)
-
-**2.8%**
-
-##### Job Growth
-
-Booming job market.
-
-Source: [BLS](https://www.bls.gov/regions/west/summary/blssummary_seattle.pdf)
 
 Seattle metro’s GDP growth is second only to the Austin metropolitan area, unemployment is low, and both income and job growth are top 5 in the nation. The most significant risk factor to its overall economic performance is a [shortage of human capital](https://www.seattletimes.com/business/with-seattles-low-skill-workforce-in-high-demand-employers-struggle-to-keep-up/): companies are struggling to find people to hire.
 
