@@ -120,7 +120,7 @@ Here's a heat map of the "hottest zip codes" around the Seattle Metro area right
 
 <div><noscript><img alt=" " src="https://public.tableau.com/static/images/RQ/RQFY8TTD5/1_rss.png" style="border: none"></noscript><script src="https://public.tableau.com/javascripts/api/viz_v1.js"></script><iframe marginheight="0" marginwidth="0" title="Data Visualization" allowtransparency="true" allowfullscreen="true" class="tableauViz" style="display: block; width: 100%; height: 476.25px; margin: 0px; padding: 0px; border: medium none;" src="https://public.tableau.com/shared/RQFY8TTD5?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0" frameborder="0"></iframe></div>
 
-\## Co-buying gets you more bang for your buck
+\##  Co-buying gets you more bang for your buck
 
 \**Pooling resources to buy a home can be a great way to get a down payment together and to benefit from economies of scale. Every month, we illustrate the benefits of combined purchasing power with up-to-date market data.**
 
