@@ -16,11 +16,11 @@ permalink: bay-area-housing-market-update-feb-2019
 
 The Year of the Pig is officially underway, and with it a “[...lucky lunar cycle inclined to bring prosperity and wealth.](https://www.latimes.com/home/la-hm-chinese-lunar-new-year-of-pig-20190129-story.html)” In this update, we explore the key drivers set to shape housing markets around the Bay in the months ahead. Here's to _health_, _wealth_, and _good vibes_ in this Year of the Pig.
 
-###### -[Team CoBuy](https://www.gocobuy.com/)
+[Team CoBuy](https://www.gocobuy.com/)
 
 A glitch in the matrix?
 
-# **Home prices across the Bay have demonstrated volatility over the last twelve months. Journalists have had a field day. Depending on the media outlet, home prices either rose by** [**double digits**](https://www.forbes.com/sites/ingowinzer/2019/01/22/what-you-need-to-know-if-you-are-investing-in-california-real-estate/#2713e8a39a4e) **or** [**took a tumble**](https://sf.curbed.com/2019/1/3/18166996/december-home-prices-sf-oakland-drop-2018) **in 2018. But we need to compare apples to apples.**
+**Home prices across the Bay have demonstrated volatility over the last twelve months. Journalists have had a field day. Depending on the media outlet, home prices either rose by** [**double digits**](https://www.forbes.com/sites/ingowinzer/2019/01/22/what-you-need-to-know-if-you-are-investing-in-california-real-estate/#2713e8a39a4e) **or** [**took a tumble**](https://sf.curbed.com/2019/1/3/18166996/december-home-prices-sf-oakland-drop-2018) **in 2018. But we need to compare apples to apples.**
 
 Bay Area Median List Prices sky-rocketed in 2018, but finished the year flat
 
