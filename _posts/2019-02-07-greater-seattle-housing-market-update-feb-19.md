@@ -116,4 +116,68 @@ Property markets are highly-localized, by definition. The difference in a few ci
 
 Here's a heat map of the "hottest zip codes" around the Seattle Metro area right now. We base this on data from [realtor.com](http://www.realtor.com) which evaluates zip codes within a given metro based on key determinants of supply and demand.
 
-<div><noscript><img alt=" " src="https://public.tableau.com/static/images/RQ/RQFY8TTD5/1_rss.png" style="border: none"></noscript><script src="https://public.tableau.com/javascripts/api/viz_v1.js"></script><iframe marginheight="0" marginwidth="0" title="Data Visualization" allowtransparency="true" allowfullscreen="true" class="tableauViz" style="display: block; width: 100%; height: 476.25px; margin: 0px; padding: 0px; border: medium none;" src="https://public.tableau.com/shared/RQFY8TTD5?:embed=y&amp;:showVizHome=no&amp;:host_url=https%3A%2F%2Fpublic.tableau.com%2F&amp;:embed_code_version=3&amp;:toolbar=yes&amp;:animate_transition=yes&amp;:display_static_image=no&amp;:display_spinner=no&amp;:display_overlay=yes&amp;:display_count=yes&amp;publish=yes&amp;:loadOrderID=0" frameborder="0"></iframe></div>
+<div><noscript><img alt=" " src="https://public.tableau.com/static/images/RQ/RQFY8TTD5/1_rss.png" style="border: none"></noscript><script src="https://public.tableau.com/javascripts/api/viz_v1.js"></script><iframe marginheight="0" marginwidth="0" title="Data Visualization" allowtransparency="true" allowfullscreen="true" class="tableauViz" style="display: block; width: 100%; height: 476.25px; margin: 0px; padding: 0px; border: medium none;" src="https://public.tableau.com/shared/RQFY8TTD5?:embed=y&:showVizHome=no&:host_url=https%3A%2F%2Fpublic.tableau.com%2F&:embed_code_version=3&:toolbar=yes&:animate_transition=yes&:display_static_image=no&:display_spinner=no&:display_overlay=yes&:display_count=yes&publish=yes&:loadOrderID=0" frameborder="0"></iframe></div>
+
+\## Co-buying gets you more bang for your buck
+
+\**Pooling resources to buy a home can be a great way to get a down payment together and to benefit from economies of scale. Every month, we illustrate the benefits of combined purchasing power with up-to-date market data.**
+
+In the example below, we assume:
+
+\* 10% down payment (not a hard requirement, many borrowers qualify with less)
+
+\* closing costs (buy-side) amount to 2.5% of the purchase price
+
+\* median list price for a 1-bed = $604k
+
+\* median list price for a 2-bed = $700k
+
+\* median list price for a 3-bed = $876k
+
+\* median list price for a 4-bed = $1,200k
+
+Source: realtor.com data for SF-Oakland-Hayward Metro as of April 2019
+
+\## Economies of Scale
+
+<table class="table">
+
+  <thead>
+
+    <tr>
+
+      <th>Flying solo </th>
+
+      <th>Teaming up to co-buy </th>
+
+    </tr>
+
+  </thead>
+
+  <tbody>
+
+    <tr>
+
+      <td>single buyer / 1 bedroom home</td>
+
+      <td>3 co-buyers / 3 bedroom home</td>
+
+    </tr>
+
+    <tr>
+
+      <td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
+
+      <td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+Breaking it down...
+
+!\[\](/assets/images/break-it-down-2019.png)
+
+On a per-bedroom basis, purchasing a three-bedroom home in the SF-Oakland-Hayward metro is currently 52% cheaper than purchasing a one-bedroom home. Economies of scale are real! Co-buying can deliver more bang for your buck _and_ provide greater optionality.
