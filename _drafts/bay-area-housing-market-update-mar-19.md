@@ -45,7 +45,7 @@ Bay Area Median List Prices: bounced in February
 
 Let’s start by looking at the median list price for two Metropolitan Areas: the San Francisco-Oakland-Hayward Metropolitan Area and the San Jose-Sunnyvale-Santa Clara Metropolitan Area. In mid-2018, we saw a big spike in the median list price in both jurisdictions. Median list prices retraced their gains over the course of 2018, but are trending back upward in February.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2299/assets/images/iW=746&iH=462&oX=0&oY=0&cW=746&cH=462/Median-List-Price-SF-and-SJ-Metros.png)
+![](/assets/images/median-list-price-sf-and-sj-metros.png)
 
 Bay Area Median Sale Prices: mixed
 
@@ -53,13 +53,13 @@ The last month for which we have _median sale price_ data is January. January is
 
 **Single Family Homes**
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2299/assets/images/iW=497&iH=247&oX=0&oY=0&cW=497&cH=247/Single-Family-Homes-Median-Sale-Price-by-County-Jan-19.png)
+![](/assets/images/single-family-homes-median-sale-price-by-county-jan-19.png)
 
 Source: data from [CAR](https://www.car.org/marketdata/data/countysalesactivity)
 
 **Condos/Townhomes**
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2299/assets/images/iW=497&iH=246&oX=0&oY=0&cW=497&cH=246/CondoCo-op-Median-Sale-Price-by-County-Jan-19.png)
+![](/assets/images/condoco-op-median-sale-price-by-county-jan-19.png)
 
 Source: data from [CAR](https://www.car.org/marketdata/data/countysalesactivity)
 
@@ -69,19 +69,23 @@ Bay Area Home Values: mixed performance
 
 Below, we break out _home value_ performance by city. It is evident that performance varies by jurisdiction. Again, note: the latest month for which data is available is January. January is typically one of the least active months in the year for home purchases.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2299/assets/images/iW=746&iH=462&oX=0&oY=0&cW=746&cH=462/Bay-Area-Home-Values-by-city.png)
+![](/assets/images/bay-area-home-values-by-city.png)
 
 If we look at changes in _home values_ over a twelve month period (through Jan 2019), we see strong performance in all but Berkeley and Oakland. This excludes numbers from February, which we would expect to be higher.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2299/assets/images/iW=746&iH=174&oX=0&oY=0&cW=746&cH=174/Bay-Area-Home-Values-by-City-Chart.png)
+![](/assets/images/bay-area-home-values-by-city-chart.png)
 
-**Jargon Busting**
+***
+
+### **Jargon Busting**
 
 **List Price**: the price at which a seller advertises a property for sale on the market.
 
 **Sale Price**: the price at which a seller and a buyer agree to transact. The _median sale price_ for a given data set is the price “in the middle” of all sale prices when arranged in order of value. Referencing the _median sale price_ instead of the _mean sale price_ is useful as it reduces skew from outlying data points.
 
 **Home Value**: a proxy for the value of a property, or how much it is "worth". Ultimately, the true determination of value can only be established through transacting. Most homes in a particular geography aren’t on the market, so indices are constructed in order to monitor fluctuations in local home values in aggregate.
+
+***
 
 ## Supply & Demand
 
@@ -91,13 +95,13 @@ Somewhat predictably, there are signs of increases on both the supply side and t
 
 February saw a jump in the number of homes that went under contract between buyers and sellers (pending listings increased). Pending listings are a forward indicator of home sales: the majority of these mutually accepted purchase and sale agreements will soon close.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2299/assets/images/iW=765&iH=474&oX=0&oY=0&cW=765&cH=474/Pending-Listings-by-metro-area.png)
+![](/assets/images/pending-listings-by-metro-area.png)
 
 **Increase in inventory in February**
 
 The number of homes for sale increased in February.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2299/assets/images/iW=765&iH=473&oX=0&oY=0&cW=765&cH=473/Active-Listings-by-metro-area.png)
+![](/assets/images/active-listings-by-metro-area.png)
 
 **Inventory still remains rather lean by traditional standards**. _Months of inventory_, a proxy for how long it would take for all existing homes on the market to be sold, is low in both the SF Metro (1.7 _months of inventory_) and the SJ Metro (1.5 _months of inventory_). Traditionally, a balanced market is characterized by _months of inventory_ between 5 and 6 months. Still, the Bay Area housing markets can hardly be characterized as _traditional_. Between the third quarter of 2014 and the third quarter of 2018, months of inventory clocked in at even tighter levels versus today (but...for most of that period, prices were increasing.)
 
@@ -105,9 +109,9 @@ The number of homes for sale increased in February.
 
 The number of days it takes for the average home to sell nearly halved from January to February of this year in both the San Francisco Metro Area (29 days in February) and the San Jose Metro Area (27 days in February). This compares to a national average of 83 days. This is supportive of strong demand for homes from buyers across the Bay Area.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2299/assets/images/iW=765&iH=473&oX=0&oY=0&cW=765&cH=473/Days-on-Market-by-metro-area.png)
+![](/assets/images/days-on-market-by-metro-area.png)
 
----
+***
 
 # Local Economy
 
@@ -116,40 +120,40 @@ The Bay Area continues to experience a period of strong economic performance (th
 ***
 
 <div class="table-responsive">
-  <table class="table table-bordered">
-    <thead>
-      <tr>
-        <th scope="col">Low Unemployment</th>
-        <th scope="col">Steady Job Creation</th>
-        <th scope="col">Strong Wage & Salary Growth</th>
-        <th scope="col">Inflation</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><b>2.8%</b></td>
-        <td><b>2.3%</b></td>
-        <td><b>3.8%</b></td>
-        <td><b>3.5%</b></td>
-      </tr>
-      <tr>
-        <td>Virtual full employment: the majority of those who are able and want to work can secure employment.</td>
-        <td>Many firms are actually challenged to find folks to hire in the current climate, according to California
-          Dept. of Transport.</td>
-        <td>Real per capital income is expected to surpass $135k by 2023.</td>
-        <td>Above the national average, though down from the last release at 4.5%.</td>
-      </tr>
-      <tr>
-        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
-            href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
-        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
-            href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
-        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
-            href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
-        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a></td>
-      </tr>
-    </tbody>
-  </table>
+<table class="table table-bordered">
+<thead>
+<tr>
+<th scope="col">Low Unemployment</th>
+<th scope="col">Steady Job Creation</th>
+<th scope="col">Strong Wage & Salary Growth</th>
+<th scope="col">Inflation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>2.8%</b></td>
+<td><b>2.3%</b></td>
+<td><b>3.8%</b></td>
+<td><b>3.5%</b></td>
+</tr>
+<tr>
+<td>Virtual full employment: the majority of those who are able and want to work can secure employment.</td>
+<td>Many firms are actually challenged to find folks to hire in the current climate, according to California
+Dept. of Transport.</td>
+<td>Real per capital income is expected to surpass $135k by 2023.</td>
+<td>Above the national average, though down from the last release at 4.5%.</td>
+</tr>
+<tr>
+<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
+href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
+href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
+href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a></td>
+</tr>
+</tbody>
+</table>
 </div>
 
 ### **Looking ahead...**
@@ -190,22 +194,22 @@ Source: realtor.com data for SF-Oakland-Hayward Metro as of April 2019
 ## Economies of Scale
 
 <table class="table">
-  <thead>
-    <tr>
-      <th>Flying solo </th>
-      <th>Teaming up to co-buy </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>single buyer / 1 bedroom home</td>
-      <td>3 co-buyers / 3 bedroom home</td>
-    </tr>
-    <tr>
-      <td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
-      <td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Flying solo </th>
+<th>Teaming up to co-buy </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>single buyer / 1 bedroom home</td>
+<td>3 co-buyers / 3 bedroom home</td>
+</tr>
+<tr>
+<td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
+<td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
+</tr>
+</tbody>
 </table>
 
 Breaking it down...
