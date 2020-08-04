@@ -41,6 +41,8 @@ It's a big year for IPOs. Following Lyft's recent public offering, Pinterest, Zo
 
 **Tech IPOs in 2019**
 
+![](/assets/images/april20-tech-ipos-in-2019.png)
+
 ![](https://blog.gocobuy.com/wp-content/uploads/brizy/2441/assets/images/iW=527&iH=347&oX=0&oY=0&cW=527&cH=347/tech-IPOs-in-2019.png)
 
 Several studies have examined the [effects of past IPOs on Bay Area home prices](https://www.sfchronicle.com/business/networth/article/Finally-some-evidence-on-the-impact-of-IPOs-on-13589281.php). It's safe to say that following a series of wealth-creating liquidity events, you're going to see increased demand for homes. All else equal, increased demand should put upward pressure on home prices. However, we believe that 'IPO-mania' is overhyped.
