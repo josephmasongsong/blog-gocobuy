@@ -41,9 +41,7 @@ It's a big year for IPOs. Following Lyft's recent public offering, Pinterest, Zo
 
 **Tech IPOs in 2019**
 
-![](/assets/images/april20-tech-ipos-in-2019.png)
-
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2441/assets/images/iW=527&iH=347&oX=0&oY=0&cW=527&cH=347/tech-IPOs-in-2019.png)
+![](/assets/images/tech-ipos-in-2019.png)
 
 Several studies have examined the [effects of past IPOs on Bay Area home prices](https://www.sfchronicle.com/business/networth/article/Finally-some-evidence-on-the-impact-of-IPOs-on-13589281.php). It's safe to say that following a series of wealth-creating liquidity events, you're going to see increased demand for homes. All else equal, increased demand should put upward pressure on home prices. However, we believe that 'IPO-mania' is overhyped.
 
@@ -55,15 +53,15 @@ Financing is (and will remain) the major hurdle to homeownership in the U.S. Rou
 
 Mortgage rates today are far nearer their historical lows than their historical peaks.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2441/assets/images/iW=527&iH=270&oX=0&oY=0&cW=527&cH=270/Freddie-Mac-30y-FRM-April-2019.png)
+![](/assets/images/freddie-mac-30y-frm-april-2019.png)
 
 Let's look at things over a shorter horizon. The average rate on a 30-year fixed rate mortgage increased by about 1% over the course of 2018.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2441/assets/images/iW=527&iH=326&oX=0&oY=0&cW=527&cH=326/Average-Rate-for-30y-Fixed-Rate-Mortgage.png)
+![](/assets/images/average-rate-for-30y-fixed-rate-mortgage.png)
 
 Increased borrowing costs combined with higher prices took their toll around the middle of 2018 when Median List Prices began to fall. After peaking in November, the average rate on a 30 year fixed rate mortgage has fallen by over 75 basis points. Unsurprisingly, as mortgage rates have come down, _median list prices_ in the Bay have increased.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2441/assets/images/iW=527&iH=326&oX=0&oY=0&cW=527&cH=326/Median-List-Price-by-metro-area-2y.png)
+![](/assets/images/median-list-price-by-metro-area-2y.png)
 
 **Example:**
 
@@ -121,13 +119,13 @@ Regulation, [sky-rocketing construction costs](https://www.sfchronicle.com/busin
 
 On the demand side, a robust local economy continues to post job growth and bolster the finances of many (though sadly not all) residents who live and work in cities around the Bay. This imbalance will continue to challenge the Bay Area for the foreseeable future.
 
-Price action
+## Price action
 
 Bay Area Median List Prices: on the rise
 
 After peaking in the middle of 2018, prices declined through year end. _Median list prices_ in both the San Francisco-Oakland-Hayward metro and the San Jose-Sunnyvale-Santa Clara metro have increased by 10% since the start of 2019.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2441/assets/images/iW=746&iH=462&oX=0&oY=0&cW=746&cH=462/Median-List-Price-by-metro-area-April-2019.png)
+![](/assets/images/median-list-price-by-metro-area-april-2019.png)
 
 Bay Area Median Sale Prices: mixed
 
@@ -135,13 +133,13 @@ The last month for which we have _median sale price_ data is February. San Franc
 
 **Single Family Homes**
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2441/assets/images/iW=497&iH=247&oX=0&oY=0&cW=497&cH=247/Price-YTY-Chg-vs.-Median-Sale-Price.png)
+![](/assets/images/price-yty-chg-vs-median-sale-price.png)
 
 Source: data from [CAR](https://www.car.org/marketdata/data/countysalesactivity)
 
 **Condos/Townhomes**
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2441/assets/images/iW=497&iH=246&oX=0&oY=0&cW=497&cH=246/Price-YTY-Chg-vs.-Median-Sale-Price-condos.png)
+![](/assets/images/price-yty-chg-vs-median-sale-price-condos.png)
 
 Source: data from [CAR](https://www.car.org/marketdata/data/countysalesactivity)
 
@@ -149,13 +147,15 @@ Bay Area Home Values: mixed performance
 
 Below, we break out _home value_ performance by city. Home value appreciation was flat to moderately down in February, the latest month for which we have data. We expect home values to trend upwards in the months ahead.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2441/assets/images/iW=746&iH=462&oX=0&oY=0&cW=746&cH=462/Home-Values-by-city-April-update.png)
+![](/assets/images/home-values-by-city-april-update.png)
 
 If we look at changes in _home values_ over a twelve month period (through February 2019), we see decent performance in all but Berkeley and Oakland.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2441/assets/images/iW=746&iH=174&oX=0&oY=0&cW=746&cH=174/chart-18.png)
+![](/assets/images/chart-18.png)
 
-**Jargon Busting**
+***
+
+### **Jargon Busting**
 
 **List Price**: the price at which a seller advertises a property for sale on the market.
 
@@ -163,13 +163,15 @@ If we look at changes in _home values_ over a twelve month period (through Febru
 
 **Home Value**: a proxy for the value of a property, or how much it is "worth". Ultimately, the true determination of value can only be established through transacting. Most homes in a particular geography aren’t on the market, so indices are constructed in order to monitor fluctuations in local home values in aggregate.
 
+***
+
 ## Supply & Demand
 
 **More sellers and buyers reached mutual acceptance in March**
 
 In [last month's update](https://blog.gocobuy.com/bay-area-housing-market-update-april-2019/bay-area-housing-market-update-mar-2019/), we called for a spike in activity. The data did not disappoint. Pending listings for March were up almost 25% month-on-month in both the SF and SJ metro areas. We expect active markets into the summer months, particularly in light of cheaper credit. Risk factors remain i) hints of rate hikes from the Fed ii) dramatic price increases as seen in the first half of 2018 iii) equity market under performance.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2441/assets/images/iW=765&iH=474&oX=0&oY=0&cW=765&cH=474/Pending-Listings-by-metro-area-April-update.png)
+![](/assets/images/pending-listings-by-metro-area-april-update.png)
 
 **Inventory of homes increased in March**
 
@@ -177,7 +179,7 @@ The number of homes for sale increased in March, but inventory is still lean.
 
 _Months of inventory_, a proxy for how long it would take for all existing homes on the market to be sold, is low in both the SF Metro (1.5 months) and the SJ Metro (1.4 months). Traditionally, a balanced market is characterized by 5-6 months of inventory. While the five year average for the San Francisco and San Jose metro areas is just over one month, the supply/demand imbalance over this period is at least partially to blame for runaway prices.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2441/assets/images/iW=765&iH=473&oX=0&oY=0&cW=765&cH=473/Active-Listings-by-metro-area-April-update.png)
+![](/assets/images/active-listings-by-metro-area-april-update.png)
 
 **Homes are not on the market for long**
 
@@ -185,7 +187,7 @@ The average home in both the San Francisco-Oakland-Hayward metro and the San Jos
 
 Despite above average inventory for this time of year, the market is clearly digesting supply without any problem.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2441/assets/images/iW=765&iH=473&oX=0&oY=0&cW=765&cH=473/Days-on-Market-by-metro-area.png)
+![](/assets/images/days-on-market-by-metro-area.png)
 
 # Local Economy
 
