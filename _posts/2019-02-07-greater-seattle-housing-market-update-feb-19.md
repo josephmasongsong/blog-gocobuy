@@ -5,7 +5,7 @@ layout: post
 title: Greater Seattle Housing Market Update - Feb '19
 description: Here's what you need to know about the Greater Seattle housing market
   in February 2019.
-hidden: true
+hidden: false
 image: "/assets/images/seattleskyline-800x550.jpg"
 toc: false
 date: 2019-02-07 20:00:00 +0000
@@ -18,27 +18,31 @@ The Year of the Pig is officially underway, and with it a “[...lucky lunar cyc
 
 ###### -Team CoBuy
 
-# **Price appreciation has slowed.**
+## **Price appreciation has slowed.**
 
 The first half of last year saw cut-throat competition amongst buyers that was characterized by bidding wars and super-constrained supply. Prices peaked in the summer months, which typically see the highest number of transactions. Optically, _Median Sale Prices for cities across the Puget Sound declined from their summer peaks_ through the end of 2018 - to varying degrees. This was most pronounced in the city of Seattle.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2008/assets/images/iW=746&iH=426&oX=0&oY=0&cW=746&cH=426/chart-3.png)
+![](/assets/images/chart-3.png)
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2008/assets/images/iW=746&iH=426&oX=0&oY=0&cW=746&cH=426/chart-4.png)
+![](/assets/images/chart-4.png)
 
 At the county level, _Median Sales Prices_ rose between January 2018 and January 2019. In King County, the _Median Sales Price_ increased 1.7% over the last twelve months. Pierce and Kitsap counties outperformed: their respective _Median Sales Prices_ saw impressive increases.
 
 While the _Median Sales Price_ for Seattle is down both month-on-month and year-on-year, home value indices show Seattle house prices actually **gained** ground over the last twelve months: the **S&P/Case-Shiller Seattle Home Price index rose 6.3%** in the twelve months through November 2018. (Note: home value indices take into account the type and quality of housing stock being transacted so as to provide a holistic view on fluctuations to home prices.)
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2008/assets/images/iW=746&iH=426&oX=0&oY=0&cW=746&cH=426/chart-5.png)
+![](/assets/images/chart-5.png)
 
-**Jargon Busting**
+***
+
+### **Jargon Busting**
 
 **List Price**: the price at which a seller advertises a property for sale on the market.
 
 **Sale Price**: the price at which a seller and a buyer agree to transact. The _median sale price_ for a given data set is the price “in the middle” of all sale prices when arranged in order of value. Referencing the _median sale price_ instead of the _mean sale price_ is useful as it reduces skew from outlying data points.
 
 **Home Value**: a proxy for the value of a property, or how much it is "worth". Ultimately, the true determination of value can only be established through transacting. Most homes in a particular geography aren’t on the market, so home price indices are constructed in order to monitor fluctuations in local home values.
+
+***
 
 So while a few ambitious journalists recently had a field day declaring tanking home prices, this hardly paints an accurate picture of price action. Over the past year, Seattle outperformed most major metros, the 20-city composite index, and the nation as a whole. To put things in perspective, the S&P Case-Shiller Seattle Home Price Index is **up 90.6% from the post-recession lows** recorded in 2012.
 
@@ -48,17 +52,15 @@ So while a few ambitious journalists recently had a field day declaring tanking 
 
 Traditionally, the highest number of transactions occur during the early summer months while January is the slowest time of year. Family considerations, school calendars, religious holidays, and historical precedent all figure in. Incidentally, as home prices reached new peaks in summer 2018, more sellers came to market in early autumn.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2008/assets/images/iW=765&iH=473&oX=0&oY=0&cW=765&cH=473/Home-Purchases-in-King-County.png)
+![](/assets/images/home-purchases-in-king-county.png)
 
 **_Affordability._**
 
 Home prices have increased steadily since their post-recession lows (see trendlines below). In the first six months of 2018, _Median Sale Prices_ increased big time in Seattle (+8%), Bellevue (+11%), and Tacoma (+20%). Buying a home became even more expensive.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2008/assets/images/iW=765&iH=437&oX=0&oY=0&cW=765&cH=437/chart-11.png)
+![](/assets/images/chart-11.png)
 
-To compound this, the cost of borrowing shot up. The rate on a 30-year fixed mortgage rose from around 4.5% in July to nearly 5% in November. An increase of 50 basis points increases the total cost of borrowing $400k by more than $43k over the full term of repayment. This means an increase in the monthly repayment of about $120 (excluding taxes, insurance, and incidentals like private mortgage insurance).
-
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2008/assets/images/iW=663&iH=348&oX=0&oY=0&cW=663&cH=348/30yfixedratemortgage.png)
+To compound this, the cost of borrowing shot up. The rate on a 30-year fixed mortgage rose from around 4.5% in July to nearly 5% in November. An increase of 50 basis points increases the total cost of borrowing $400k by more than $43k over the full term of repayment. This means an increase in the monthly repayment of about $120 (excluding taxes, insurance, and incidentals like private mortgage insurance).![](/assets/images/30yfixedratemortgage.png)
 
 **_Buyer Fatigue._**
 
