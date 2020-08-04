@@ -11,7 +11,7 @@ image: "/assets/images/adobestock_212284893-1600x900.jpeg"
 hidden: false
 date: 2019-06-23T20:00:00.000+00:00
 permalink: "/greater-seattle-housing-market-update-summer-2019"
-toc: true
+toc: false
 
 ---
 “Summer, summer, summertime. Time to kick back and unwind.”
