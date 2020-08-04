@@ -58,7 +58,7 @@ over the next 3 months.
 
 **8 in 10** of those surveyed **predict buyer demand will increase** over the next 3 months.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2524/assets/images/iW=544&iH=363&oX=91&oY=0&cW=362&cH=363/new-homebuyers.jpg)
+![](/assets/images/april19-new-homebuyers.jpg)
 
 ## **First-time buyers** & **folks moving to town** are expected to drive this demand (a continued theme).
 
@@ -88,7 +88,7 @@ over the next 3 months.
 
 Over 85% of respondents say **eliminating single-family zoning** would **benefit the local housing market.**
 
-[![](https://blog.gocobuy.com/wp-content/uploads/brizy/2524/assets/images/iW=358&iH=453&oX=0&oY=0&cW=358&cH=453/seattle-single-family-zoning.jpg)](https://www.seattletimes.com/business/real-estate/city-report-widespread-single-family-zoning-is-damaging-seattle-and-needs-changing/)
+![](/assets/images/seattle-single-family-zoning.jpg)
 
 ## The word on the street.
 
@@ -98,18 +98,16 @@ Over 85% of respondents say **eliminating single-family zoning** would **benefit
 * **Higher prices** are forcing first time homebuyers to compromise
 * **Activity and competitive dynamics** are increasingly tiered by geography and price point
 
-The raw results
+## The raw results
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2524/assets/images/iW=878&iH=405&oX=0&oY=0&cW=878&cH=405/1.png)
+![](/assets/images/april19-2.png)
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2524/assets/images/iW=878&iH=405&oX=0&oY=0&cW=878&cH=405/2.png)
+![](/assets/images/april19-3.png)
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2524/assets/images/iW=878&iH=405&oX=0&oY=0&cW=878&cH=405/3.png)
+![](/assets/images/april19-4.png)
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2524/assets/images/iW=878&iH=456&oX=0&oY=0&cW=878&cH=456/4.png)
+![](/assets/images/april19-5.png)
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2524/assets/images/iW=878&iH=456&oX=0&oY=0&cW=878&cH=456/5.png)
+![](/assets/images/april19-6.png)
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2524/assets/images/iW=878&iH=456&oX=0&oY=0&cW=878&cH=456/6.png)
-
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/2524/assets/images/iW=878&iH=439&oX=0&oY=0&cW=878&cH=439/7.png)
+![](/assets/images/april19-7.png)
