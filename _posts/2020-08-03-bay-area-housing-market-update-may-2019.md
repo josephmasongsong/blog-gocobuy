@@ -7,16 +7,18 @@ categories:
 layout: post
 title: Bay Area Housing Market Update – May 2019
 description: Home prices in the SF metro are up 13% in 2019, but buyers can increase
-  their purchasing power drastically by teaming up to buy and own together
+their purchasing power drastically by teaming up to buy and own together
 image: "/assets/images/cobuy-bay-area-housing-market-update-may-2019-e1557971182234.jpeg"
 date: 2019-05-14T20:00:00.000+00:00
 permalink: bay-area-housing-market-update-may-2019
 hidden: false
+toc: true
 
 ---
-> If you invest the time earlier to create structure and process around communication, planning, and goal setting, you can prevent missteps before they occur.
+> If you invest the time earlier to create structure and process around communication, planning, and goal setting, you
+can prevent missteps before they occur.
 
-_-Christine Tsai_
+- Christine Tsai
 
 The month of May holds unique significance for each of us. Some pay tribute to small businesses, others pump up their tires for National Bike Month, and many decide to kick off the search for a new home.
 
@@ -26,13 +28,15 @@ Enter [CoBuy.](https://bay.gocobuy.com)
 
 Every month, we break down market trends and data in our Bay Area Housing Market Update. We strive to produce objective updates that provide co-buyers unadulterated insight into the latest housing market developments. Much of what is published in the press and by industry players is heavily biased. That isn’t particularly helpful if you’re deciding whether or not to pull the trigger on buying a home together. We aren’t trying to sell anyone on co-buying a home. We’re here to help people who want to co-buy and co-own to do it intelligently. This starts with having the right information.
 
-In recent months, our views have frequently clashed with those pushed in the headlines. Ironically, most of these views have found strong empirical support. We do not have a crystal ball, and we are skeptical of anyone who claims to own one. We base our views and analysis on decades of real estate and finance experience, data, collaboration with our network of [CoBuy-certified™ Pros](https://www.gocobuy.com/certified-pro), and our involvement in the market_._
+In recent months, our views have frequently clashed with those pushed in the headlines. Ironically, most of these views have found strong empirical support. We do not have a crystal ball, and we are skeptical of anyone who claims to own one. We base our views and analysis on decades of real estate and finance experience, data, collaboration with our network of [CoBuy-certified™ Pros](https://www.gocobuy.com/certified-pro), and our involvement in the market.
 
 We hope you find this month’s update informative. If you are considering buying a home with friends, family, or your partner around the Bay, we invite you to get in touch.
 
 ## At a glance
 
-Prices and activity are up month-on-month in the San Francisco-Oakland-Hayward Metropolitan Area, while the number of days a home is on the market decreased by one day. This is in line with our expectations and is a function of increased demand, seasonality, and favorable borrowing costs.
+Prices and activity are up month-on-month in the San Francisco-Oakland-Hayward Metropolitan Area, while the number of
+days a home is on the market decreased by one day. This is in line with our expectations and is a function of increased
+demand, seasonality, and favorable borrowing costs.
 
 ### San Francisco-Oakland-Hayward Metro Area
 
@@ -62,29 +66,34 @@ Last month we highlighted three themes that we see driving Bay area housing mark
 
 The picture has evolved, but it has not drastically changed. We continue to see these as key drivers over the near term and beyond (more below).
 
-The past month has yielded important new information on the health of the U.S. economy. An article dated May 4th in The Economist sums it up: ['Fears of recession in America have faded'](https://www.economist.com/finance-and-economics/2019/05/04/fears-of-recession-in-america-have-faded). Recent economic data has confirmed strong growth, a rebound in consumer confidence, low inflation, and the lowest unemployment in 50 years.
+The past month has yielded important new information on the health of the U.S. economy. An article dated May 4th in The Economist sums it up: ['Fears of recession in America have
+faded'](https://www.economist.com/finance-and-economics/2019/05/04/fears-of-recession-in-america-have-faded). Recent economic data has confirmed strong growth, a rebound in consumer confidence, low inflation, and the lowest unemployment in 50 years.
 
 <div class="table-responsive">
-<table class="table table-bordered">
-<thead>
-<tr>
-<th scope="col">
-<a href="https://finance.yahoo.com/news/gdp-1q-2019-first-print-191823923.html">Q1 GDP</a></th>
-<th scope="col">
-<a href="https://www.reuters.com/article/us-usa-economy/strong-us-job-growth-expected-in-april-wages-seen-moderate-idUSKCN1S9075">Unemployment</a></th>
-<th scope="col"><a href="https://www.bea.gov/news/2019/personal-income-and-outlays-march-2019">Inflation</a> (PCE Price Index)</th>
-<th scope="col"><a href="https://www.conference-board.org/data/consumerconfidence.cfm">CB Consumer Confidence Index</a></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>3.2%</b></td>
-<td><b>3.6%</b></td>
-<td><b>1.6%</b></td>
-<td><b>129.2</b></td>
-</tr>
-</tbody>
-</table>
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th scope="col">
+          <a href="https://finance.yahoo.com/news/gdp-1q-2019-first-print-191823923.html">Q1 GDP</a></th>
+        <th scope="col">
+          <a
+            href="https://www.reuters.com/article/us-usa-economy/strong-us-job-growth-expected-in-april-wages-seen-moderate-idUSKCN1S9075">Unemployment</a>
+        </th>
+        <th scope="col"><a href="https://www.bea.gov/news/2019/personal-income-and-outlays-march-2019">Inflation</a>
+          (PCE Price Index)</th>
+        <th scope="col"><a href="https://www.conference-board.org/data/consumerconfidence.cfm">CB Consumer Confidence
+            Index</a></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>3.2%</b></td>
+        <td><b>3.6%</b></td>
+        <td><b>1.6%</b></td>
+        <td><b>129.2</b></td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 After an extended period of growth, many media outlets, analysts, and investors have predicted a slowdown. As of writing, there is little evidence that _America, Inc_ has started to falter. If anything, quite the opposite. The economy is growing and adding jobs while inflation remains below the 2% bright line. For the first time, the concern is that an excessively tight labor market [could actually be the mitigating factor](https://www.reuters.com/article/us-usa-economy-jobs/us-job-openings-surge-point-to-tightening-labor-market-idUSKCN1SD1P9) to the current period of extended expansion as companies struggle to source the talent they need to continue producing goods and services.
@@ -107,9 +116,9 @@ We do think that these liquidity events will fuel demand for homes, but we belie
 
 _(Our view remains unchanged versus last month. Low inflation numbers and downward revisions to mortgage rates for the duration of 2019 reinforce our view.)_
 
-Financing is the major hurdle to homeownership, and nearly 9 in 10 buyers  in America borrow to fund the purchase of a new home. Naturally, the cost of borrowing influences buyer demand.
+Financing is the major hurdle to homeownership, and nearly 9 in 10 buyers in America borrow to fund the purchase of a new home. Naturally, the cost of borrowing influences buyer demand.
 
-At the time of writing, the contract rate for a 30-year fixed rate mortgage hovers near the one year low.  
+At the time of writing, the contract rate for a 30-year fixed rate mortgage hovers near the one year low.
 ![](/assets/images/mortage-list-2001.png)
 
 In historical context, the cost of borrowing is low. The scope for increased borrowing costs over the medium term - all else equal - remains high. This is a strong motivator for buyers mulling a purchase over the near-term to pull the trigger sooner, rather than later. In fact, low borrowing costs are a strong motivator for any aspiring homeowner who can muster the necessary financial inputs to pull the trigger.
@@ -145,47 +154,47 @@ On the supply side, the Bay has a [severe shortage of](https://blog.gocobuy.com/
 ### Alameda County (2010-2018)
 
 <div class="table-responsive">
-<table class="table table-bordered">
-<thead>
-<tr>
-<th scope="col">Population</th>
-<th scope="col">Housing units</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>+9.9%</b></td>
-<td><b>+3.6%</b></td>
-</tr>
-<tr>
-<td>Source: CA Dept. of Finance</td>
-<td>Source: CA Dept. of Finance</td>
-</tr>
-</tbody>
-</table>
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th scope="col">Population</th>
+        <th scope="col">Housing units</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>+9.9%</b></td>
+        <td><b>+3.6%</b></td>
+      </tr>
+      <tr>
+        <td>Source: CA Dept. of Finance</td>
+        <td>Source: CA Dept. of Finance</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ### San Francisco County (2010-2018)
 
 <div class="table-responsive">
-<table class="table table-bordered">
-<thead>
-<tr>
-<th scope="col">Population</th>
-<th scope="col">Housing units</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>+9.8%</b></td>
-<td><b>+5.6%</b></td>
-</tr>
-<tr>
-<td>Source: CA Dept. of Finance</td>
-<td>Source: CA Dept. of Finance</td>
-</tr>
-</tbody>
-</table>
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th scope="col">Population</th>
+        <th scope="col">Housing units</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>+9.8%</b></td>
+        <td><b>+5.6%</b></td>
+      </tr>
+      <tr>
+        <td>Source: CA Dept. of Finance</td>
+        <td>Source: CA Dept. of Finance</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 Regulation, [sky-rocketing construction costs](https://www.sfchronicle.com/business/article/San-Francisco-passes-New-York-to-become-world-s-13760541.php), and an [accrued housing deficit](https://ternercenter.berkeley.edu/blog/local-solutions-statewide-shortfall) are contributing factors.
@@ -196,7 +205,7 @@ Regulation, [sky-rocketing construction costs](https://www.sfchronicle.com/busin
 
 Bay Area Median List Prices: on the rise
 
-After peaking in the middle of 2018, prices declined through year end. Since the start of 2019 we have seen the m_edian list price_ for the San Francisco-Oakland-Hayward metro increase by over 13% and the _median list price_ for the San Jose-Sunnyvale-Santa Clara metro increase by over 14%.
+After peaking in the middle of 2018, prices declined through year end. Since the start of 2019 we have seen the _median list price_ for the San Francisco-Oakland-Hayward metro increase by over 13% and the _median list price_ for the San Jose-Sunnyvale-Santa Clara metro increase by over 14%.
 
 ![](/assets/images/mortgage-list-price-123.png)
 
@@ -228,13 +237,15 @@ Below, we break out _home value_ performance by city. Home value indices were a 
 
 **Sale Price**: the price at which a seller and a buyer agree to transact. The _median sale price_ for a given data set is the price “in the middle” of all sale prices when arranged in order of value. Referencing the _median sale price_ instead of the _mean sale price_ is useful as it reduces skew from outlying data points.
 
-## **Home Value**: a proxy for the value of a property, or how much it is "worth". Ultimately, the true determination of value can only be established through transacting. Most homes in a particular geography aren’t on the market, so indices are constructed in order to monitor fluctuations in local home values in aggregate.
+## **Home Value**: a proxy for the value of a property, or how much it is "worth". Ultimately, the true determination of
+value can only be established through transacting. Most homes in a particular geography aren’t on the market, so indices are constructed in order to monitor fluctuations in local home values in aggregate.
 
 ## Supply & Demand
 
 **More sellers and buyers reached mutual acceptance in April**
 
-In line with our expectations, the number of properties that went pending last month continued to climb. Pending listings for April were up 20% in the San Francisco-Oakland-Hayward metro and 24% in the San Jose-Sunnyvale-Santa Clara metro. More sellers and buyers are reaching mutual acceptance, and the vast majority of these pending listings will become closed sales. We expect active markets to continue during the summer months, particularly in light of cheaper credit. We shift our view on risks here: the main short-term risk factors in our view are geopolitical. Recent data releases and communications from the Fed suggest the [likelihood of a rate hike any time soon is low](https://www.apnews.com/63808a322fa14353bac677432e6df23e).
+In line with our expectations, the number of properties that went pending last month continued to climb. Pending listings for April were up 20% in the San Francisco-Oakland-Hayward metro and 24% in the San Jose-Sunnyvale-Santa Clara metro. More sellers and buyers are reaching mutual acceptance, and the vast majority of these pending listings will become closed sales. We expect active markets to continue during the summer months, particularly in light of cheaper credit. We shift our view on risks here: the main short-term risk factors in our view are geopolitical. Recent data
+releases and communications from the Fed suggest the [likelihood of a rate hike any time soon is low](https://www.apnews.com/63808a322fa14353bac677432e6df23e).
 
 ![](/assets/images/pending-listings-by-metroarea.png)
 
@@ -261,36 +272,40 @@ The Bay Area continues to experience a period of strong economic performance (th
 ***
 
 <div class="table-responsive">
-<table class="table table-bordered">
-<thead>
-<tr>
-<th scope="col">Low Unemployment</th>
-<th scope="col">Steady Job Creation</th>
-<th scope="col">Strong Wage & Salary Growth</th>
-<th scope="col">Inflation</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><b>2.8%</b></td>
-<td><b>2.3%</b></td>
-<td><b>3.8%</b></td>
-<td><b>3.5%</b></td>
-</tr>
-<tr>
-<td>Virtual full employment: the majority of those who are able and want to work can secure employment.</td>
-<td>Many firms are actually challenged to find folks to hire in the current climate, according to California Dept. of Transport.</td>
-<td>Real per capital income is expected to surpass $135k by 2023.</td>
-<td>Above the national average, though down from the last release at 4.5%.</td>
-</tr>
-<tr>
-<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
-<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
-<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
-<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a></td>
-</tr>
-</tbody>
-</table>
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th scope="col">Low Unemployment</th>
+        <th scope="col">Steady Job Creation</th>
+        <th scope="col">Strong Wage & Salary Growth</th>
+        <th scope="col">Inflation</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>2.8%</b></td>
+        <td><b>2.3%</b></td>
+        <td><b>3.8%</b></td>
+        <td><b>3.5%</b></td>
+      </tr>
+      <tr>
+        <td>Virtual full employment: the majority of those who are able and want to work can secure employment.</td>
+        <td>Many firms are actually challenged to find folks to hire in the current climate, according to California
+          Dept. of Transport.</td>
+        <td>Real per capital income is expected to surpass $135k by 2023.</td>
+        <td>Above the national average, though down from the last release at 4.5%.</td>
+      </tr>
+      <tr>
+        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
+            href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
+            href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
+            href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a></td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ### **Looking ahead...**
@@ -331,22 +346,22 @@ Source: realtor.com data for SF-Oakland-Hayward Metro as of April 2019
 ## Economies of Scale
 
 <table class="table">
-<thead>
-<tr>
-<th>Flying solo </th>
-<th>Teaming up to co-buy </th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>single buyer / 1 bedroom home</td>
-<td>3 co-buyers / 3 bedroom home</td>
-</tr>
-<tr>
-<td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
-<td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
-</tr>
-</tbody>
+  <thead>
+    <tr>
+      <th>Flying solo </th>
+      <th>Teaming up to co-buy </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>single buyer / 1 bedroom home</td>
+      <td>3 co-buyers / 3 bedroom home</td>
+    </tr>
+    <tr>
+      <td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
+      <td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
+    </tr>
+  </tbody>
 </table>
 
 Breaking it down...
