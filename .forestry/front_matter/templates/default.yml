@@ -67,6 +67,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2019-02-07-greater-seattle-housing-market-update-feb-19.md
 - _posts/2019-02-08-housing-market-survey-greater-seattle-feb-19.md
 - _posts/2019-02-13-bay-area-housing-market-update-feb-19.md
 - _posts/2019-03-10-bay-area-housing-market-update-mar-19.md
@@ -80,4 +81,3 @@ pages:
 - _posts/2019-09-13-mortgage-before-marriage-read-this-first.md
 - _posts/2019-10-07-cobuy-certified-mortgage-pro-trevor-reese.md
 - _posts/2020-08-03-bay-area-housing-market-update-may-2019.md
-- _posts/greater-seattle-housing-market-update-feb-19.md
