@@ -39,7 +39,7 @@ As always, there are many factors at play here. We will be covering these and ot
 
 ## Price action
 
-Home prices and values are measured in different ways. Many factors influence movements in these levels from month to month, and from one locale to the next. Both _home prices_ and _home values_ reflect signs of "buyer fatigue" on one hand, while fundamentals could exert upward pressure. Last year we saw substantial volatility across the Bay (see** [**last month’s update**](https://blog.gocobuy.com/bay-area-housing-market-update-feb-2019/) for more).
+Home prices and values are measured in different ways. Many factors influence movements in these levels from month to month, and from one locale to the next. Both _home prices_ and _home values_ reflect signs of "buyer fatigue" on one hand, while fundamentals could exert upward pressure. Last year we saw substantial volatility across the Bay (see [**last month’s update**](https://blog.gocobuy.com/bay-area-housing-market-update-feb-2019/) for more).
 
 Bay Area Median List Prices: bounced in February
 
