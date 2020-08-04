@@ -106,3 +106,110 @@ The number of homes for sale increased in February.
 The number of days it takes for the average home to sell nearly halved from January to February of this year in both the San Francisco Metro Area (29 days in February) and the San Jose Metro Area (27 days in February). This compares to a national average of 83 days. This is supportive of strong demand for homes from buyers across the Bay Area.
 
 ![](https://blog.gocobuy.com/wp-content/uploads/brizy/2299/assets/images/iW=765&iH=473&oX=0&oY=0&cW=765&cH=473/Days-on-Market-by-metro-area.png)
+
+---
+
+# Local Economy
+
+The Bay Area continues to experience a period of strong economic performance (though much work remains to address homelessness, growing financial disparity, and access to credit).
+
+***
+
+<div class="table-responsive">
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th scope="col">Low Unemployment</th>
+        <th scope="col">Steady Job Creation</th>
+        <th scope="col">Strong Wage & Salary Growth</th>
+        <th scope="col">Inflation</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><b>2.8%</b></td>
+        <td><b>2.3%</b></td>
+        <td><b>3.8%</b></td>
+        <td><b>3.5%</b></td>
+      </tr>
+      <tr>
+        <td>Virtual full employment: the majority of those who are able and want to work can secure employment.</td>
+        <td>Many firms are actually challenged to find folks to hire in the current climate, according to California
+          Dept. of Transport.</td>
+        <td>Real per capital income is expected to surpass $135k by 2023.</td>
+        <td>Above the national average, though down from the last release at 4.5%.</td>
+      </tr>
+      <tr>
+        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
+            href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
+            href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
+            href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+### **Looking ahead...**
+
+(No major departure from our view last month.)
+
+Home buying activity continues to increase month-on-month. The next few months are likely to see strong demand and rising prices (albeit at a moderate pace). This view is predicated on those factors covered above (lower mortgage rates and a lack of housing supply) as well as the strength of the local economy, seasonality, and the strong financial profile of local homebuyers.
+
+A recession, a shock to the local economy, or a meaningful increase to the cost of borrowing could all negatively impact buyer demand. We see all three scenarios as unlikely in the short run.
+
+**_Boomin' local economy_**
+
+The local economy is strong and continues to outperform most jurisdictions and the U.S. as a whole. Robust economic fundamentals contribute towards greater demand for homes.
+
+**_High-season for home buying is underway_**
+
+Early spring through autumn generally marks the high-season in residential real estate. Attractive properties that are priced appropriately are receiving multiple offers. Sellers are placing increased emphasis on the structure and negotiation of offers received. Naturally, buyers and sellers with [best-in-class professional support](https://www.gocobuy.com/certified-pro) will have an advantage.
+
+**_Highly-qualified buyers_**
+
+Wages and salaries in the Bay are higher than the state average - and expected to rise. By 2023, real per capita income in San Francisco County will [exceed $135,000](http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf). Furthermore, homebuyers in San Francisco have amongst the [strongest credit scores of any city in the nation](https://www.cnbc.com/2019/01/31/most-competitive-housing-markets-in-the-us.html).
+
+## Co-buying gets you more bang for your buck
+
+**Pooling resources to buy a home can be a great way to get a down payment together and to benefit from economies of scale. Every month, we illustrate the benefits of combined purchasing power with up-to-date market data.**
+
+In the example below, we assume:
+
+* 10% down payment (not a hard requirement, many borrowers qualify with less)
+* closing costs (buy-side) amount to 2.5% of the purchase price
+* median list price for a 1-bed = $604k
+* median list price for a 2-bed = $700k
+* median list price for a 3-bed = $876k
+* median list price for a 4-bed = $1,200k
+
+Source: realtor.com data for SF-Oakland-Hayward Metro as of April 2019
+
+## Economies of Scale
+
+<table class="table">
+  <thead>
+    <tr>
+      <th>Flying solo </th>
+      <th>Teaming up to co-buy </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>single buyer / 1 bedroom home</td>
+      <td>3 co-buyers / 3 bedroom home</td>
+    </tr>
+    <tr>
+      <td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
+      <td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
+    </tr>
+  </tbody>
+</table>
+
+Breaking it down...
+
+![](/assets/images/break-it-down-2019.png)
+
+On a per-bedroom basis, purchasing a three-bedroom home in the SF-Oakland-Hayward metro is currently 52% cheaper than purchasing a one-bedroom home. Economies of scale are real! Co-buying can deliver more bang for your buck _and_ provide greater optionality.
