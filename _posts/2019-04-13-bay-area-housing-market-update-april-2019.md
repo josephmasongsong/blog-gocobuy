@@ -1,5 +1,8 @@
 ---
-categories: []
+categories:
+- Housing Market Update
+- CoBuying
+- Bay Area
 author: mat
 layout: post
 title: Bay Area Housing Market Update - April 2019
@@ -8,12 +11,13 @@ description: Home prices in the San Francisco-Oakland-Hayward metro area are up 
 hidden: false
 image: "/assets/images/san-francisco-210230_1920-e1555271295491.jpg"
 toc: false
-date: 
+date: 2019-04-13 20:00:00 +0000
+permalink: bay-area-housing-market-update-april-2019
 
 ---
-"Sometimes the questions are complicated, and the answers are simple."
-
-_-Dr. Seuss_
+> Sometimes the questions are complicated, and the answers are simple.
+>
+> _-Dr. Seuss_
 
 If you've been following the press recently, you know that the IPO bonanza is the talk of the town. Headlines suggest that a series of upcoming initial public offerings will cause home prices to soar across the Bay as thousands of new millionaires pour capital in the local housing markets.
 
@@ -188,40 +192,40 @@ The Bay Area continues to experience a period of strong economic performance (th
 ***
 
 <div class="table-responsive">
-  <table class="table table-bordered">
-    <thead>
-      <tr>
-        <th scope="col">Low Unemployment</th>
-        <th scope="col">Steady Job Creation</th>
-        <th scope="col">Strong Wage & Salary Growth</th>
-        <th scope="col">Inflation</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><b>2.8%</b></td>
-        <td><b>2.3%</b></td>
-        <td><b>3.8%</b></td>
-        <td><b>3.5%</b></td>
-      </tr>
-      <tr>
-        <td>Virtual full employment: the majority of those who are able and want to work can secure employment.</td>
-        <td>Many firms are actually challenged to find folks to hire in the current climate, according to California
-          Dept. of Transport.</td>
-        <td>Real per capital income is expected to surpass $135k by 2023.</td>
-        <td>Above the national average, though down from the last release at 4.5%.</td>
-      </tr>
-      <tr>
-        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
-            href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
-        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
-            href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
-        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
-            href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
-        <td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a></td>
-      </tr>
-    </tbody>
-  </table>
+<table class="table table-bordered">
+<thead>
+<tr>
+<th scope="col">Low Unemployment</th>
+<th scope="col">Steady Job Creation</th>
+<th scope="col">Strong Wage & Salary Growth</th>
+<th scope="col">Inflation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>2.8%</b></td>
+<td><b>2.3%</b></td>
+<td><b>3.8%</b></td>
+<td><b>3.5%</b></td>
+</tr>
+<tr>
+<td>Virtual full employment: the majority of those who are able and want to work can secure employment.</td>
+<td>Many firms are actually challenged to find folks to hire in the current climate, according to California
+Dept. of Transport.</td>
+<td>Real per capital income is expected to surpass $135k by 2023.</td>
+<td>Above the national average, though down from the last release at 4.5%.</td>
+</tr>
+<tr>
+<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
+href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
+href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a>, <a
+href="http://www.dot.ca.gov/hq/tpp/offices/eab/socio_economic_files/2018/Full_Report_2018.pdf">DoT</a></td>
+<td>Source: <a href="https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf">BLS</a></td>
+</tr>
+</tbody>
+</table>
 </div>
 
 ### **Looking ahead...**
@@ -262,22 +266,22 @@ Source: realtor.com data for SF-Oakland-Hayward Metro as of April 2019
 ## Economies of Scale
 
 <table class="table">
-  <thead>
-    <tr>
-      <th>Flying solo </th>
-      <th>Teaming up to co-buy </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>single buyer / 1 bedroom home</td>
-      <td>3 co-buyers / 3 bedroom home</td>
-    </tr>
-    <tr>
-      <td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
-      <td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
-    </tr>
-  </tbody>
+<thead>
+<tr>
+<th>Flying solo </th>
+<th>Teaming up to co-buy </th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>single buyer / 1 bedroom home</td>
+<td>3 co-buyers / 3 bedroom home</td>
+</tr>
+<tr>
+<td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
+<td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
+</tr>
+</tbody>
 </table>
 
 Breaking it down...
