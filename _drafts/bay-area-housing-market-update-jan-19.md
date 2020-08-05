@@ -202,34 +202,21 @@ Source: realtor.com data for SF-Oakland-Hayward Metro as of April 2019
 <table class="table">
 
 <thead>
-
     <tr>
       <th>Flying solo </th>
       <th>Teaming up to co-buy </th>
     </tr>
-
 </thead>
-
 <tbody>
-
     <tr>
-    
       <td>single buyer / 1 bedroom home</td>
-    
       <td>3 co-buyers / 3 bedroom home</td>
-    
     </tr>
-    
     <tr>
-    
       <td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
-    
       <td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
-    
     </tr>
-
 </tbody>
-
 </table>
 
 Breaking it down...
