@@ -47,7 +47,7 @@ Corporate profits soared in 2018. Equities lost ground, but the _bull run_ conti
 
 Geopolitics, global trade, fiscal policy, and monetary policy remain the wild cards in the deck - as always. But it is fair to say that on the whole, things are going pretty darn well. Last month we noted that many economists expect the pace of U.S. [economic growth to temper but “remain strong”](http://www.oecd.org/eco/outlook/economic-forecast-summary-united-states-oecd-economic-outlook.pdf). Despite the flurry of ominous headlines over the past couple months, many big [institutional investors agree](https://www.bloomberg.com/graphics/2019-investment-outlooks/). Barring a shock or _force majeure_, few credible market observers expect that a downturn is imminent.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1961/assets/images/iW=761&iH=427&oX=241&oY=0&cW=278&cH=427/housing-affordability-crisis.jpeg)
+![](/assets/images/housing-affordability-crisis.jpeg)
 
 ## National Housing Market
 
@@ -59,17 +59,17 @@ And that’s not all. Home prices are expected to rise 5% nationally in the twel
 
 There is some good news for homebuyers, however. After breaking through 5.00 percent in November, the average rate on a 30-year fixed-rate mortgage has dropped to 4.45 percent. This retracement owes largely to investor flight to quality following volatility in equity markets and lingering concerns about the government shutdown.
 
-**30-year Fixed Rate Mortgage**
+#### **30-year Fixed Rate Mortgage**
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1961/assets/images/iW=457&iH=383&oX=0&oY=0&cW=457&cH=383/freddie-mac-30y-mortgage-rate.png)
+![](/assets/images/freddie-mac-30y-mortgage-rate.png)
 
 source: Freddie Mac
 
 For a homebuyer borrowing $400k to buy a new home, a 50 basis point differential on a 30-year fixed-rate mortgage equates to **$43,274** in loan repayments over the full term.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1961/assets/images/iW=545&iH=228&oX=0&oY=0&cW=545&cH=228/Screen-Shot-2019-01-15-at-10.28.01-AM.png)
+![](/assets/images/screen-shot-2019-01-15-at-10-28-01-am.png)
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1961/assets/images/iW=556&iH=232&oX=5&oY=0&cW=545&cH=232/Screen-Shot-2019-01-15-at-10.28.09-AM.png)
+![](/assets/images/screen-shot-2019-01-15-at-10-28-09-am.png)
 
 Local Housing Markets
 
@@ -81,7 +81,7 @@ A strong economy has fed a sustained period home price appreciation across the B
 
 Over the course of 2018, the median list price for a home in the SF-Oakland-Hayward metro area rose by 1% while we saw a fall of 9% in the San Jose-Sunnyvale-Santa Clara metro area.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1961/assets/images/iW=915&iH=614&oX=0&oY=0&cW=915&cH=614/bay-area-media-list-price-dec-18.png)
+![](/assets/images/bay-area-media-list-price-dec-18.png)
 
 Source: data sets from realtor.com
 
@@ -99,7 +99,7 @@ This needs to be viewed in context. First of all, _list prices_, _median sale pr
 
 At the city level, we see _home values_ are at or near their peak in San Francisco, Oakland, and a number of other cities across the Bay. According to the Case-Shiller Home Price Index, San Francisco homes **appreciated** nearly 8% over the last 12 months.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1961/assets/images/iW=965&iH=533&oX=0&oY=0&cW=965&cH=533/bay-area-home-values-dec-2018.png)
+![](/assets/images/bay-area-home-values-dec-2018.png)
 
 Source: data sets from Zillow Research
 
@@ -107,19 +107,19 @@ In essence, the second half of 2018 represents a re-balancing of sorts. The pace
 
 The supply side tells an interesting story. The number of active listings on the market normally peaks in mid to late summer. In 2018, the high point came in October. Inventory then tightened in December, dropping 30% from the highs of the year.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1961/assets/images/iW=935&iH=627&oX=0&oY=0&cW=935&cH=627/bay-area-active-listings-dec-2018.png)
+![](/assets/images/bay-area-active-listings-dec-2018.png)
 
 Source: data sets from realtor.com
 
 The average _days on market_ of a listed home in both the San Francisco and San Jose metro areas peaked in December at 51. This is consistent with traditional seasonal movements and notably lower than the national measurement for December of 80 days.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1961/assets/images/iW=935&iH=628&oX=0&oY=0&cW=935&cH=628/bay-area-days-on-market-dec-2018.png)
+![](/assets/images/bay-area-days-on-market-dec-2018.png)
 
 Source: data sets from realtor.com
 
 _Months supply of inventory_ - the time it would take for the market to digest existing supply of homes for sale - decreased in December to 1.7 months in the San Francisco-Oakland-Hayward metro area and 1.6 months in the San Jose-Sunnyvale-Santa Clara metro area. These levels indicate constrained inventory and are characteristic of a ‘**sellers' market**’. For comparison, nationally the _months supply of inventory_ for December clocked in at 3.9 months.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1961/assets/images/iW=935&iH=526&oX=0&oY=0&cW=935&cH=526/bay-area-months-supply-inventory-dec-2018.png)
+![](/assets/images/bay-area-months-supply-inventory-dec-2018.png)
 
 Source: data sets from realtor.com
 
@@ -135,25 +135,25 @@ In the words of Pliny the Elder, “the only certainty is that nothing is certai
 
 The national economy is strong by historical standards, and is expected to [continue to grow in 2019](https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20171213.htm). The San Francisco-Oakland-Hayward metro area ranks 6th nationally for GDP, while the San Jose-Sunnyvale-Santa Clara metro has the [fastest growing economy of any metro nationally](https://www.bea.gov/news/2018/gross-domestic-product-metropolitan-area-2017) with a population above one million.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1961/assets/images/iW=333&iH=249&oX=2&oY=0&cW=330&cH=249/bull-market.jpg)
+![](/assets/images/bull-market.jpg)
 
 **The local job market is healthy and growing**
 
 Job growth is nearly 2% in the [San Francisco](https://www.bls.gov/regions/west/summary/blssummary_sanfrancisco.pdf) and San Jose metros, the [net employment outlook is strong](https://go.manpowergroup.com/hubfs/MEOS/2019_Q1/Q1%202019_US_MEOS%20Report.pdf), [tech companies plan to add jobs in early 2019](http://rh-us.mediaroom.com/2018-12-13-Tech-Leaders-Report-Urgent-Hiring-Needs-For-2019-Project-Based-Hires-And-Re-Skilling-Play-Role-In-Staffing-Strategies), and San Francisco consistently ranks amongst [top 10 cities in the U.S. for jobs](https://wallethub.com/edu/best-cities-for-jobs/2173/).
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1961/assets/images/iW=465&iH=306&oX=0&oY=0&cW=465&cH=306/Screen-Shot-2019-01-14-at-7.07.09-PM.png)
+![](/assets/images/screen-shot-2019-01-14-at-7-07-09-pm.png)
 
 **The market has shifted its view on the pace of rate hikes**
 
 Financial markets expect that the Fed will raise interest rates at a slower pace, [if at all](https://www.wsj.com/articles/investors-are-betting-that-the-fed-hits-pause-on-rate-hikes-11546449520), in 2019. Fed Chairman Powell has emphasized that monetary policy should be approached with flexibility.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1961/assets/images/iW=337&iH=248&oX=3&oY=0&cW=330&cH=248/federal-reserve-chairman.jpg)
+![](/assets/images/federal-reserve-chairman.jpg)
 
 **Rents have skyrocketed across the Bay, set to remain high**
 
 Over the past two years, the [rent for a one-bedroom has increased 30% in Oakland and nearly 20% in Berkeley](https://www.bizjournals.com/sanfrancisco/news/2019/01/10/bay-area-rental-price-spike-oakland-menlo-park.html). San Francisco rents are expected to [remain amongst the highest in the country](https://blog.sfgate.com/ontheblock/2018/12/30/why-s-f-rents-are-likely-to-remain-the-highest-in-the-nation/) in 2019.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1961/assets/images/iW=395&iH=296&oX=0&oY=0&cW=395&cH=296/US-Rent-Report-Infographic-New.jpg)
+![](/assets/images/us-rent-report-infographic-new.jpg)
 
 Source: Zumper Research Data, SFgate.com
 
@@ -169,7 +169,7 @@ The time and cost required to obtain approval for new housing projects in the Ba
 
 "Key drivers in 2019 will be the outcome of a number of massive IPOs that are potentially occurring in 2019: Airbnb, Uber, Palantir, Lyft, Slack, Pinterest, etc." notes [Frank Sandoval](https://mortgage.bankofamerica.com/frank-sandoval), a San Francisco-based Senior Lending Officer with Bank of America. "These liquidity events could add a swarm of new buyers flush with cash to the market and ignite the fire of bidding wars that have waned during the last 6 months."
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1961/assets/images/iW=389&iH=351&oX=11&oY=0&cW=367&cH=351/Screen-Shot-2019-01-14-at-7.48.08-PM.png)
+![](/assets/images/screen-shot-2019-01-14-at-7-48-08-pm.png)
 
 **But what's it all mean, Basil?**
 
@@ -201,20 +201,20 @@ Source: realtor.com data for SF-Oakland-Hayward Metro as of April 2019
 
 <table class="table">
 <thead>
-    <tr>
-      <th>Flying solo </th>
-      <th>Teaming up to co-buy </th>
-    </tr>
+<tr>
+<th>Flying solo </th>
+<th>Teaming up to co-buy </th>
+</tr>
 </thead>
 <tbody>
-    <tr>
-      <td>single buyer / 1 bedroom home</td>
-      <td>3 co-buyers / 3 bedroom home</td>
-    </tr>
-    <tr>
-      <td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
-      <td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
-    </tr>
+<tr>
+<td>single buyer / 1 bedroom home</td>
+<td>3 co-buyers / 3 bedroom home</td>
+</tr>
+<tr>
+<td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
+<td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
+</tr>
 </tbody>
 </table>
 
