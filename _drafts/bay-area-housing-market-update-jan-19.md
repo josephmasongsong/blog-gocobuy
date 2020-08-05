@@ -11,7 +11,7 @@ date: 2019-01-13 20:00:00 +0000
 permalink: bay-area-market-update-jan-2019
 
 ---
-“An investment in knowledge pays the best interest.“
+> An investment in knowledge pays the best interest.
 
 \-Benjamin Franklin
 
@@ -85,6 +85,8 @@ Over the course of 2018, the median list price for a home in the SF-Oakland-Hayw
 
 Source: data sets from realtor.com
 
+***
+
 This needs to be viewed in context. First of all, _list prices_, _median sale prices_, and _home values_ are not the same.
 
 **List Price**: the price at which a seller advertises a property for sale on the market.
@@ -92,6 +94,8 @@ This needs to be viewed in context. First of all, _list prices_, _median sale pr
 **Sale Price**: the price at which a seller and a buyer agree to transact. The _median sale price_ for a given data set is the price “in the middle” of all sale prices when arranged in order of value. Referencing the _median sale price_ instead of the _mean sale price_ is useful as it reduces skew from outlying data points.
 
 **Home Value**: a proxy for the value of a property, or how much it is worth. Ultimately, the true determination of value can only be established through transacting. Most homes in a particular geography aren’t on the market, so home value indices are constructed in order to monitor fluctuations in local home values.
+
+***
 
 At the city level, we see _home values_ are at or near their peak in San Francisco, Oakland, and a number of other cities across the Bay. According to the Case-Shiller Home Price Index, San Francisco homes **appreciated** nearly 8% over the last 12 months.
 
@@ -175,7 +179,7 @@ There is little reason to doubt strong demand for homes around the Bay in 2019. 
 
 \## Co-buying gets you more bang for your buck
 
-\**Pooling resources to buy a home can be a great way to get a down payment together and to benefit from economies of scale. Every month, we illustrate the benefits of combined purchasing power with up-to-date market data.**
+\*_Pooling resources to buy a home can be a great way to get a down payment together and to benefit from economies of scale. Every month, we illustrate the benefits of combined purchasing power with up-to-date market data._*
 
 In the example below, we assume:
 
@@ -197,37 +201,34 @@ Source: realtor.com data for SF-Oakland-Hayward Metro as of April 2019
 
 <table class="table">
 
-  <thead>
+<thead>
 
     <tr>
-
       <th>Flying solo </th>
-
       <th>Teaming up to co-buy </th>
-
     </tr>
 
-  </thead>
+</thead>
 
-  <tbody>
+<tbody>
 
     <tr>
-
+    
       <td>single buyer / 1 bedroom home</td>
-
+    
       <td>3 co-buyers / 3 bedroom home</td>
-
+    
     </tr>
-
+    
     <tr>
-
+    
       <td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
-
+    
       <td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
-
+    
     </tr>
 
-  </tbody>
+</tbody>
 
 </table>
 
