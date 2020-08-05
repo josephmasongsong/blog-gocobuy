@@ -12,7 +12,7 @@ date: 2019-01-02 20:00:00 +0000
 permalink: greater-seattle-housing-market-update-jan-2019-2
 
 ---
-### “An investment in knowledge pays the best interest.“
+An investment in knowledge pays the best interest.
 
 \-Benjamin Franklin
 
