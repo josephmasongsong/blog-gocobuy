@@ -12,7 +12,7 @@ date: 2019-01-02 20:00:00 +0000
 permalink: greater-seattle-housing-market-update-jan-2019-2
 
 ---
-An investment in knowledge pays the best interest.
+> An investment in knowledge pays the best interest.
 
 \-Benjamin Franklin
 
@@ -48,7 +48,7 @@ Corporate profits soared in 2018. Equities lost ground, but the _bull run_ conti
 
 Geopolitics, global trade, fiscal policy, and monetary policy remain the wild cards in the deck - as always. But it is fair to say that on the whole, things are going pretty darn well. Last month we noted that many economists expect the pace of U.S. [economic growth to temper but “remain strong”](http://www.oecd.org/eco/outlook/economic-forecast-summary-united-states-oecd-economic-outlook.pdf). Despite the flurry of ominous headlines over the past couple months, many big [institutional investors agree](https://www.bloomberg.com/graphics/2019-investment-outlooks/). Barring a shock or _force majeure_, few credible market observers expect that a downturn is imminent.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1757/assets/images/iW=761&iH=427&oX=241&oY=0&cW=278&cH=427/housing-affordability-crisis.jpeg)
+![](/assets/images/housing-affordability-crisis-1.jpeg)
 
 ## National Housing Market
 
@@ -62,15 +62,15 @@ There is some good news for homebuyers, however. After breaking through 5.00 per
 
 **30-year Fixed Rate Mortgage**
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1757/assets/images/iW=457&iH=353&oX=0&oY=5&cW=457&cH=342/Screen-Shot-2019-01-03-at-1.06.20-PM.png)
+![](/assets/images/screen-shot-2019-01-03-at-1-06-20-pm.png)
 
 source: Freddie Mac
 
 For a homebuyer borrowing $400k to buy a new home, a 50 basis point reduction on a 30-year fixed-rate mortgage means **$43,420** less in loan repayments over the full term.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1757/assets/images/iW=545&iH=230&oX=0&oY=0&cW=545&cH=230/Screen-Shot-2019-01-03-at-12.55.21-PM.png)
+![](/assets/images/screen-shot-2019-01-03-at-12-55-21-pm.png)
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1757/assets/images/iW=545&iH=232&oX=0&oY=0&cW=545&cH=232/Screen-Shot-2019-01-03-at-12.55.27-PM.png)
+![](/assets/images/screen-shot-2019-01-03-at-12-55-27-pm.png)
 
 Local Housing Markets
 
@@ -80,11 +80,11 @@ Seattle’s explosive growth has been fueled by a hyper-charged, robust local ec
 
 The median sale price for a Seattle home has risen nearly 40% over the past five years according to data from the Northwest MLS.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1757/assets/images/iW=713&iH=535&oX=0&oY=0&cW=713&cH=535/mediansalesprice5y-e1546550724514.png)
+![](/assets/images/mediansalesprice5y-e1546550724514.png)
 
 Here’s the trajectory of the median sale price for a single family home in Seattle over the past twelve months.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1757/assets/images/iW=668&iH=379&oX=0&oY=0&cW=668&cH=379/Screen-Shot-2019-01-03-at-1.30.03-PM.png)
+![](/assets/images/screen-shot-2019-01-03-at-1-30-03-pm.png)
 
 After skyrocketing 15% in just four months, the SFH median sale price closed 2018 more or less flat. This needs to be viewed in context. First of all, list prices, median sale prices, and home values are not the same.
 
@@ -98,13 +98,13 @@ Next, all three are subject to seasonal swings and can differ substantially depe
 
 After a spike in inventory in Greater Seattle, the number of homes on the market dropped off sharply in December.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1757/assets/images/iW=733&iH=550&oX=0&oY=0&cW=733&cH=550/homesforsale5y-e1546552472795.png)
+![](/assets/images/homesforsale5y-e1546552472795.png)
 
 Months supply of inventory - the number of months it would take for all existing inventory to be taken down if no new homes came to market - is now looking fairly skinny across Greater Seattle.
 
 The massive year-on-year increase in months supply for Seattle and Bellevue is due to the fact that December 2017 marked a low point.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1757/assets/images/iW=452&iH=126&oX=0&oY=0&cW=452&cH=126/months-supply-inventory.png)
+![](/assets/images/months-supply-inventory.png)
 
 ## Spotlight 2019
 
@@ -116,25 +116,25 @@ In the words of Pliny the Elder, “the only certainty is that nothing is certai
 
 The national economy is strong by historical standards, and is expected to [continue to grow in 2019](https://www.federalreserve.gov/monetarypolicy/fomcprojtabl20171213.htm). The Seattle-Tacoma-Bellevue metro area is smashing it out of the park and has the [second fastest growing economy of any metro](https://www.bea.gov/news/2018/gross-domestic-product-metropolitan-area-2017) in the country.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1757/assets/images/iW=333&iH=249&oX=2&oY=0&cW=330&cH=249/bull-market.jpg)
+![](/assets/images/bull-market.jpg)
 
 **The local job market is growing fast, so is the population**
 
 The Puget Sound is [adding jobs faster](https://www.bls.gov/regions/west/summary/blssummary_seattle.pdf) than most regions across the nation. Only fitting that Seattle ranks #1 amongst U.S. cities for population growth since 2010.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1757/assets/images/iW=373&iH=249&oX=22&oY=0&cW=330&cH=249/Seattle-No-1-for-growth-this-decade-Seattle-Times.jpg)
+![](/assets/images/seattle-no-1-for-growth-this-decade-seattle-times.jpg)
 
 **The market has shifted its view on the pace of rate hikes**
 
 Financial markets expect that the Fed will raise interest rates at a slower pace, [if at all](https://www.wsj.com/articles/investors-are-betting-that-the-fed-hits-pause-on-rate-hikes-11546449520), in 2019. Fed Chairman Powell has emphasized that monetary policy should be approached with flexibility.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1757/assets/images/iW=337&iH=248&oX=3&oY=0&cW=330&cH=248/federal-reserve-chairman.jpg)
+![](/assets/images/federal-reserve-chairman.jpg)
 
 **Home prices have surged in Greater Seattle**
 
 Home price appreciation may have slowed over the past few months, but prices are up 40% over the past five years according to NWMLS data.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1757/assets/images/iW=330&iH=263&oX=0&oY=6&cW=330&cH=250/Screen-Shot-2019-01-03-at-5.51.19-PM.png)
+![](/assets/images/screen-shot-2019-01-03-at-5-51-19-pm.png)
 
 Source: S&P Dow Jones Indices LLC, FRED
 
@@ -144,16 +144,82 @@ Like home prices, rents have moderated. Still, rents increased more than [30% ov
 
 According to the [Seattle Times](https://www.seattletimes.com/business/real-estate/hoping-for-seattle-area-rents-to-get-cheap-dont-hold-your-breath/): "market has cooled way down recently as more apartments open. But only after rents here soared 155 percent over the last two decades, making Seattle and its suburbs one of the most expensive places in the country to rent an apartment."
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1757/assets/images/iW=375&iH=352&oX=4&oY=0&cW=367&cH=352/seattle-rents.jpg)
+![](/assets/images/seattle-rents.jpg)
 
 **Not in my backyard!**
 
 Shockingly, 75% of residentially-zoned land in Seattle remains [restricted to single-family homes](https://www.seattletimes.com/business/real-estate/city-report-widespread-single-family-zoning-is-damaging-seattle-and-needs-changing/), placing a dubious constraint on the supply side for a region encircled by natural barriers.
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1757/assets/images/iW=367&iH=374&oX=0&oY=11&cW=367&cH=351/Screen-Shot-2019-01-03-at-6.01.32-PM.png)
+![](/assets/images/screen-shot-2019-01-03-at-6-01-32-pm.png)
 
 **But what's it all mean, Basil?**
 
 The local population is growing, the local economy is adding jobs, houses are expensive, rents are expensive, building up is tough, building out isn't feasible, and the Fed looks set to approach monetary policy in a prudent manner.
 
 There is little reason to doubt that we'll see demand for homes across Greater Seattle, particularly after the market has taken a breather. Buyers who decided to wait it out on the sidelines at the end of 2018 will be joined by newcomers to the market. No doubt, those who do decide to enter the fray will be encouraged by lower borrowing costs and and more supportive market dynamics.
+
+***
+
+\## Co-buying gets you more bang for your buck
+
+\**Pooling resources to buy a home can be a great way to get a down payment together and to benefit from economies of scale. Every month, we illustrate the benefits of combined purchasing power with up-to-date market data.**
+
+In the example below, we assume:
+
+\* 10% down payment (not a hard requirement, many borrowers qualify with less)
+
+\* closing costs (buy-side) amount to 2.5% of the purchase price
+
+\* median list price for a 1-bed = $604k
+
+\* median list price for a 2-bed = $700k
+
+\* median list price for a 3-bed = $876k
+
+\* median list price for a 4-bed = $1,200k
+
+Source: realtor.com data for SF-Oakland-Hayward Metro as of April 2019
+
+\## Economies of Scale
+
+<table class="table">
+
+  <thead>
+
+    <tr>
+
+      <th>Flying solo </th>
+
+      <th>Teaming up to co-buy </th>
+
+    </tr>
+
+  </thead>
+
+  <tbody>
+
+    <tr>
+
+      <td>single buyer / 1 bedroom home</td>
+
+      <td>3 co-buyers / 3 bedroom home</td>
+
+    </tr>
+
+    <tr>
+
+      <td>A single buyer would need $76k in cash up front for down payment and closing costs. </td>
+
+      <td>Three co-buyers would need to each contribute $37k up front for down payment and closing costs.</td>
+
+    </tr>
+
+  </tbody>
+
+</table>
+
+Breaking it down...
+
+!\[\](/assets/images/break-it-down-2019.png)
+
+On a per-bedroom basis, purchasing a three-bedroom home in the SF-Oakland-Hayward metro is currently 52% cheaper than purchasing a one-bedroom home. Economies of scale are real! Co-buying can deliver more bang for your buck _and_ provide greater optionality.
