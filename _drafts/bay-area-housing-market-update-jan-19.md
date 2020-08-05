@@ -11,7 +11,7 @@ date: 2019-01-13 20:00:00 +0000
 permalink: bay-area-market-update-jan-2019
 
 ---
-### “An investment in knowledge pays the best interest.“
+“An investment in knowledge pays the best interest.“
 
 \-Benjamin Franklin
 
