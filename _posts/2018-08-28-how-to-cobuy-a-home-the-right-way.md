@@ -109,6 +109,6 @@ If you are thinking about buying a home with others, visit [CoBuy](http://www.go
 
 Check out our video review below:
 
-{% youtube [https://www.youtube.com/watch?v=cG1bHgRm29M](https://www.youtube.com/watch?v=cG1bHgRm29M "https://www.youtube.com/watch?v=cG1bHgRm29M") % }
+{% youtube [https://www.youtube.com/watch?v=cG1bHgRm29M](https://www.youtube.com/watch?v=cG1bHgRm29M "https://www.youtube.com/watch?v=cG1bHgRm29M") %}
 
 For more info, check out [CoBuy](http://www.gocobuy.com/) or [subscribe to our mailing list](http://eepurl.com/dlB23z). Our platform simplifies co-buying a home with friends, family, or a loved one, from start to finish.
