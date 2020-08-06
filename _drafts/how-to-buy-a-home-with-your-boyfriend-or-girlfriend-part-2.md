@@ -14,7 +14,7 @@ permalink: buying-home-boyfriend-girlfriend-2
 ---
 ## **How to buy a home with your boyfriend or girlfriend: Part 2 (The Game Plan)**
 
-###### _In this series, we explore buying a home with your partner (outside of marriage). Buying the home is only half the battle. It’s important to do your homework and take steps to protect yourself and your investment. Having a plan for your purchase will save you time and money. Establishing a framework for co-ownership will provide you peace of mind and limit risks. Check out Part 1 of this series_ [_here_](https://blog.gocobuy.com/buying-home-boyfriend-girlfriend/)_._
+_In this series, we explore buying a home with your partner (outside of marriage). Buying the home is only half the battle. It’s important to do your homework and take steps to protect yourself and your investment. Having a plan for your purchase will save you time and money. Establishing a framework for co-ownership will provide you peace of mind and limit risks. Check out Part 1 of this series_ [_here_](https://blog.gocobuy.com/buying-home-boyfriend-girlfriend/)_._
 
 Buying a home is an important decision. Homeownership is highly-correlated to wealth creation. It enables you to build equity in an asset _you_ own, provides a natural inflation hedge, helps you avoid rent increases, and confers tax benefits. For many, buying a home represents the single largest financial transaction of their lifetime. But really, it’s more than that. If home is where the heart is, then buying a home is a highly personal affair. You’ll live, sleep, eat, laugh and cry within the walls of your home. 
 
