@@ -67,6 +67,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2016-09-27-what-is-cobuy.md
 - _posts/2016-09-28-cobuy-vs-renting-the-basics.md
 - _posts/2016-09-28-defining-rent-poor.md
 - _posts/2016-10-05-the-essentials-what-you-ll-need-to-co-buy.md
