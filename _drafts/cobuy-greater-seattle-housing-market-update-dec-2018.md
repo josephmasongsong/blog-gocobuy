@@ -12,9 +12,7 @@ date: 2018-12-03 20:00:00 +0000
 permalink: greater-seattle-market-update-dec-2018
 
 ---
-### _“Those who have knowledge, don’t predict. Those who predict, don’t have knowledge. “_
-
-### _-Lao Tzu_
+“Those who have knowledge, don’t predict. Those who predict, don’t have knowledge.“ -Lao Tzu
 
 ### So long, 2018.
 
