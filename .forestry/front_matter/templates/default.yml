@@ -67,6 +67,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2016-11-22-what-a-rate-hike-means-for-buyers.md
 - _posts/2016-12-15-mortgage-before-marriage.md
 - _posts/2017-02-20-renting-with-friends-5-reasons-you-and-your-friends-should-consider-buying-together.md
 - _posts/2017-03-29-you-can-t-afford-to-buy-a-home-in-seattle-or-can-you.md
@@ -103,4 +104,3 @@ pages:
 - _posts/2019-10-07-cobuy-certified-mortgage-pro-trevor-reese.md
 - _posts/2020-08-03-bay-area-housing-market-update-may-2019.md
 - _posts/2020-08-06-cobuy-bay-area-housing-market-update-dec-2018.md
-- _posts/what-a-rate-hike-means-for-buyers.md
