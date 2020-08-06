@@ -12,7 +12,7 @@ date: 2018-12-03 20:00:00 +0000
 permalink: greater-seattle-market-update-dec-2018
 
 ---
-“Those who have knowledge, don’t predict. Those who predict, don’t have knowledge.“ -Lao Tzu
+> “Those who have knowledge, don’t predict. Those who predict, don’t have knowledge.“ -Lao Tzu
 
 ### So long, 2018.
 
@@ -42,13 +42,13 @@ Median sales prices have come down off the highs seen in May and June of this ye
 
 Note the difference between “listing price”, “sale price”, and “home value”. A home isn’t necessarily sold at the _listing price_: often times the _sale price_ is above or below the _listing price_. _Home value_ indices are constructed in the aggregate and should reflect the distribution and type of housing stock. If one month only “starter homes” are sold in a given geography, the median sales price data for that month will be relatively low and isn’t an accurate gauge for _home values_ overall. Add into the mix seasonal swings and it becomes clear that data needs to be evaluated in context and with regard to the construction of the dataset.
 
-![Median Sales Price for Seattle homes](https://blog.gocobuy.com/wp-content/uploads/2018/12/mediansalesprice.png =640x454)
+![](/assets/images/mediansalesprice.png)
 
 The number of homes on the market has increased across King County after many months of excessively tight inventory. Still, _months supply of inventory_ for Seattle, Bellevue, and Tacoma remains considerably lower than the 4-6 months considered “balanced”. _Months supply of inventory_ represents how long it would take for all of the homes currently on the market to be purchased assuming no new homes were listed.
 
-![Inventory in Seattle housing market](https://blog.gocobuy.com/wp-content/uploads/2018/12/Homes-for-sale-Cities-5y.png =640x457)
+![](/assets/images/homes-for-sale-cities-5y.png)
 
-![Economies of scale in Seattle housing](https://blog.gocobuy.com/wp-content/uploads/2018/12/Screen-Shot-2018-12-04-at-1.18.03-PM.png =894x169)
+![](/assets/images/screen-shot-2018-12-04-at-1-18-03-pm.png)
 
 The median days on market has increased in Seattle (21 days), Bellevue (19 days), and Tacoma (18 days) from the low in June of just seven days. Compare that to the current national figure of 71 days. Furthermore, the _median percent of last list price_ figure for Seattle last month came in at 98.9%, Bellevue at 98.4%, and Tacoma at 100%. Homes for sale in the region are still changing hands at a fairly brisk pace and within 0-2% of list price.
 
@@ -62,7 +62,7 @@ The _median list price_ for a one-bedroom in Seattle is currently $430k. In our 
 
 At the current list price for a three-bedroom home, three individuals could each contribute just over $29k in cash towards the down payment and fixed costs. By pooling resources to [jointly purchase a home](https://blog.gocobuy.com/how-to-split-ownership-between-co-owners/), the financial hurdle to homeownership is substantially reduced.
 
-![](https://blog.gocobuy.com/wp-content/uploads/2018/12/Screen-Shot-2018-12-04-at-1.23.23-PM.png =922x179)
+![](/assets/images/screen-shot-2018-12-04-at-1-23-23-pm.png)
 
 ### Context is key
 
