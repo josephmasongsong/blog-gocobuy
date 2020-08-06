@@ -20,15 +20,15 @@ Jenny, a long-divorced mother in her early 60’s and her 30-something-year-old 
 
 This is their story.
 
-\*At CoBuy we respect everyone who comes to us for help. So while their stories are true, client names, images and details may have been changed to protect their privacy. *
+**At CoBuy we respect everyone who comes to us for help. So while their stories are true, client names, images and details may have been changed to protect their privacy.** 
 
-[![](https://blog.gocobuy.com/wp-content/uploads/brizy/1674/assets/images/iW=74&iH=51&oX=0&oY=0&cW=74&cH=50/logo-blue-email.png)](http://www.gocobuy.com)
+![](/assets/images/logo-blue-email.png)
 
-# Meet The CoBuyers
+## Meet The CoBuyers
 
 _And what they each brought to the table._
 
-![](https://blog.gocobuy.com/wp-content/uploads/brizy/1674/assets/images/iW=337&iH=189&oX=56&oY=0&cW=172&cH=172/adult-architectural-design-architecture-1047958-2.jpg)
+![](/assets/images/adult-architectural-design-architecture-1047958-2.jpg)
 
 ##### Geoff
 
@@ -37,7 +37,7 @@ _And what they each brought to the table._
 * **Motivations:** Put some of his cash to work while helping his mother at the same time, diversifying his investments.
 * **Monthly Housing Budget:** $1,200
 
-[![](https://blog.gocobuy.com/wp-content/uploads/brizy/1674/assets/images/iW=422&iH=292&oX=243&oY=39&cW=172&cH=173/adult-casual-chef-1418355.jpg)](https://blog.gocobuy.com/wp-content/uploads/brizy/1674/assets/images/iW=1200&iH=any/adult-casual-chef-1418355.jpg)
+![](/assets/images/adult-casual-chef-1418355.jpg)
 
 ##### Jenny
 
@@ -46,7 +46,7 @@ _And what they each brought to the table._
 * **Motivations:** Provide an affordable place to live through retirement, reinforce both of their financial futures.
 * **Monthly Housing Budget:** $1,800
 
-"I was always worried about how I would afford a home when I retire. Not anymore." - Jenny
+> I was always worried about how I would afford a home when I retire. Not anymore. - Jenny
 
 ## Other Key Facts
 
