@@ -8,7 +8,8 @@ description: We look at housing data, news, and macro releases to get the skinny
 hidden: false
 image: "/assets/images/architecture-area-bay-356968-1600x900.jpg"
 toc: false
-date: 
+date: 2018-11-30 20:00:00 +0000
+permalink: bay-area-market-update-dec-2018
 
 ---
 > “Those who have knowledge, don’t predict. Those who predict, don’t have knowledge. “ -Lao Tzu
