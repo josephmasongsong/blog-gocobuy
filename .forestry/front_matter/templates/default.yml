@@ -67,6 +67,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2017-10-25-buying-a-home-with-your-boyfriend-or-girlfriend-part-i.md
 - _posts/2017-11-26-buy-vs.rent-neither.md
 - _posts/2017-12-11-10-reasons-you-may-want-to-buy-a-home-now.md
 - _posts/2017-12-12-cobuy-greater-seattle-housing-market-survey.md
@@ -99,4 +100,3 @@ pages:
 - _posts/2019-10-07-cobuy-certified-mortgage-pro-trevor-reese.md
 - _posts/2020-08-03-bay-area-housing-market-update-may-2019.md
 - _posts/2020-08-06-cobuy-bay-area-housing-market-update-dec-2018.md
-- _posts/buying-a-home-with-your-boyfriend-or-girlfriend-part-i.md
