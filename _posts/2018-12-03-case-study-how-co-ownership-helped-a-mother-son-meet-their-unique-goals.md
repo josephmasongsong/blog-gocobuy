@@ -12,7 +12,7 @@ date: 2018-12-03 20:00:00 +0000
 permalink: why-mother-son-decided-cobuy-home-together
 
 ---
-## [How Co-ownership Helped a Mother & Son Meet Their Social and Financial Goals](https://blog.gocobuy.com/why-mother-son-decided-cobuy-home-together/www.gocobuy.com)
+## [How Co-ownership Helped a Mother & Son Meet Their Social and Financial Goals](https://www.gocobuy.com)
 
 _Bremerton, Washington_
 
