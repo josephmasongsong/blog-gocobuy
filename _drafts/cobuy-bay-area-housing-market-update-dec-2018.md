@@ -11,9 +11,7 @@ toc: false
 date: 
 
 ---
-### _“Those who have knowledge, don’t predict. Those who predict, don’t have knowledge. “_
-
-### _-Lao Tzu_
+“Those who have knowledge, don’t predict. Those who predict, don’t have knowledge. “ -Lao Tzu
 
 ### So long, 2018.
 
