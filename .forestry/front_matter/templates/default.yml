@@ -67,6 +67,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2016-11-15-economies-of-scale-and-housing.md
 - _posts/2016-11-22-what-a-rate-hike-means-for-buyers.md
 - _posts/2016-12-15-mortgage-before-marriage.md
 - _posts/2017-02-20-renting-with-friends-5-reasons-you-and-your-friends-should-consider-buying-together.md
