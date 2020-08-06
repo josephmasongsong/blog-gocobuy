@@ -67,6 +67,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2018-10-17-how-three-millennials-bought-their-dream-home-together.md
 - _posts/2018-11-12-cobuy-greater-seattle-housing-market-update-nov-2018.md
 - _posts/2018-12-03-case-study-how-co-ownership-helped-a-mother-son-meet-their-unique-goals.md
 - _posts/2018-12-03-cobuy-greater-seattle-housing-market-update-dec-2018.md
@@ -88,4 +89,3 @@ pages:
 - _posts/2019-10-07-cobuy-certified-mortgage-pro-trevor-reese.md
 - _posts/2020-08-03-bay-area-housing-market-update-may-2019.md
 - _posts/2020-08-06-cobuy-bay-area-housing-market-update-dec-2018.md
-- _posts/how-three-millennials-bought-their-dream-home-together.md
