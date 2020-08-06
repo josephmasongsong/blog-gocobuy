@@ -46,7 +46,7 @@ _And what they each brought to the table._
 * **Motivations:** Provide an affordable place to live through retirement, reinforce both of their financial futures.
 * **Monthly Housing Budget:** $1,800
 
-## "I was always worried about how I would afford a home when I retire. Not anymore." - Jenny
+"I was always worried about how I would afford a home when I retire. Not anymore." - Jenny
 
 ## Other Key Facts
 
