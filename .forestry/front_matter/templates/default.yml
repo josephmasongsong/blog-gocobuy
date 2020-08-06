@@ -67,6 +67,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2017-02-20-renting-with-friends-5-reasons-you-and-your-friends-should-consider-buying-together.md
 - _posts/2017-03-29-you-can-t-afford-to-buy-a-home-in-seattle-or-can-you.md
 - _posts/2017-10-25-buying-a-home-with-your-boyfriend-or-girlfriend-part-i.md
 - _posts/2017-11-26-buy-vs.rent-neither.md
