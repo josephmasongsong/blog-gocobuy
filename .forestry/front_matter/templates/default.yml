@@ -67,6 +67,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2018-03-25-should-you-form-an-llc-to-co-buy-a-home.md
 - _posts/2018-04-25-co-buying-a-home-pick-the-right-deal-team.md
 - _posts/2018-06-10-cobuy-greater-seattle-housing-market-update-may-2018.md
 - _posts/2018-06-13-co-owning-a-home-how-to-split-ownership-between-co-buyers.md
@@ -94,4 +95,3 @@ pages:
 - _posts/2019-10-07-cobuy-certified-mortgage-pro-trevor-reese.md
 - _posts/2020-08-03-bay-area-housing-market-update-may-2019.md
 - _posts/2020-08-06-cobuy-bay-area-housing-market-update-dec-2018.md
-- _posts/should-you-form-an-llc-to-co-buy-a-home.md
