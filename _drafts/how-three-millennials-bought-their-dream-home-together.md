@@ -55,7 +55,7 @@ _And what they each brought to the table._
 * **Motivations:** Buy a desirable home near the city center
 * **Monthly Housing Budget:** $1,400
 
-## "We thought about buying a house together, but it didn't "click" until we met with CoBuy." - Olivia
+> "We thought about buying a house together, but it didn't "click" until we met with CoBuy." - Olivia
 
 # Other Key Facts
 
@@ -92,7 +92,7 @@ Step 1
 
 ## Pre-Determining Eligibility
 
-[Before starting their home-buying journey, the group ](http://blog.gocobuy.com/5-reasons-friends-buy-together/)[logged on to CoBuy](https://blog.gocobuy.com/how-three-millenials-bought-home-together-2/www.gocobuy.com)[ to get started and get the threesome on the same page.](http://blog.gocobuy.com/5-reasons-friends-buy-together/)
+[Before starting their home-buying journey, the group ](http://blog.gocobuy.com/5-reasons-friends-buy-together/)[logged on to CoBuy](https://www.gocobuy.com)[ to get started and get the threesome on the same page.](http://blog.gocobuy.com/5-reasons-friends-buy-together/)
 
 They move quickly through the CoBuy Wizard, which transformed complicated scenarios into easy to understand questions. The[ group](https://blog.gocobuy.com/how-three-millenials-bought-home-together-2/#jkrbjmloee) is surprised to learn that there were still a lot issues they hadn’t considered. For example, they had not defined the difference between necessary “maintenance” vs. optional “improvements” and how they would share these expenses.
 
