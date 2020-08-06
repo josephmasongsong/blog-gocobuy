@@ -11,7 +11,7 @@ toc: false
 date: 
 
 ---
-“Those who have knowledge, don’t predict. Those who predict, don’t have knowledge. “ -Lao Tzu
+> “Those who have knowledge, don’t predict. Those who predict, don’t have knowledge. “ -Lao Tzu
 
 ### So long, 2018.
 
@@ -37,7 +37,7 @@ Rising mortgage rates are clearly feeding a cooling off in the housing market. I
 
 In the San Francisco Metro Area, _home values_ are up nearly 10% over the past twelve months and roughly 50% over the past five years. Note the difference between “listing price”, “sale price”, and “home value”. A home isn’t necessarily sold at the _listing price_: often times the _sale price_ is above or below the _listing price_. _Home value_ indices are constructed in the aggregate and sometimes fail to reflect the distribution of price points of homes sold in any given month. Add into the mix seasonal swings and it becomes clear that data needs to be evaluated in context and with regard to the construction of the data set.
 
-[![](https://blog.gocobuy.com/wp-content/uploads/2018/12/medianlistingpricemetro-1-1024x1007.png =800x787)](https://www.realtor.com/research/data "Data sets sourced from Realtor.com Market Data")
+![](/assets/images/medianlistingpricemetro-1-1024x1007.png)
 
 Data sets sourced from Realtor.com Market Data
 
@@ -45,7 +45,7 @@ The rapid appreciation of home prices in the Bay is slowing on an annualized bas
 
 Turning to the supply side, overall inventory of homes on the market has increased notably.
 
-[![](https://blog.gocobuy.com/wp-content/uploads/2018/12/activelistingsmetro-1024x980.png =800x766)](https://www.realtor.com/research/data "Datasets sourced from Realtor.com Market Data.")
+![](/assets/images/activelistingsmetro-1024x980.png)
 
 Datasets sourced from Realtor.com Market Data.
 
@@ -57,7 +57,7 @@ Datasets sourced from Realtor.com Market Data.
 
 As supply increases and the supply and demand dynamic rebalances, we are seeing hyper-local price action. The heat map below ranks zip codes by the ratio of increases to decreases in listing price last month. The light blue indicates a zip code ranked _higher_: it had relatively more increases versus decreases to listing prices in relation to other zip codes.
 
-[![](https://blog.gocobuy.com/wp-content/uploads/2018/12/priceactionbyzip-1024x622.png =800x486)](https://www.realtor.com/research/data "Datasets sourced from Realtor.com Market Data.")
+![](/assets/images/priceactionbyzip-1024x622.png)
 
 Datasets sourced from Realtor.com Market Data.
 
@@ -75,7 +75,7 @@ The _median list price_ for a one-bedroom in the SF-Oakland-Hayward Metro Area i
 
 At the current list price for a four-bedroom home, four individuals could each contribute $60k in cash towards down payment and fixed costs up front. By pooling resources to jointly purchase a home, the financial hurdle to homeownership is substantially reduced.
 
-![](https://blog.gocobuy.com/wp-content/uploads/2018/12/economiesofscale-2-1024x378.png =800x295)
+![](/assets/images/economiesofscale-2-1024x378.png)
 
 ### Context is key
 
