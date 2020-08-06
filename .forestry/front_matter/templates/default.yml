@@ -67,6 +67,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2016-10-05-the-essentials-what-you-ll-need-to-co-buy.md
 - _posts/2016-10-27-cobuy-is-live-gocobuy.com.md
 - _posts/2016-10-27-interview-with-a-co-buyer.md
 - _posts/2016-11-09-a-real-estate-pro-s-view-on-co-buying.md
@@ -108,4 +109,3 @@ pages:
 - _posts/2019-10-07-cobuy-certified-mortgage-pro-trevor-reese.md
 - _posts/2020-08-03-bay-area-housing-market-update-may-2019.md
 - _posts/2020-08-06-cobuy-bay-area-housing-market-update-dec-2018.md
-- _posts/the-essentials-what-you-ll-need-to-co-buy.md
