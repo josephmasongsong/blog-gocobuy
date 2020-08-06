@@ -67,6 +67,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2018-09-30-top-10-myths-about-cobuying-a-home.md
 - _posts/2018-10-17-how-three-millennials-bought-their-dream-home-together.md
 - _posts/2018-11-12-cobuy-greater-seattle-housing-market-update-nov-2018.md
 - _posts/2018-12-03-case-study-how-co-ownership-helped-a-mother-son-meet-their-unique-goals.md
