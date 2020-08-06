@@ -67,6 +67,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/10-reasons-you-may-want-to-buy-a-home-now.md
 - _posts/2017-12-12-cobuy-greater-seattle-housing-market-survey.md
 - _posts/2018-02-20-how-to-buy-a-home-with-your-boyfriend-or-girlfriend-part-2.md
 - _posts/2018-03-25-should-you-form-an-llc-to-co-buy-a-home.md
