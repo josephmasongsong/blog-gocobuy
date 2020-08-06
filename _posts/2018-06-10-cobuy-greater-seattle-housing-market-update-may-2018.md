@@ -54,7 +54,7 @@ Here’s what some of our respondents had to say about the market:
 
 Here’s what one CoBuy-certified™ Pro has to say about a recent purchase involving CoBuyers in Seattle.
 
-[![](/assets/images/cobuy-certified-agent.png)]()
+[![](/assets/images/cobuy-certified-agent.png)](https://www.facebook.com/CoBuyUSA/videos/1841273032842075/)
 
 ### Survey Responses
 
@@ -62,7 +62,7 @@ Here are the raw survey results from our network of real estate professionals:
 
 ![](/assets/images/unnamed-10.png)
 
-![](/assets/images/unnamed-9.png) 
+![](/assets/images/unnamed-9.png)
 
 ![](/assets/images/unnamed-8.png)
 
@@ -76,8 +76,8 @@ Here are the raw survey results from our network of real estate professionals:
 
 ![](/assets/images/unnamed-3.png)
 
-![](https://blog.gocobuy.com/wp-content/uploads/2018/05/unnamed-2.png =762x369) 
+![](/assets/images/unnamed-2.png)
 
-![](https://blog.gocobuy.com/wp-content/uploads/2018/05/unnamed-11.png =755x341)
+![](/assets/images/unnamed-11.png)
 
 For more info on how to get in on the housing market, check out [CoBuy](http://www.gocobuy.com/) or [subscribe to our mailing list](http://eepurl.com/dlB23z). Our online platform makes it easy to buy a home with friends, family, or a loved one. We guide you through the process from start to finish, assisting with planning, joint financing, and preparing a co-ownership agreement.
