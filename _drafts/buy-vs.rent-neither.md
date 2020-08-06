@@ -1,0 +1,25 @@
+---
+categories: []
+author: mat
+layout: post
+title: Buy vs. Rent? Neither.
+description: Tired of renting? Consider co-buying. We break down the all-in cost of
+  renting versus co-buying a home over a 3 year period. The numbers may surprise you.
+permalink: buy-vs-rent-neither
+date: 2017-11-26 20:00:00 +0000
+image: "/assets/images/screen-shot-2017-11-28-at-12-38-28-pm-1600x900.png"
+hidden: false
+toc: false
+
+---
+<canvas class="pdfemb-the-canvas" style="width: 700px; height: 905px;" width="1400" height="1810"></canvas>
+
+Seattle rents are sky-rocketing. According to a recent report, the average one-bedroom apartment now goes for $1,800 a month in the Emerald City. That’s $21,600 of after-tax income going towards paying off someone else’s mortgage.
+
+Many of us would choose to own our home if it were possible. Avoiding rent increases and moving, building equity, and living in a place we can truly call _home_ are attractive features of homeownership. Owning a home is even more compelling when one considers that their monthly housing cost could be similar to what they’re paying in rent. But often times, the key hurdle is getting enough cash together to cover the down payment. The “buy versus rent” decision is simplified to “rent”.
+
+### What if there was a better way?
+
+Co-ownership is a nifty third option that is gaining traction. By pooling resources to buy a home it is easier to clear the down payment hurdle. Co-buying a home can be financially advantageous even in the short term. As with any purchase, there are risks. But with the right planning and protection, co-buying can be a great route to living in and owning a home of your own. And by “buddying up” you actually diversify your risk versus buying alone.
+
+Want to know more? [Get in touch](https://blog.gocobuy.com/contact/).
