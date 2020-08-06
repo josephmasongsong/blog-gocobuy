@@ -20,7 +20,7 @@ Jenny, a long-divorced mother in her early 60’s and her 30-something-year-old 
 
 This is their story.
 
-**At CoBuy we respect everyone who comes to us for help. So while their stories are true, client names, images and details may have been changed to protect their privacy.** 
+**At CoBuy we respect everyone who comes to us for help. So while their stories are true, client names, images and details may have been changed to protect their privacy.**
 
 ![](/assets/images/logo-blue-email.png)
 
