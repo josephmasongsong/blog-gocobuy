@@ -67,6 +67,7 @@ fields:
   hidden: true
   default: post
 pages:
+- _posts/2018-11-12-cobuy-greater-seattle-housing-market-update-nov-2018.md
 - _posts/2018-12-03-case-study-how-co-ownership-helped-a-mother-son-meet-their-unique-goals.md
 - _posts/2018-12-03-cobuy-greater-seattle-housing-market-update-dec-2018.md
 - _posts/2019-01-02-cobuy-greater-seattle-housing-market-update-jan-2019.md
