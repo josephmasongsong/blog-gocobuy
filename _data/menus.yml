@@ -6,4 +6,11 @@ header:
   - url: /contact
     title: Contact
     identifier: contact
+contact:
+  - url: mailto:hello@gocobuy.com
+    title: hello@gocobuy.com
+    identifier: hello@gocobuy.com
+  - url: tel:206-651-5551
+    title: 206-651-5551
+    identifier: 206-651-5551
 ---

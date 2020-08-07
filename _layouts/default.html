@@ -221,12 +221,11 @@
             <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Contact Us</h5>
 
             <ul class="list-unstyled">
-              <li>
-                <a href="mailto:hello@gocobuy.com">hello@gocobuy.com</a>
-              </li>
-              <li>
-                <a href="tel:206-651-5551">206-651-5551</a>
-              </li>
+              {% for item in site.menus.contact %}
+                <li>
+                  <a href="{{ item.url }}">{{ item.title }}</a>
+                </li>
+              {% endfor %}
             </ul>
 
           </div>
@@ -247,29 +246,19 @@
                   Friend</a></li>
             </ul>
           </div>
-          <!-- Grid column -->
 
           <hr class="clearfix w-100 d-md-none">
 
-          <!-- Grid column -->
           <div class="col-md-3 mx-auto">
-
-            <!-- Links -->
             <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Legal</h5>
             <ul class="list-unstyled">
               <li><a href="/privacy-policy">Privacy Policy</a></li>
               <li><a href="/terms-of-use">Terms of Use</a></li>
             </ul>
-
           </div>
-          <!-- Grid column -->
-
         </div>
-        <!-- Grid row -->
 
         <div class="row pt-5">
-
-          <!-- Grid column -->
           <div class="col-md-12">
             <div class="text-center">
               <!-- Facebook -->
