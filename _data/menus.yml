@@ -1,11 +1,17 @@
 ---
 header:
+  - url: /
+    title: Home
+    identifier: home
   - url: /about
     title: About
     identifier: about
-  - url: /contact
-    title: Contact
-    identifier: contact
+  - url: /stories
+    title: CoBuyer Stories
+    identifier: stories
+  - url: /refer
+    title: Refer a Friend
+    identifier: refer
 contact:
   - url: mailto:hello@gocobuy.com
     title: hello@gocobuy.com
