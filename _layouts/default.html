@@ -240,10 +240,11 @@
             <h5 class="font-weight-bold text-uppercase mt-3 mb-4">Company</h5>
 
             <ul class="list-unstyled">
-              <li><a href="/about">About</a></li>
-              <li><a href="/stories">CoBuyer Stories</a></li>
-              <li><a aria-current="page" class="" href="/refer">Refer a
-                  Friend</a></li>
+              {% for item in site.menus.footer %}
+                <li>
+                  <a href="{{ item.url }}">{{ item.title }}</a>
+                </li>
+              {% endfor %}
             </ul>
           </div>
 

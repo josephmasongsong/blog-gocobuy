@@ -13,4 +13,14 @@ contact:
   - url: tel:206-651-5551
     title: 206-651-5551
     identifier: 206-651-5551
+footer:
+  - url: /about
+    title: About
+    identifier: about
+  - url: /stories
+    title: CoBuyer Stories
+    identifier: stories
+  - url: /refer
+    title: Refer a Friend
+    identifier: refer
 ---
