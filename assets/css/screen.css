@@ -19,13 +19,25 @@ License: https://www.wowthemes.net/freebies-license/
 }
 
 a {
-  color: #00ab6b;
+  color: #3899da;
   transition: all 0.2s;
 }
 
 a:hover {
-  color: #038252;
   text-decoration: none;
+}
+
+.btn-outline-blue {
+  color: #3899da;
+  background-color: white;
+  border-color: #3899da;
+}
+
+.btn-outline-blue:hover {
+  color: #fff;
+  background-color: #3899da;
+  border-color: #3899da;
+
 }
 
 pre {
