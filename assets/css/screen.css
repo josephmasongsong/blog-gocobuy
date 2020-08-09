@@ -35,17 +35,16 @@ a:hover {
   background-color: #3899da !important;
 }
 
-.btn-outline-blue {
-  color: #3899da;
-  background-color: white;
-  border-color: #3899da;
-}
-
-.btn-outline-blue:hover {
+.btn-blue {
   color: #fff;
   background-color: #3899da;
   border-color: #3899da;
+}
 
+.btn-blue:hover {
+  color: #3899da;
+  background-color: white;
+  border-color: #3899da;
 }
 
 pre {
