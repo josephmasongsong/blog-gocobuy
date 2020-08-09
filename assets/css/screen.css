@@ -27,6 +27,14 @@ a:hover {
   text-decoration: none;
 }
 
+.text-blue {
+  color: #3899da !important;
+}
+
+.bg-blue {
+  background-color: #3899da !important;
+}
+
 .btn-outline-blue {
   color: #3899da;
   background-color: white;
