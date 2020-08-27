@@ -1,0 +1,217 @@
+<script src="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment.min.js"></script>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/instantsearch.js@2.6.0/dist/instantsearch-theme-algolia.min.css">
+<base href="{{ site.baseurl }}">
+
+<script>
+const search = instantsearch({
+  appId: '{{ site.algolia.application_id }}',
+  apiKey: '{{ site.algolia.search_only_api_key }}',
+  indexName: '{{ site.algolia.index_name }}'
+});
+
+const hitTemplate = function(hit) {
+  let date = '';
+  if (hit.date) {
+    date = moment.unix(hit.date).format('MMM D, YYYY');
+  }
+  let url = `{{ site.baseurl }}${hit.url}#${hit.anchor}`;
+
+  const title = hit._highlightResult.title.value;
+
+  let breadcrumbs = '';
+  if (hit._highlightResult.headings) {
+    breadcrumbs = hit._highlightResult.headings.map(match => {
+      return `<span class="post-breadcrumb">${match.value}</span>`
+    }).join(' > ')
+  }
+  const content = hit._highlightResult.html.value;
+
+  return `
+  <div class="mb-30px card-group">
+    <div class="card h-100">
+      <div class="maxthumb">
+        <a href="${url}">
+          <img class="img-fluid"
+            src="${hit.image}"
+            alt="${title}">
+        </a>
+      </div>
+      <div class="card-body">
+        <div class="popUpWord">
+          <h2 class="card-title">
+            <a href="${url}">${title}</a>
+          </h2>
+        </div>
+        <p class="card-text mb-2">${hit.description}</p>
+        <span class="font-weight-bold text-uppercase d-block" style="font-size: 0.75rem;">
+          <a href="${url}" title="Read Story">
+            Read More &rarr;
+          </a>
+        </span>
+      </div>
+    </div>
+
+  </div>
+  `;
+}
+
+const menuTemplate = function(menuItem) {
+  return `
+    <a href="${menuItem.url}" class="text-sm btn btn-light btn-sm">${menuItem.label.toLowerCase()}</a>
+  `
+}
+
+search.addWidget(
+  instantsearch.widgets.searchBox({
+    container: '#search-searchbar',
+    placeholder: 'Search into posts...',
+    poweredBy: false
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.clearAll({
+    container: '#clear-refinements',
+    autoHideContainer: false,
+    templates: {
+      link: 'all'
+    },
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.hits({
+    container: '#search-hits',
+    templates: {
+      item: hitTemplate
+    }
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.menu({
+    container: '#menu',
+    attributeName: 'categories',
+    templates: {
+      item: menuTemplate,
+    }
+  })
+);
+
+search.addWidget(
+  instantsearch.widgets.pagination({
+    container: '#pagination',
+  })
+);
+
+
+search.start();
+</script>
+
+<style>
+  .ais-hits--item:hover .maxthumb {
+    transform: scale(1.05);
+  }
+  .ais-pagination {
+    box-shadow: none;
+    border: 0;
+  }
+  .ais-pagination--item__active {
+    background: #3899da;
+  }
+  #clear-refinements > div {
+    float: left;
+  }
+  #clear-refinements > div > .ais-root.ais-clear-all {
+    display: inline-block;
+    margin-right: 0.25rem;
+    font-size: 14px;
+    line-height: 30px;
+  }
+  .ais-root.ais-clear-all .ais-body.ais-clear-all--body .ais-clear-all--link.ais-clear-all--link-disabled {
+    padding: .25rem .5rem;
+    font-size: .875rem;
+    line-height: 1.5;
+    border-radius: .2rem;
+  }
+  .ais-clear-all--link.ais-clear-all--link-disabled {
+    opacity: 1;
+    pointer-events: none;
+    background: #3899da;
+    color: #fff;
+    border-color: #3899da;
+  }
+  .ais-clear-all--link {
+    padding: .25rem .5rem;
+    font-size: .875rem;
+    line-height: 1.5;
+    border-radius: .2rem;
+    display: inline-block;
+    text-decoration: none;
+    color: #000;
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+    text-align: center;
+    vertical-align: middle;
+  }
+  .ais-clear-all--link:hover {
+    background-color: #e2e6ea;
+    border-color: #dae0e5;
+    color: #000;
+  }
+  .ais-menu--item {
+    display: inline-block;
+    margin-right: 0.25rem;
+  }
+  .ais-hits {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+  }
+  .ais-hits--item {
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+.ais-search-box {
+  max-width: 100%;
+  margin-bottom: 15px;
+}
+.post-item {
+  margin-bottom: 30px;
+}
+.post-link .ais-Highlight {
+  color: #111;
+  font-style: normal;
+  text-decoration: underline;
+}
+.post-breadcrumbs {
+  color: #424242;
+  display: block;
+}
+.post-breadcrumb {
+  font-size: 18px;
+  color: #424242;
+}
+.post-breadcrumb .ais-Highlight {
+  font-weight: bold;
+  font-style: normal;
+}
+.post-snippet .ais-Highlight {
+  color: #2a7ae2;
+  font-style: normal;
+  font-weight: bold;
+}
+.post-snippet img {
+  display: none;
+}
+/* .ais-search-box--powered-by {
+  display: none;
+} */
+</style>

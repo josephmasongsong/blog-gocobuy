@@ -9,7 +9,7 @@ permalink: /about
 <p>We guide folks who don’t fit into the box of a traditional “nuclear family” through the process of buying a home
   together, start to finish. Our focus is on making co-ownership simpler, safer, and more affordable</p>
 
-<div class='about-header'>
+<div class='about-header' style="margin-top: 2rem; margin-bottom: 2rem;">
   <h4>Who we are</h4>
   <div class="decor-line"></div>
 </div>
@@ -29,8 +29,8 @@ permalink: /about
 {% for a in site.data.authors %}
 {% assign author = a[1] %}
 
-<div class="row post-top-meta">
-  <div class="col-xs-12 col-md-4 col-lg-3 text-center text-md-left mb-4 mb-md-0">
+<div class="row post-top-meta mt-5">
+  <div class="col-xs-12 col-md-4 col-lg-3 text-center text-md-left mb-4 mb-md-0 text-md-center">
     <div>
       {% if author.avatar %}
       <img class="author-thumb" src="{{site.baseurl}}/{{ author.avatar }}" alt="{{ author.display_name }}">
@@ -38,8 +38,8 @@ permalink: /about
       <img class="author-thumb" src="https://www.gravatar.com/avatar/{{ author.gravatar }}?s=250&d=mm&r=x" alt="{{ author.display_name }}">
       {% endif %}
     </div>
-    {{ author.display_name }}<br/>
-    {{ author.title }} <a href="{{author.linkedin}}" target="_blank" rel="noopener noreferrer">
+    <strong>{{ author.display_name }}</strong><br/>
+    <span style="color:#718096; font-weight:500; font-size: 0.875rem; vertical-align: middle;">{{ author.title }}</span> <a href="{{author.linkedin}}" target="_blank" rel="noopener noreferrer">
       <svg viewBox="0 0 64 64" width="30" height="30">
       <circle cx="32" cy="32" r="31" fill="#007fb1"></circle>
       <path
@@ -55,7 +55,7 @@ permalink: /about
 
 
 
-<div class='about-header'>
+<div class='about-header' style="margin-top: 2rem; margin-bottom: 2rem;">
   <h4>What we do</h4>
   <div class="decor-line"></div>
 </div>
@@ -87,7 +87,7 @@ permalink: /about
 </p>
 
 
-<div class='about-header'>
+<div class='about-header' style="margin-top: 2rem; margin-bottom: 2rem;">
   <h4>Why we do it</h4>
   <div class="decor-line"></div>
 </div>
@@ -112,17 +112,37 @@ permalink: /about
   framework or support, co-ownership isn’t feasible for many folks who are, in fact, interested. We’re fixing that.
 </p>
 
-<div class='about-header'>
+<div class='about-header' style="margin-top: 2rem; margin-bottom: 2rem;">
   <h4>Our values</h4>
   <div class="decor-line"></div>
 </div>
 
 <p>Values guide everything we do:</p>
-<ul>
-  <li>Transparency</li>
-  <li>Accessibility</li>
-  <li>Credibility</li>
-  <li>Accountability</li>
-</ul>
+
+<section>
+  <div class="row">
+    <div class="col-sm-6 text-center">
+      <i class="fas fa-book-open fa-3x"></i>
+      <h6 class="mt-2" style="color: #3899da;">Transparency</h6>
+    </div>
+    <div class="col-sm-6 text-center">
+      <i class="fas fa-key fa-3x"></i>
+      <h6 class="mt-2" style="color: #3899da;">Accessibility</h6>
+    </div>
+    <div class="col-sm-6 text-center mt-5">
+      <i class="fas fa-shield-check fa-3x"></i>
+      <h6 class="mt-2" style="color: #3899da;">Credibility</h6>
+    </div>
+    <div class="col-sm-6 text-center mt-5">
+      <i class="far fa-handshake fa-3x"></i>
+      <h6 class="mt-2" style="color: #3899da;">Accountability</h6>
+    </div>
+  </div>
+</section>
+
+
+
+
+
 
 Short. Simple. Powerful.

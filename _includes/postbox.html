@@ -1,7 +1,7 @@
-<!-- begin post -->
+
 {% assign author = site.data.authors[post.author] %}
 
-<div class="col-lg-4 col-md-6 mb-30px card-group">
+<div class="col-lg-4 col-md-6 mb-30px card-group outPop">
   <div class="card h-100">
     <div class="maxthumb">
       <a href="{{ site.baseurl }}{{ post.url }}">
@@ -22,7 +22,7 @@
       </a>
     </div>
     <div class="card-body">
-      <h2 class="card-title">
+      <h2 class="card-title popUpWord">
         <a class="text-dark" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         {% if post.rating %}
         <div class="mb-2 mt-2 font-weight-normal">
@@ -30,18 +30,12 @@
         </div>
         {% endif %}
       </h2>
-      <h4 class="card-text">{{ post.description | strip_html }}</h4>
-    </div>
-    <div class="card-footer bg-white">
-      <div class="text-center">
-        <span class="font-weight-bold text-uppercase">
-          <a href="{{ site.baseurl }}{{ post.url }}" title="Read Story">
-            Read More
-          </a>
-        </span>
-        <div class="clearfix"></div>
-      </div>
+      <p class="card-text">{{ post.description | strip_html }}</p>
+      <span class="font-weight-bold text-uppercase mt-1 d-block" style="font-size: 0.875rem;">
+        <a href="{{ site.baseurl }}{{ post.url }}" title="Read Story">
+          Read More &rarr;
+        </a>
+      </span>
     </div>
   </div>
 </div>
-<!-- end post -->
