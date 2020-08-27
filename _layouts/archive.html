@@ -3,12 +3,20 @@ layout: default
 title: Archive
 ---
 
+<div class="mb-5">
+<a href="/" class="text-sm btn btn-light btn-sm">all</a>
+{% for category in site.categories %}
+{% capture category_name %}{{ category | first | slugify }}{% endcapture %}
+  <a href="/{{ category | first | slugify }}" class="{% if page.url contains category_name %}active {% endif %}text-sm btn btn-light btn-sm">{{ category | first | downcase }}</a>
+{% endfor %}
+</div>
+
 <!-- Begin List Posts
 ================================================== -->
 <section class="recent-posts">
-<div class="section-title">
+<!-- <div class="section-title">
     <h2>Archive of posts with <span>{{ page.type }} '{{ page.title }}'</span></h2>
-</div>
+</div> -->
 <div class="row listrecent">
 
 {% for post in page.posts %}
@@ -19,3 +27,12 @@ title: Archive
 
 </div>
 </section>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<span class="navigation my-4" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
