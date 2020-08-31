@@ -61,6 +61,11 @@ hr {
   margin: 3rem 0;
 }
 
+.navbar-light .navbar-nav .nav-link:hover {
+  border-bottom-color: rgb(56, 153, 218);
+  color: black;
+}
+
 // ### FOOTER
 
 .footer-menu {
@@ -153,6 +158,10 @@ ul {
 	border-bottom: 4px solid rgb(56, 153, 218);
 }
 
+.posttitle {
+  color: rgb(56, 153, 218);
+}
+
 .card {
 	border: 0;
 }
@@ -186,9 +195,13 @@ ul {
     background-position: 100%;
   }
 }
-.ais-hits--item:hover .popUpWord a {
+.ais-hits--item:hover .popUpWord a, .card-group:hover .popUpWord a {
   transition: all 1s cubic-bezier(0.000, 0.000, 0.230, 1);
   background-position: 0%;
+}
+
+.card-group:hover .maxthumb {
+  transform: scale(1.05);
 }
 
 .listrecent .card-text {
