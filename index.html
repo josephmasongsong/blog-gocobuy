@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Home
+pagination:
+  enabled: true
+  sort_reverse: true
 ---
 
 {% if page.url == "/" %}
@@ -31,34 +34,44 @@ title: Home
 
 <!-- <h1 class="text-5xl">Resources</h1> -->
 
-<div id="search-searchbar" style="width: 330px; margin-bottom: 1rem;"></div>
+<!-- <div id="search-searchbar" style="width: 330px; margin-bottom: 1rem;"></div> -->
 
-<!-- <div class="mb-5">
+<div class="mb-5">
 <a href="/" class="text-sm active btn btn-light btn-sm">all</a>
 
 {% for category in site.categories %}
 {% capture category_name %}{{ category | first | slugify }}{% endcapture %}
   <a href="/{{ category | first | slugify }}" class="{% if page.url contains category_name %}active {% endif %}text-sm btn btn-light btn-sm">{{ category | first | downcase }}</a>
 {% endfor %}
-</div> -->
+</div>
 
-
+<!--
 <div id="clear-refinements"></div>
 
-<div id="menu"></div>
+<div id="menu"></div> -->
 
 
 <!-- Posts Index
 ================================================== -->
-<section class="recent-posts" style="margin-top: 2rem;">
+<section class="recent-posts">
     <!--
     <div class="section-title">
         <h2><span>All Stories</span></h2>
     </div>
     -->
 
-    <div class="listrecent" id="search-hits">
+    <!-- <div class="listrecent" id="search-hits">
 
+
+    </div> -->
+
+    <div class="row listrecent">
+
+        {% for post in paginator.posts %}
+
+        {% include postbox.html %}
+
+        {% endfor %}
 
     </div>
 
@@ -68,13 +81,13 @@ title: Home
 
 <!-- Pagination
 ================================================== -->
-<!-- <div class="bottompagination">
-<div class="pointerup"><i class="fa fa-caret-up"></i></div>
+<div class="bottompagination">
+<!-- <div class="pointerup"><i class="fa fa-caret-up"></i></div> -->
 <span class="navigation my-4" role="navigation">
     {% include pagination.html %}
 </span>
-</div> -->
+</div>
 
 <div id="pagination" style="text-align:center;"></div>
 
-{% include algolia.html %}
+<!-- {% include algolia.html %} -->
