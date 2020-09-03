@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Terms Of Use
-permalink: /terms-of-use
+permalink: "/terms-of-use-1"
+
 ---
 <div name="termly-embed" data-id="48c1b95e-6a8a-4446-80f7-41f5b78744b7" data-type="iframe"></div>
 
