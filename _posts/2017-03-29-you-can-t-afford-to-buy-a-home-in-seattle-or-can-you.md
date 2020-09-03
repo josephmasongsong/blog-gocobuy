@@ -5,8 +5,8 @@ layout: post
 title: You can’t afford to buy a home in Seattle…or can you?
 description: Buying a home may be more feasible than you think. Pool resources, take
   advantage of economies of scale, and split the down payment by co-buying a home.
-permalink: cant-afford-buy-home-seattleor-can
-date: 2017-03-29 20:00:00 +0000
+permalink: cant-afford-buy-home-seattleor-can-you
+date: 2017-03-29T20:00:00.000+00:00
 image: "/assets/images/friends-bbq-1600x900.png"
 hidden: false
 toc: false
