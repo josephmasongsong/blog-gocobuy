@@ -1,5 +1,5 @@
 # Site
-name: "CoBuy"
+name: "CoBuy Blog"
 title: "CoBuy"
 description: "Info and resources for anyone looking to co-buy a home in greater Seattle."
 logo: 'assets/images/logo.png'
@@ -16,7 +16,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-seo-tag
   - jekyll-archives
   - jekyll-menus
   - jekyll-embeds
@@ -52,9 +51,3 @@ adsense-data-ad-slot: "1363087678"
 lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
-
-algolia:
-  application_id: 'T13R4NRMHN'
-  index_name: prod_COBUY_BLOG
-  search_only_api_key: 'dd8a2374ff7634e63075abe9a0b39ff0'
-  vars: ["title", "description", "date", "url", "categories", "image", "author", "permalink"]
