@@ -4,7 +4,7 @@ title: Privacy Policy 2
 permalink: privacy-policy-2
 
 ---
-PRIVACY NOTICE
+**PRIVACY NOTICE**
 
 Last updated May 03, 2020
 
@@ -16,7 +16,7 @@ This privacy notice applies to all information collected through our Services (w
 
 Please read this privacy notice carefully as it will help you understand what we do with the information that we collect.
 
-TABLE OF CONTENTS
+**TABLE OF CONTENTS**
 
 1\. WHAT INFORMATION DO WE COLLECT?
 
@@ -77,14 +77,8 @@ We may process or share your data that we hold based on the following legal basi
 More specifically, we may need to process your data or share your personal information in the following situations:
 
 * Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
-
-
 * Affiliates. We may share your information with our affiliates, in which case we will require those affiliates to honor this privacy notice. Affiliates include our parent company and any subsidiaries, joint venture partners or other companies that we control or that are under common control with us.
-
-
 * Business Partners. We may share your information with our business partners to offer you certain products, services or promotions.
-
-
 * Other Users. When you share personal information or otherwise interact with public areas of the Services, such personal information may be viewed by all users and may be publicly made available outside the Services in perpetuity. Similarly, other users will be able to view descriptions of your activity, communicate with you within our Services, and view your profile.
 
 **3. DO WE USE COOKIES AND OTHER TRACKING TECHNOLOGIES?**
