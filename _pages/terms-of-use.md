@@ -230,4 +230,4 @@ Seattle, WA 98104
 United States
 
 Phone: (+1)2066515551  
-info@gocobuy.com
+[info@gocobuy.com](mailto:info@gocobuy.com)
