@@ -4,7 +4,6 @@ categories:
 - CoBuying
 - real estate
 - How to
-- New
 tags: []
 layout: post
 title: 'CoBuy-certified™ Mortgage Pro: Trevor Reese'
