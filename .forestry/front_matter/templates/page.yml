@@ -26,6 +26,11 @@ fields:
   config:
     maxSize: 64
   label: image
+- name: canonical_url
+  type: text
+  config:
+    required: false
+  label: canonical url
 pages:
 - _pages/privacy-policy-2.md
 - _pages/terms-of-use.md
