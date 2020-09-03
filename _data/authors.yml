@@ -16,3 +16,12 @@ pat:
   avatar: "assets/images/pat.png"
   avatar_small: "assets/images/pat-small.png"
   description: "Veteran real estate, construction, investment, and insurance executive/entrepreneur with 25 years in leadership positions. Led six-sigma efforts at GE Financial Assurance. Founded & ran HBC, a builder-developer of homes and condos across Greater Seattle. Licensed RE agent, Principal Managing Broker, and Real Estate Investment Advisor. Life-long student, investor, co-buyer."
+cobuy:
+  name: CoBuy
+  display_name: CoBuy
+  email: info@gocobuy.com
+  title: CoBuyUSA
+  linkedin: https://www.linkedin.com/company/cobuy/
+  avatar: "assets/images/cobuy-blue-bg.png"
+  avatar_small: "assets/images/cobuy-blue-bg.png"
+  description: "CoBuy makes it easier to buy and own a home with friends, family, or your partner — intelligently."
