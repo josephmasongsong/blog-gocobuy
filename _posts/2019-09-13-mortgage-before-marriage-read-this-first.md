@@ -8,7 +8,7 @@ description: Buying a home with your partner outside of marriage doesn't have to
   of mind.
 image: "/assets/images/mortgage-before-marriage-unmarried-couple-co-buying-1600x900.jpeg"
 featured: false
-hidden: true
+hidden: false
 date: 2020-08-31 20:00:00 +0000
 permalink: "/mortgage-before-marriage-read-this-first"
 toc: false
