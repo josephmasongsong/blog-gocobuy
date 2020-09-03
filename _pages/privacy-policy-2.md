@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Privacy Policy 2
-permalink: privacy-policy-2
+title: Privacy Policy
+permalink: privacy-policy
 
 ---
 **PRIVACY NOTICE**
