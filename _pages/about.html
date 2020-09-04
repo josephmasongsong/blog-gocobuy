@@ -32,7 +32,7 @@ image: "/assets/images/cobuy-fb-image.png"
 
 {% for a in site.data.authors %}
 {% assign author = a[1] %}
-
+{% unless author.display_name contains "CoBuy" %}
 <div class="row post-top-meta mt-5">
   <div class="col-xs-12 col-md-4 col-lg-3 text-center text-md-left mb-4 mb-md-0 text-md-center">
     <div>
@@ -55,6 +55,7 @@ image: "/assets/images/cobuy-fb-image.png"
       <span class="author-description">{{ author.description }}</span>
   </div>
 </div>
+{% endunless %}
 {% endfor %}
 
 
