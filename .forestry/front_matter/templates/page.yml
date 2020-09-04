@@ -9,6 +9,11 @@ fields:
 - type: text
   name: title
   label: title
+- name: og_title
+  type: text
+  config:
+    required: false
+  label: og title
 - type: text
   name: permalink
   label: permalink
